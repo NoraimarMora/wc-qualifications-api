@@ -19,5 +19,19 @@ func setupRoutes(repository inmem.Repository) *gin.Engine {
 	// Health check of the app.
 	prefix.GET("/health", handler.HealthCheck)
 
+	prefix.GET("/countries", handler.GetCountries)
+	prefix.GET("/countries/:country_id", handler.GetCountryByID)
+
+	prefix.GET("/leagues", handler.GetLeagues)
+	prefix.GET("/leagues/:league_id", handler.GetLeagueByID)
+
+	prefix.GET("/matches", handler.GetMatches)
+	prefix.GET("/matches/:league_id", handler.GetMatchsByLeagueID)
+	prefix.GET("/matches/:league_id/:match_id", handler.GetMatchByID)
+
+	prefix.GET("/standings", handler.GetStandings)
+	prefix.GET("/standings/:league_id", handler.GetStandingsByLeagueID)
+	prefix.GET("/standings/:league_id/:country_id", handler.GetStandingsByCountryID)
+
 	return router
 }

@@ -50,3 +50,11 @@ func (r *Memory) GetLeagues() map[int]model.League {
 	}
 	return r.leagues
 }
+
+func (r *Memory) GetCountryByID(countryID int) model.Country {
+	if country, ok := r.countries[countryID]; ok {
+		return country
+	}
+
+	return model.Country{}
+}
