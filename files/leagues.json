@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "FIFA World Cup 26™ AFC Qualifiers",
+            "es": "Eliminatorias AFC Mundial de la FIFA 26™"
+        },
+        "alias": "AFC",
+        "logo": "https://digitalhub.fifa.com/transform/e12f3909-22cc-437f-bc27-bb8affc04d15/Logo_AFC_lbg",
+        "year": 2026,
+        "qualification_process": {
+            "en": [
+                "The first round of the AFC qualifying competition for the FIFA World Cup 26 was held in October 2023. Twenty teams will contest 10 two-legged home-and-away qualifiers, with the winners joining 26 other nations in the second round, which will consist of nine groups of four teams.",
+                "From 13 November 2023 to 11 June 2024, each team will play home and away, with the top two from each group qualifying for the third round.",
+                "The remaining 18 teams will be divided into three groups of six, with each team playing home and away between September 2024 and June 2025. The top two from those groups will secure a place at the FIFA World Cup 26.",
+                "The fourth round, which heralds the start of the Asian qualifiers, is made up of the six teams that finished third and fourth respectively in the third round groups. They will be divided into two groups of three from October 2025, with the winners of these groups qualifying for the finals.",
+                "Finally, the fifth round, to be held in November 2025, will see the two second-placed teams from the fourth round group face each other in a single match. The winner will advance to the FIFA Play-Off Tournament."
+            ],
+            "es": [
+                "La primera ronda de la competición preliminar de la AFC para la Copa Mundial de la FIFA 26 se celebró en octubre de 2023. Veinte equipos disputarán 10 eliminatorias a doble partido en casa y a domicilio, y los ganadores se unirán a otras 26 naciones en la segunda ronda, que constará de nueve grupos de cuatro equipos.",
+                "Desde el 13 de noviembre de 2023 hasta el 11 de junio de 2024, cada equipo jugará en casa y fuera, y los dos primeros de cada grupo se clasificarán para la tercera ronda.",
+                "Las 18 selecciones restantes se dividirán en tres grupos de seis, en los que cada equipo jugará en casa y a domicilio entre septiembre de 2024 y junio de 2025. Los dos primeros de esos grupos se asegurarán una plaza en el Mundial 26.",
+                "La cuarta ronda, que anuncia el comienzo de las eliminatorias asiáticas, está compuesta por los seis equipos que hayan quedado tercero y cuarto respectivamente en los grupos de la tercera ronda. Se dividirán en dos grupos de tres a partir de octubre de 2025, y los ganadores de estos grupos se clasificarán para la fase final.",
+                "Por último, la quinta ronda, que se celebrará en noviembre de 2025, enfrentará a los dos equipos que hayan quedado segundos en el grupo de la cuarta ronda en un duelo a partido único. El ganador accederá al Torneo de Repesca de la FIFA."
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "FIFA World Cup 26™ CAF Qualifiers",
+            "es": "Eliminatorias CAF Mundial de la FIFA 26™"
+        },
+        "alias": "CAF",
+        "logo": "https://digitalhub.fifa.com/transform/19811173-5528-4b5a-a733-24a4e973d4e4/CAF-Logo",
+        "year": 2026,
+        "qualification_process": {
+            "en": [
+                "The tournament will be played in two rounds. The first will be a group stage format, with nine groups of six teams each. Each team will play two matches against each other, home and away. The leader of each group will qualify directly for the 26th World Cup.",
+                "In the second round, the four best runners-up will compete in semi-finals, followed by a final. The winner of this second round will participate in the play-offs."
+            ],
+            "es": [
+                "Se jugará a dos rondas. La primera se realizará en formato de zona de grupos, con nueve zonas de seis equipos cada una. Cada equipo jugará dos partidos entre sí, de local y visitante. El líder de cada uno de los grupos clasificará directamente a la Copa Mundial 26.",
+                "En la segunda ronda competirán los cuatro mejores segundos en unas semifinales, seguido por una final. El ganador de esta segunda ronda participará en la repesca."
+            ] 
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "FIFA World Cup 26™ Concacaf Qualifiers",
+            "es": "Eliminatorias Concacaf Mundial FIFA 26™"
+        },
+        "alias": "CONCACAF",
+        "logo": "https://digitalhub.fifa.com/transform/30b115df-9157-4f0d-9faa-f3140f2cb806/Concacaf-logo-Large",
+        "year": 2026,
+        "qualification_process": {
+            "en": [
+                "The tournament will be played between the four lowest ranked Concacaf associations according to the FIFA rankings of November 2023 (the lowest ranked team against the lowest; and the second best against the third).",
+                "The matches will be round-trip and will take place in March 2024. The winners will advance to the second round.",
+                "In the second round, 30 teams will be divided into six groups of five teams (2 from the first round and 28 that start the competition at this stage). In each group there will be five dates and each team will play four games, two at home and two away. The matches will be between June 2024 and June 2025; the first two from each zone will advance to the third round.",
+                "The 12 qualified teams are distributed by draw in three groups of four. The first from each zone advance directly to the World Cup, while the two best second-placed teams will go to the play-offs for the 2026 World Cup."
+            ],
+            "es": [
+                "Se jugará entre las cuatro asociaciones de la Concacaf con el ranking más bajo según el ranking FIFA de noviembre de 2023 (la Selección con la clasificación más baja ante la más baja; y la segunda mejor ante la tercera).",
+                "Los encuentros serán ida y vuelta y se realizarán en marzo del 2024. Los ganadores avanzarán a la segunda ronda. ",
+                "En la segunda ronda, 30 selecciones se dividirán en seis grupos de cinco equipos (2 de la primera ronda y 28 que inician la competencia en esta instancia). En cada grupo habrá cinco fechas y cada equipo jugará cuatro partidos, dos de local y dos de visitante. Los encuentros serán entre junio de 2024 y junio de 2025; a la tercera ronda avanzarán los primeros dos de cada zona.",
+                "Los 12 equipos clasificados se distribuyen por sorteo en tres grupos de cuatro. Los primeros de cada zona avanzan de manera directa a la Copa Mundial, mientras que los dos mejores segundos irán a la repesca o play-off de la Copa Mundial 2026. "
+            ] 
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "CONMEBOL FIFA 26 World Cup™ Qualifiers",
+            "es": "Eliminatorias CONMEBOL Mundial FIFA 26™"
+        },
+        "alias": "COMEBOL",
+        "logo": "https://digitalhub.fifa.com/transform/c24e39f2-e620-4f62-91d3-8e063c4419a6/Conmebol_logo_blue",
+        "year": 2026,
+        "qualification_process": {
+            "en": [
+                "CONMEBOL confirmed the schedule for the South American Qualifiers, which began in September 2023 and will end in September 2025.",
+                "The format that will be used will be the same as in the previous edition. The ten teams will face each other both at home and away. That is, each team will play nine matches at home and the same number away, in a total of 18 rounds that will be divided into the next three years."
+            ],
+            "es": [
+                "CONMEBOL confirmó el calendario de las Eliminatorias sudamericanas, que comenzaron en septiembre del 2023 y finalizarán en septiembre del 2025. ",
+                "El formato que se utilizará será el mismo que en la edición anterior. Los diez equipos se enfrentarán todos contra todos tanto de visitante como de local. Es decir, cada Selección jugará nueve encuentros en casa y la misma cantidad afuera, en un total de 18 jornadas que se dividen en los próximos tres años."
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "OFC FIFA World Cup 26™ qualifiers",
+            "es": "Eliminatorias de la OFC para la Copa Mundial de la FIFA 26™"
+        },
+        "alias": "OFC",
+        "logo": "https://i.pinimg.com/originals/18/f4/76/18f4767c1780cb77a7d8172ebe82bdf9.png",
+        "year": 2026,
+        "qualification_process": {
+            "en": [
+                "Round 1, to be held in September 2024, sees the four lowest-ranked teams in the confederation - American Samoa, Cook Islands, Samoa and Tonga - face each other in a knockout tournament. Only the winner will progress to the second round of the preliminary tournament.",
+                "Round 2, the draw, held in July, features two groups of four teams. Each team will face their section rivals once in matches to be played between October and November 2024, with the top two from each group progressing to a decisive third qualifying round.",
+                "Round 3 will be held in March 2025, with the four hopefuls taking part in semi-finals, the winners of which will meet with a place at the FIFA World Cup 26™ at stake. The prevailing team will secure a place in the World Cup finals, while the runners-up will have to fight for an additional place in the FIFA Intercontinental Play-off."
+            ],
+            "es": [
+                "Ronda 1, que se celebrará en septiembre de 2024, implica que las cuatro selecciones peor clasificadas de la confederación -Samoa Americana, Islas Cook, Samoa y Tonga- se enfrenten en un torneo por eliminatorias. Sólo el ganador pasará a la segunda fase del torneo preliminar.",
+                "Ronda 2, el sorteo, celebrado en julio, incluye dos grupos de cuatro selecciones. Cada combinado se enfrentará una vez a sus rivales de sección en partidos que se disputarán entre octubre y noviembre de 2024, y los dos primeros de cada grupo pasarán a una tercera fase de clasificación decisiva.",
+                "Ronda 3 se disputará en marzo de 2025, con los cuatro aspirantes participando en semifinales, cuyos vencedores se enfrentarán con una plaza para la Copa Mundial de la FIFA 26™ en juego. El equipo que prevalezca se asegurará un puesto en la fase final mundialista, mientras que los subcampeones tendrán que luchar por una plaza adicional en el Play-off Intercontinental de la FIFA."
+            ] 
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "UEFA FIFA World Cup 26™ qualifiers",
+            "es": "Eliminatorias de la UEFA para la Copa Mundial de la FIFA 26™"
+        },
+        "alias": "UEFA",
+        "logo": "https://img.uefa.com/imgml/uefaorg/new/logo.png",
+        "year": 2026,
+        "qualification_process": {
+            "en": [
+                "The first round will follow a familiar format, with 12 groups of four or five teams, and the section winners securing World Cup slots.",
+                "The continent's four remaining berths will then be settled in a 16-team UEFA play-off competition involving the 12 group runners-up and four best-ranked UEFA Nations League section winners."
+            ],
+            "es": [
+                "La primera ronda seguirá el formato habitual, con 12 grupos de cuatro o cinco equipos, y los ganadores de las secciones se asegurarán un lugar en la Copa del Mundo.",
+                "Las cuatro plazas restantes del continente se decidirán en una competición de play-off de la UEFA de 16 equipos en la que participarán los 12 segundos de grupo y los cuatro ganadores de sección de la Liga de Naciones de la UEFA con mejor clasificación."
+            ] 
+        }
+    }
+]

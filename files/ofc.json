@@ -1,0 +1,1155 @@
+[{
+        "id": 431049,
+        "league_id": 5,
+        "date": "2024-09-05",
+        "time": "18:00",
+        "status": "Finished",
+        "round": "",
+        "referee": "C. Berg",
+        "stadium": "J.S. Blatter Football Complex Tuanaimato Field 1 (Main Stadium) (Apia)",
+        "stage": "1st Qualifying Round",
+        "hometeam_id": "39",
+        "awayteam_id": "194",
+        "hometeam_score": "1",
+        "awayteam_score": "3",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [{
+                        "player_name": "T. Kumsuz",
+                        "player_number": 6,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "N. Maro",
+                        "player_number": 20,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "O. Ruaine-Prattley",
+                        "player_number": 8,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "G. Harmon",
+                        "player_number": 10,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "T. Beal",
+                        "player_number": 15,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "O. Wichman",
+                        "player_number": 14,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "T. Saghabi",
+                        "player_number": 11,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "P. Mustonen",
+                        "player_number": 7,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "D. Tiputoa",
+                        "player_number": 19,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "J. Karika",
+                        "player_number": 12,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "T. Ringi",
+                        "player_number": 9,
+                        "player_position": 7
+                    }
+                ],
+                "substitutes": [{
+                        "player_name": "T. Rimene-Albrett",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Tamaiva Mateariki",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "N. Tuakana",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "E. Burrow",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "J. Noovao",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "T. Elikana",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "T. Tekeu",
+                        "player_number": 21
+                    }
+                ],
+                "coach": "T. Tisam"
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [{
+                        "player_name": "S. Otukolo",
+                        "player_number": 1,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "D. Tu'amoheloa",
+                        "player_number": 12,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "F. Palei",
+                        "player_number": 4,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "U. Sonasi",
+                        "player_number": 17,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "V. Teu",
+                        "player_number": 6,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "V. Tikoipau",
+                        "player_number": 7,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "H. Polovili",
+                        "player_number": 9,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "V. Tukia",
+                        "player_number": 8,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "L. Feke",
+                        "player_number": 22,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "K. Kite",
+                        "player_number": 5,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "A. Fifita",
+                        "player_number": 18,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [{
+                        "player_name": "C. Kefu",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "V. Tai",
+                        "player_number": 11
+                    },
+                    {
+                        "player_name": "P. Naniseni",
+                        "player_number": 23
+                    },
+                    {
+                        "player_name": "P. Manu",
+                        "player_number": 3
+                    },
+                    {
+                        "player_name": "T. Tu'amoheloa",
+                        "player_number": 10
+                    },
+                    {
+                        "player_name": "H. Fonua",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "H. Funaki",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "T. Armitage",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "U. Pahulu",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "M. Lomu",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "U. Lea'aetoa",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "T. Faksiieiki",
+                        "player_number": 16
+                    }
+                ],
+                "coach": "K. Uele"
+            }
+        },
+        "goal_scorers": [{
+                "time": "27",
+                "player": "V. Tikoipau",
+                "team": "away"
+            },
+            {
+                "time": "39",
+                "player": "H. Polovili               (PG)",
+                "team": "away"
+            },
+            {
+                "time": "63",
+                "player": "T. Kumsuz",
+                "team": "home"
+            },
+            {
+                "time": "79",
+                "player": "C. Kefu",
+                "team": "away"
+            }
+        ],
+        "cards": [],
+        "substitutions": {
+            "home": [{
+                    "time": "46",
+                    "in": "P. Mustonen",
+                    "out": "T. Rimene-Albrett"
+                },
+                {
+                    "time": "78",
+                    "in": "T. Saghabi",
+                    "out": "T. Mateariki"
+                },
+                {
+                    "time": "90+1",
+                    "in": "D. Tiputoa",
+                    "out": "N. Tuakana"
+                },
+                {
+                    "time": "90+6",
+                    "in": "T. Ringi",
+                    "out": "E. Burrow"
+                }
+            ],
+            "away": [{
+                    "time": "71",
+                    "in": "V. Tikoipau",
+                    "out": "C. Kefu"
+                },
+                {
+                    "time": "71",
+                    "in": "V. Tukia",
+                    "out": "V. Tai"
+                },
+                {
+                    "time": "78",
+                    "in": "V. Teu",
+                    "out": "P. Naniseni"
+                },
+                {
+                    "time": "79",
+                    "in": "D. Tuamoheloa",
+                    "out": "P. Manu"
+                },
+                {
+                    "time": "90+2",
+                    "in": "L. Feke",
+                    "out": "T. Tu'amoheloa"
+                }
+            ]
+        },
+        "statistics": []
+    },
+    {
+        "id": 431050,
+        "league_id": 5,
+        "date": "2024-09-05",
+        "time": "22:00",
+        "status": "Finished",
+        "round": "",
+        "referee": "N. Hauata",
+        "stadium": "J.S. Blatter Football Complex Tuanaimato Field 1 (Main Stadium) (Apia)",
+        "stage": "1st Qualifying Round",
+        "hometeam_id": "200",
+        "awayteam_id": "160",
+        "hometeam_score": "0",
+        "awayteam_score": "2",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [{
+                        "player_name": "B. Stefanon",
+                        "player_number": 3,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "N. Salapu",
+                        "player_number": 20,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "J. Ferreira-Sala",
+                        "player_number": 22,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "J. Mana'o",
+                        "player_number": 7,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Z. Mana'o",
+                        "player_number": 4,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "M. Settle",
+                        "player_number": 13,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "P. Lauvao",
+                        "player_number": 8,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "G. Tauma",
+                        "player_number": 6,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "D. Beauchamp",
+                        "player_number": 11,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "R. Mitchell",
+                        "player_number": 10,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "P. Pouli",
+                        "player_number": 9,
+                        "player_position": 8
+                    }
+                ],
+                "substitutes": [{
+                        "player_name": "A. Kaleopa",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "K. Siligi",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "U. Tualaulelei",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "V. Tua",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "M. Nelisi",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "H. Ikuvalu",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "R. Ledoux",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "F. Fata",
+                        "player_number": 23
+                    },
+                    {
+                        "player_name": "L. Lealuga",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "M. Fagapuleia",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "z. best",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "K. Savelio",
+                        "player_number": 21
+                    }
+                ],
+                "coach": "S. Simpson"
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [{
+                        "player_name": "P. Taupau",
+                        "player_number": 1,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "A. Setefano",
+                        "player_number": 6,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "H. Chote",
+                        "player_number": 4,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "L. Salisbury",
+                        "player_number": 3,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "L. Tolo Kent",
+                        "player_number": 2,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "J. Vaai",
+                        "player_number": 10,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "A. Kwan",
+                        "player_number": 7,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "N. Viliamu",
+                        "player_number": 9,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "R. Fasi",
+                        "player_number": 5,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "D. Tumua",
+                        "player_number": 11,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "D. Mariner",
+                        "player_number": 8,
+                        "player_position": 8
+                    }
+                ],
+                "substitutes": [{
+                        "player_name": "A. Malauulu",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "A. Leiataua",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "E. Stowers",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "J. Faamatau",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "L. Tuitele",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "K. Auvele",
+                        "player_number": 23
+                    },
+                    {
+                        "player_name": "D. Knight",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "T. Lesatele",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "J. Maiava",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "I. Sapani",
+                        "player_number": 22
+                    }
+                ],
+                "coach": "J. Ibrom"
+            }
+        },
+        "goal_scorers": [{
+                "time": "59",
+                "player": "D. Tumua               (PG)",
+                "team": "away"
+            },
+            {
+                "time": "90+7",
+                "player": "J. Vaai",
+                "team": "away"
+            }
+        ],
+        "cards": [],
+        "substitutions": {
+            "home": [{
+                    "time": "32",
+                    "in": "P. Pouli",
+                    "out": "A. Kaleopa"
+                },
+                {
+                    "time": "37",
+                    "in": "D. Beauchamp",
+                    "out": "K. Siligi"
+                },
+                {
+                    "time": "46",
+                    "in": "J. Ferreira-Sala",
+                    "out": "U. Tualaulelei"
+                },
+                {
+                    "time": "46",
+                    "in": "M. Settle",
+                    "out": "V. Tua"
+                },
+                {
+                    "time": "84",
+                    "in": "G. Taumua",
+                    "out": "M. Nelisi"
+                }
+            ],
+            "away": [{
+                    "time": "46",
+                    "in": "R. Fasi",
+                    "out": "A. Malauulu"
+                },
+                {
+                    "time": "46",
+                    "in": "A. Kwan",
+                    "out": "A. Leiataua"
+                },
+                {
+                    "time": "69",
+                    "in": "D. Tumua",
+                    "out": "E. Stowers"
+                },
+                {
+                    "time": "79",
+                    "in": "N. Viliamu",
+                    "out": "J. Faamatau"
+                },
+                {
+                    "time": "90+9",
+                    "in": "J. Vaai",
+                    "out": "L. Tuitele"
+                }
+            ]
+        },
+        "statistics": []
+    },
+    {
+        "id": 481543,
+        "league_id": 5,
+        "date": "2024-09-08",
+        "time": "22:00",
+        "status": "After ET",
+        "round": "",
+        "referee": "M. Lacour",
+        "stadium": "J.S. Blatter Football Complex Tuanaimato Field 1 (Main Stadium) (Apia)",
+        "stage": "2nd Qualifying Round",
+        "hometeam_id": "194",
+        "awayteam_id": "160",
+        "hometeam_score": "1",
+        "awayteam_score": "2",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [{
+                "time": "45+1",
+                "player": "U. Sonasi",
+                "team": "home"
+            },
+            {
+                "time": "86",
+                "player": "L. Salisbury",
+                "team": "away"
+            },
+            {
+                "time": "105+3",
+                "player": "J. Faamatau",
+                "team": "away"
+            }
+        ],
+        "cards": [],
+        "substitutions": {
+            "home": [{
+                    "time": "46",
+                    "in": "V. Tikoipau",
+                    "out": "V. Tukia"
+                },
+                {
+                    "time": "55",
+                    "in": "V. Teu",
+                    "out": "U. Lea'aetoa"
+                },
+                {
+                    "time": "65",
+                    "in": "D. Tuamoheloa",
+                    "out": "P. Manu"
+                },
+                {
+                    "time": "65",
+                    "in": "V. Tai",
+                    "out": "C. Kefu"
+                },
+                {
+                    "time": "90+3",
+                    "in": "A. Fifita",
+                    "out": "T. Tu'amoheloa"
+                },
+                {
+                    "time": "101",
+                    "in": "L. Feke",
+                    "out": "T. Armitage"
+                }
+            ],
+            "away": [{
+                    "time": "46",
+                    "in": "D. Knight",
+                    "out": "A. Kwan"
+                },
+                {
+                    "time": "46",
+                    "in": "D. Tumua",
+                    "out": "E. Stowers"
+                },
+                {
+                    "time": "66",
+                    "in": "N. Viliamu",
+                    "out": "L. Tuitele"
+                },
+                {
+                    "time": "98",
+                    "in": "A. Kwan",
+                    "out": "J. Faamatau"
+                },
+                {
+                    "time": "115",
+                    "in": "A. Malauulu",
+                    "out": "R. Fasi"
+                },
+                {
+                    "time": "120+2",
+                    "in": "E. Stowers",
+                    "out": "J. Maiava"
+                }
+            ]
+        },
+        "statistics": []
+    },
+    {
+        "id": 463363,
+        "league_id": 5,
+        "date": "2024-10-10",
+        "time": "00:00",
+        "status": "",
+        "round": "1",
+        "referee": "",
+        "stadium": "HFC Bank Stadium (Suva)",
+        "stage": "Group Stage",
+        "hometeam_id": "124",
+        "awayteam_id": "65",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 463364,
+        "league_id": 5,
+        "date": "2024-10-10",
+        "time": "03:00",
+        "status": "",
+        "round": "1",
+        "referee": "",
+        "stadium": "HFC Bank Stadium (Suva)",
+        "stage": "Group Stage",
+        "hometeam_id": "57",
+        "awayteam_id": "26",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 463365,
+        "league_id": 5,
+        "date": "2024-10-10",
+        "time": "22:00",
+        "status": "",
+        "round": "1",
+        "referee": "",
+        "stadium": "VFF Freshwater Stadium (Port Vila)",
+        "stage": "Group Stage",
+        "hometeam_id": "204",
+        "awayteam_id": "207",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 484121,
+        "league_id": 5,
+        "date": "2024-10-11",
+        "time": "23:00",
+        "status": "",
+        "round": "1",
+        "referee": "",
+        "stadium": "VFF Freshwater Stadium (Port Vila)",
+        "stage": "Group Stage",
+        "hometeam_id": "125",
+        "awayteam_id": "160",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 463366,
+        "league_id": 5,
+        "date": "2024-11-13",
+        "time": "23:00",
+        "status": "",
+        "round": "2",
+        "referee": "",
+        "stadium": "PNG Football Stadium (Port Moresby)",
+        "stage": "Group Stage",
+        "hometeam_id": "26",
+        "awayteam_id": "124",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 463367,
+        "league_id": 5,
+        "date": "2024-11-14",
+        "time": "02:00",
+        "status": "",
+        "round": "2",
+        "referee": "",
+        "stadium": "PNG Football Stadium (Port Moresby)",
+        "stage": "Group Stage",
+        "hometeam_id": "65",
+        "awayteam_id": "57",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 484122,
+        "league_id": 5,
+        "date": "2024-11-14",
+        "time": "23:00",
+        "status": "",
+        "round": "2",
+        "referee": "",
+        "stadium": "FMG Stadium Waikato (Hamilton)",
+        "stage": "Group Stage",
+        "hometeam_id": "160",
+        "awayteam_id": "207",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 463368,
+        "league_id": 5,
+        "date": "2024-11-15",
+        "time": "02:30",
+        "status": "",
+        "round": "2",
+        "referee": "",
+        "stadium": "FMG Stadium Waikato (Hamilton)",
+        "stage": "Group Stage",
+        "hometeam_id": "204",
+        "awayteam_id": "125",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 463369,
+        "league_id": 5,
+        "date": "2024-11-16",
+        "time": "23:00",
+        "status": "",
+        "round": "3",
+        "referee": "",
+        "stadium": "PNG Football Stadium (Port Moresby)",
+        "stage": "Group Stage",
+        "hometeam_id": "57",
+        "awayteam_id": "124",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 463370,
+        "league_id": 5,
+        "date": "2024-11-17",
+        "time": "02:00",
+        "status": "",
+        "round": "3",
+        "referee": "",
+        "stadium": "PNG Football Stadium (Port Moresby)",
+        "stage": "Group Stage",
+        "hometeam_id": "65",
+        "awayteam_id": "26",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 463371,
+        "league_id": 5,
+        "date": "2024-11-17",
+        "time": "23:00",
+        "status": "",
+        "round": "3",
+        "referee": "",
+        "stadium": "Go Media Stadium (Auckland)",
+        "stage": "Group Stage",
+        "hometeam_id": "207",
+        "awayteam_id": "125",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    },
+    {
+        "id": 484123,
+        "league_id": 5,
+        "date": "2024-11-18",
+        "time": "02:30",
+        "status": "",
+        "round": "3",
+        "referee": "",
+        "stadium": "Go Media Stadium (Auckland)",
+        "stage": "Group Stage",
+        "hometeam_id": "160",
+        "awayteam_id": "204",
+        "hometeam_score": "",
+        "awayteam_score": "",
+        "hometeam_penalty_score": "",
+        "awayteam_penalty_score": "",
+        "lineups": {
+            "hometeam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            },
+            "awayteam": {
+                "system": "",
+                "starting_players": [],
+                "substitutes": [],
+                "coach": ""
+            }
+        },
+        "goal_scorers": [],
+        "cards": [],
+        "substitutions": {
+            "home": [],
+            "away": []
+        },
+        "statistics": []
+    }
+]
