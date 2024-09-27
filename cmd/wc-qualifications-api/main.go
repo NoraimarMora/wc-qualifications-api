@@ -4,13 +4,19 @@ import (
 	"log"
 	"net/http"
 	"time"
+
+	"ws-qualifications-api/inmem"
+	"ws-qualifications-api/provider"
 )
 
 func main() {
-	router := setupRoutes()
+	localProvider := provider.Local{Path: "./files"}
+	repository := inmem.NewMemoryRepository(localProvider)
+
+	router := setupRoutes(repository)
 
 	s := &http.Server{
-		Addr:           ":8080",
+		Addr:           ":8081",
 		Handler:        router,
 		ReadTimeout:    2 * time.Second,
 		WriteTimeout:   2 * time.Second,
