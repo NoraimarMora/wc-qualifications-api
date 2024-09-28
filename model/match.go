@@ -77,14 +77,14 @@ func MatchesFromJSONFile(paths []string) map[int]Matches {
 	for _, path := range paths {
 		file, err := os.ReadFile(path)
 		if err != nil {
-			log.Printf("[matches_from_json][read_file][err: %v]", err)
+			log.Printf("[matches_from_json][read_file][err:%v]", err)
 			continue
 		}
 
 		var data []Match
 		err = json.Unmarshal(file, &data)
 		if err != nil {
-			log.Printf("[matches_from_json][json_unmarshal][err: %v]", err)
+			log.Printf("[matches_from_json][json_unmarshal][err:%v]", err)
 			continue
 		}
 

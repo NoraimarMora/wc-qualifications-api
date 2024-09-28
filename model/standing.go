@@ -32,7 +32,7 @@ func StandingsFromJSONFile(paths []string) map[int]Standings {
 	for _, path := range paths {
 		file, err := os.ReadFile(path)
 		if err != nil {
-			log.Printf("[standings_from_json][read_file][err: %v]", err)
+			log.Printf("[standings_from_json][read_file][err:%v]", err)
 			continue
 		}
 

@@ -21,14 +21,14 @@ type NameTranslation struct {
 func CountriesFromJSONFile(path string) map[int]Country {
 	file, err := os.ReadFile(path)
 	if err != nil {
-		log.Printf("[countries_from_json][read_file][err: %v]", err)
+		log.Printf("[countries_from_json][read_file][err:%v]", err)
 		return make(map[int]Country, 0)
 	}
 
 	var data []Country
 	err = json.Unmarshal(file, &data)
 	if err != nil {
-		log.Printf("[countries_from_json][json_unmarshal][err: %v]", err)
+		log.Printf("[countries_from_json][json_unmarshal][err:%v]", err)
 		return make(map[int]Country, 0)
 	}
 

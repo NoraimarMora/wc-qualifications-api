@@ -16,7 +16,7 @@ func main() {
 	router := setupRoutes(repository)
 
 	s := &http.Server{
-		Addr:           ":8081",
+		Addr:           ":8080",
 		Handler:        router,
 		ReadTimeout:    2 * time.Second,
 		WriteTimeout:   2 * time.Second,

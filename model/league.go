@@ -18,14 +18,14 @@ type League struct {
 func LeaguesFromJSONFile(path string) map[int]League {
 	file, err := os.ReadFile(path)
 	if err != nil {
-		log.Printf("[leagues_from_json][read_file][err: %v]", err)
+		log.Printf("[leagues_from_json][read_file][err:%v]", err)
 		return make(map[int]League, 0)
 	}
 
 	var data []League
 	err = json.Unmarshal(file, &data)
 	if err != nil {
-		log.Printf("[leagues_from_json][json_unmarshal][err: %v]", err)
+		log.Printf("[leagues_from_json][json_unmarshal][err:%v]", err)
 		return make(map[int]League, 0)
 	}
 
