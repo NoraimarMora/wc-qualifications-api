@@ -6,6 +6,8 @@ import (
 	"os"
 )
 
+type StandingsByLeague map[int]Standings
+
 // Standings by stage
 type Standings map[string][]Standing
 
@@ -62,6 +64,57 @@ func standingsSliceToMap(data []Standing, standings map[int]Standings) map[int]S
 		}
 
 		standings[standing.LeagueID][standing.Stage] = append(standings[standing.LeagueID][standing.Stage], standing)
+	}
+
+	return standings
+}
+
+func (s StandingsByLeague) ToSlice() []Standing {
+	standings := make([]Standing, 0)
+
+	for _, standingsByLeague := range s {
+		for _, standingsByStage := range standingsByLeague {
+			standings = append(standings, standingsByStage...)
+		}
+	}
+
+	return standings
+}
+
+func (s Standings) ToSlice() []Standing {
+	standings := make([]Standing, 0)
+
+	for _, standingsByStage := range s {
+		standings = append(standings, standingsByStage...)
+	}
+
+	return standings
+}
+
+func (s Standings) ByStage(stage string) Standings {
+	if stage == "" {
+		return s
+	}
+
+	if standingsByStage, ok := s[stage]; ok {
+		return Standings{
+			stage: standingsByStage,
+		}
+	}
+
+	return Standings{}
+}
+
+func (s Standings) ByCountry(countryID int) []Standing {
+	standings := make([]Standing, 0)
+
+	for _, standingsByStage := range s {
+		for _, standing := range standingsByStage {
+			if standing.CountryID == countryID {
+				standings = append(standings, standing)
+				break
+			}
+		}
 	}
 
 	return standings

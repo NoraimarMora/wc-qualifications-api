@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"log"
 	"os"
+	"time"
 )
 
 type Matches map[int]Match
@@ -104,4 +105,118 @@ func matchesSliceToMap(data []Match, matches map[int]Matches) map[int]Matches {
 	}
 
 	return matches
+}
+
+func (m Matches) Copy() Matches {
+	matchesCopy := make(Matches)
+
+	for k, v := range m {
+		matchesCopy[k] = v
+	}
+
+	return matchesCopy
+}
+
+func (m Matches) ToSlice() []Match {
+	matches := make([]Match, 0)
+
+	for _, match := range m {
+		matches = append(matches, match)
+	}
+
+	return matches
+}
+
+func (m Matches) ByStage(stage string) Matches {
+	if stage == "" {
+		return m
+	}
+
+	for k, match := range m {
+		if match.Stage != stage {
+			delete(m, k)
+		}
+	}
+
+	return m
+}
+
+func (m Matches) ByStatus(status string) Matches {
+	if status == "" {
+		return m
+	}
+
+	for k, match := range m {
+		if match.Status != status {
+			delete(m, k)
+		}
+	}
+
+	return m
+}
+
+func (m Matches) ByHomeTeamID(hometeam_id string) Matches {
+	if hometeam_id == "" {
+		return m
+	}
+
+	for k, match := range m {
+		if match.HomeTeamID != hometeam_id {
+			delete(m, k)
+		}
+	}
+
+	return m
+}
+
+func (m Matches) ByAwayTeamID(awayteam_id string) Matches {
+	if awayteam_id == "" {
+		return m
+	}
+
+	for k, match := range m {
+		if match.AwayTeamID != awayteam_id {
+			delete(m, k)
+		}
+	}
+
+	return m
+}
+
+func (m Matches) ByFromDate(from time.Time) Matches {
+	if from.IsZero() {
+		return m
+	}
+
+	for k, match := range m {
+		matchDate, err := time.Parse("2006-01-02", match.Date)
+		if err != nil {
+			continue
+		}
+
+		if !from.Equal(matchDate) && !from.Before(matchDate) {
+			delete(m, k)
+		}
+	}
+
+	return m
+}
+
+func (m Matches) ByToDate(to time.Time) Matches {
+	if to.IsZero() {
+		return m
+	}
+
+	for k, match := range m {
+		matchDate, err := time.Parse("2006-01-02", match.Date)
+		if err != nil {
+			continue
+		}
+
+		if !to.Equal(matchDate) && !to.After(matchDate) {
+			delete(m, k)
+		}
+	}
+
+	return m
 }

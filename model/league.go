@@ -6,6 +6,8 @@ import (
 	"os"
 )
 
+type LeaguesByID map[int]League
+
 type League struct {
 	ID                   int                 `json:"id"`
 	Name                 map[string]string   `json:"name"`
@@ -37,6 +39,16 @@ func leaguesSliceToMap(data []League) map[int]League {
 
 	for _, league := range data {
 		leagues[league.ID] = league
+	}
+
+	return leagues
+}
+
+func (l LeaguesByID) ToSlice() []League {
+	leagues := make([]League, 0)
+
+	for _, league := range l {
+		leagues = append(leagues, league)
 	}
 
 	return leagues

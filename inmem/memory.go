@@ -5,9 +5,9 @@ import "ws-qualifications-api/model"
 type Memory struct {
 	provider  Provider
 	matches   map[int]model.Matches
-	countries map[int]model.Country
-	leagues   map[int]model.League
-	standings map[int]model.Standings
+	countries model.CountriesByID
+	leagues   model.LeaguesByID
+	standings model.StandingsByLeague
 }
 
 func NewMemoryRepository(provider Provider) Repository {
@@ -51,6 +51,10 @@ func (r *Memory) LoadLeagues() map[int]model.League {
 	return r.leagues
 }
 
+func (r *Memory) GetCountries() []model.Country {
+	return r.countries.ToSlice()
+}
+
 func (r *Memory) GetCountryByID(countryID int) model.Country {
 	if country, ok := r.countries[countryID]; ok {
 		return country
@@ -59,52 +63,79 @@ func (r *Memory) GetCountryByID(countryID int) model.Country {
 	return model.Country{}
 }
 
-func (r *Memory) GetCountries() []model.Country {
-	countries := make([]model.Country, 0)
-
-	return countries
-}
-
 func (r *Memory) GetLeagues() []model.League {
-	leagues := make([]model.League, 0)
-
-	return leagues
+	return r.leagues.ToSlice()
 }
 
 func (r *Memory) GetLeagueByID(leagueID int) model.League {
+	if league, ok := r.leagues[leagueID]; ok {
+		return league
+	}
+
 	return model.League{}
 }
 
-func (r *Memory) GetMatches() []model.Match {
+func (r *Memory) GetMatches(filters model.Filters) []model.Match {
 	matches := make([]model.Match, 0)
+
+	for _, matchesByLeague := range r.matches {
+		matches = append(
+			matches,
+			matchesByLeague.Copy().
+				ByStage(filters.Stage).
+				ByStatus(filters.Status).
+				ByHomeTeamID(filters.HometeamID).
+				ByAwayTeamID(filters.AwayteamID).
+				ByFromDate(filters.From).
+				ByToDate(filters.To).
+				ToSlice()...,
+		)
+	}
 
 	return matches
 }
 
-func (r *Memory) GetMatchesByLeagueID(leagueID int) []model.Match {
-	matches := make([]model.Match, 0)
+func (r *Memory) GetMatchesByLeagueID(leagueID int, filters model.Filters) []model.Match {
+	if matchesByLeague, ok := r.matches[leagueID]; ok {
+		return matchesByLeague.Copy().
+			ByStage(filters.Stage).
+			ByStatus(filters.Status).
+			ByHomeTeamID(filters.HometeamID).
+			ByAwayTeamID(filters.AwayteamID).
+			ByFromDate(filters.From).
+			ByToDate(filters.To).
+			ToSlice()
+	}
 
-	return matches
+	return []model.Match{}
 }
 
 func (r *Memory) GetMatchByID(leagueID, matchID int) model.Match {
+	if matchesByLeague, ok := r.matches[leagueID]; ok {
+		if match, ok2 := matchesByLeague[matchID]; ok2 {
+			return match
+		}
+	}
+
 	return model.Match{}
 }
 
 func (r *Memory) GetStandings() []model.Standing {
-	standings := make([]model.Standing, 0)
-
-	return standings
+	return r.standings.ToSlice()
 }
 
-func (r *Memory) GetStandingsByLeagueID(leagueID int) []model.Standing {
-	standings := make([]model.Standing, 0)
+func (r *Memory) GetStandingsByLeagueID(leagueID int, filters model.Filters) []model.Standing {
+	if standingsByLeague, ok := r.standings[leagueID]; ok {
+		return standingsByLeague.ByStage(filters.Stage).ToSlice()
+	}
 
-	return standings
+	return []model.Standing{}
 }
 
-func (r *Memory) GetStandingsByCountryID(leagueID, countryID int) []model.Standing {
-	standings := make([]model.Standing, 0)
+func (r *Memory) GetStandingsByCountryID(leagueID, countryID int, filters model.Filters) []model.Standing {
+	if standingsByLeague, ok := r.standings[leagueID]; ok {
+		return standingsByLeague.ByStage(filters.Stage).ByCountry(countryID)
+	}
 
-	return standings
+	return []model.Standing{}
 }

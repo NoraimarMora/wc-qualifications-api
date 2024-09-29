@@ -6,6 +6,8 @@ import (
 	"os"
 )
 
+type CountriesByID map[int]Country
+
 type Country struct {
 	ID   int                        `json:"id"`
 	Name map[string]NameTranslation `json:"name"`
@@ -40,6 +42,16 @@ func countriesSliceToMap(data []Country) map[int]Country {
 
 	for _, country := range data {
 		countries[country.ID] = country
+	}
+
+	return countries
+}
+
+func (c CountriesByID) ToSlice() []Country {
+	countries := make([]Country, 0)
+
+	for _, country := range c {
+		countries = append(countries, country)
 	}
 
 	return countries

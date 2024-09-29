@@ -12,12 +12,12 @@ type Repository interface {
 	GetCountryByID(countryID int) model.Country
 	GetLeagues() []model.League
 	GetLeagueByID(leagueID int) model.League
-	GetMatches() []model.Match
-	GetMatchesByLeagueID(leagueID int) []model.Match
+	GetMatches(filters model.Filters) []model.Match
+	GetMatchesByLeagueID(leagueID int, filters model.Filters) []model.Match
 	GetMatchByID(leagueID, matchID int) model.Match
 	GetStandings() []model.Standing
-	GetStandingsByLeagueID(leagueID int) []model.Standing
-	GetStandingsByCountryID(leagueID, countryID int) []model.Standing
+	GetStandingsByLeagueID(leagueID int, filters model.Filters) []model.Standing
+	GetStandingsByCountryID(leagueID, countryID int, filters model.Filters) []model.Standing
 }
 
 type Provider interface {
