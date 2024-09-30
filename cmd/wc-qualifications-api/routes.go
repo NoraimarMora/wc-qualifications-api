@@ -26,7 +26,7 @@ func setupRoutes(repository inmem.Repository) *gin.Engine {
 	prefix.GET("/leagues/:league_id", handler.GetLeagueByID)
 
 	prefix.GET("/matches", handler.GetMatches)
-	prefix.GET("/matches/:league_id", handler.GetMatchsByLeagueID)
+	prefix.GET("/matches/:league_id", handler.GetMatchesByLeagueID)
 	prefix.GET("/matches/:league_id/:match_id", handler.GetMatchByID)
 
 	prefix.GET("/standings", handler.GetStandings)

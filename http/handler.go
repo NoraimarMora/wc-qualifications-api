@@ -41,10 +41,25 @@ func (h Handler) HealthCheck(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, HealthCheckResponse{"OK"})
 }
 
+// GetCountries
+// @Summary Returns the list of countries participating in the qualifications
+// @Tags Country
+// @Produce json
+// @Success 200 {object} CountriesResponse "Retrieves the list of participating countries"
+// @Router /countries  [get]
 func (h *Handler) GetCountries(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, CountriesResponse{h.repository.GetCountries()})
 }
 
+// GetCountryByID
+// @Summary Returns the detail of a country according to a given country_id
+// @Tags Country
+// @Produce json
+// @Param country_id path int true "Country ID"
+// @Failure 400 {object} ErrorResponse "Bad request"
+// @Failure 404 {object} ErrorResponse "Country not found"
+// @Success 200 {object} CountryResponse "Retrieves the detail of a country"
+// @Router /countries/{country_id}  [get]
 func (h *Handler) GetCountryByID(ctx *gin.Context) {
 	countryID, err := strconv.Atoi(ctx.Param("country_id"))
 	if err != nil {
@@ -67,10 +82,25 @@ func (h *Handler) GetCountryByID(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, CountryResponse{country})
 }
 
+// GetLeagues
+// @Summary Returns the list of leagues/confederations participating in the qualifications
+// @Tags League
+// @Produce json
+// @Success 200 {object} LeaguesResponse "Retrieves the list of participating leagues/confederations"
+// @Router /leagues  [get]
 func (h *Handler) GetLeagues(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, LeaguesResponse{h.repository.GetLeagues()})
 }
 
+// GetLeagueByID
+// @Summary Returns the list of leagues/confederations participating in the qualifications
+// @Tags League
+// @Produce json
+// @Param league_id path int true "League ID"
+// @Failure 400 {object} ErrorResponse "Bad request"
+// @Failure 404 {object} ErrorResponse "League not found"
+// @Success 200 {object} LeagueResponse "Retrieves the detail of a league"
+// @Router /leagues/{league_id}  [get]
 func (h *Handler) GetLeagueByID(ctx *gin.Context) {
 	leagueID, err := strconv.Atoi(ctx.Param("league_id"))
 	if err != nil {
@@ -93,6 +123,19 @@ func (h *Handler) GetLeagueByID(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, LeagueResponse{league})
 }
 
+// GetMatches
+// @Summary Returns the list of matches of the qualifications
+// @Tags Match
+// @Produce json
+// @Param stage query int false "Stage"
+// @Param status query int false "Status"
+// @Param hometeam_id query int false "Hometeam ID"
+// @Param awayteam_id query int false "Awayteam ID"
+// @Param from query string false "From date" "2023-10-02"
+// @Param to query string false "To date" "2023-10-02"
+// @Failure 400 {object} ErrorResponse "Bad request"
+// @Success 200 {object} MatchesResponse "Retrieves the list of matches"
+// @Router /matches  [get]
 func (h *Handler) GetMatches(ctx *gin.Context) {
 	filters, err := validateQueryParams(ctx)
 	if err != nil {
@@ -106,7 +149,22 @@ func (h *Handler) GetMatches(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, MatchesResponse{h.repository.GetMatches(filters)})
 }
 
-func (h *Handler) GetMatchsByLeagueID(ctx *gin.Context) {
+// GetMatchesByLeagueID
+// @Summary Returns the list of matches of the qualifications according to a given league_id
+// @Tags Match
+// @Produce json
+// @Param league_id path int true "League ID"
+// @Param stage query int false "Stage" [0, 1, 2, 3, 4]
+// @Param status query int false "Status" [0, 1, 2]
+// @Param hometeam_id query int false "Hometeam ID"
+// @Param awayteam_id query int false "Awayteam ID"
+// @Param from query string false "From date" "2023-10-02"
+// @Param to query int false "To date" "2023-10-02"
+// @Failure 400 {object} ErrorResponse "Bad request"
+// @Failure 404 {object} ErrorResponse "Matches not found"
+// @Success 200 {object} MatchesResponse "Retrieves the list of matches of a league"
+// @Router /matches/{league_id}  [get]
+func (h *Handler) GetMatchesByLeagueID(ctx *gin.Context) {
 	leagueID, err := strconv.Atoi(ctx.Param("league_id"))
 	if err != nil {
 		msg := fmt.Sprintf("[get_matches_by_league_id][parse_league_id:%s][err:%v]", ctx.Param("league_id"), err)
@@ -137,6 +195,16 @@ func (h *Handler) GetMatchsByLeagueID(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, MatchesResponse{matches})
 }
 
+// GetMatchByID
+// @Summary Returns the detail of a match ¿according to a given league_id and match_id
+// @Tags Match
+// @Produce json
+// @Param league_id path int true "League ID"
+// @Param match_id path int true "Match ID"
+// @Failure 400 {object} ErrorResponse "Bad request"
+// @Failure 404 {object} ErrorResponse "Match not found"
+// @Success 200 {object} MatchResponse "Retrieves the detail of a match"
+// @Router /matches/{league_id}/{match_id}  [get]
 func (h *Handler) GetMatchByID(ctx *gin.Context) {
 	leagueID, err := strconv.Atoi(ctx.Param("league_id"))
 	if err != nil {
@@ -168,10 +236,26 @@ func (h *Handler) GetMatchByID(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, MatchResponse{match})
 }
 
+// GetStandings
+// @Summary Returns the list of standings
+// @Tags Standing
+// @Produce json
+// @Success 200 {object} StandingsResponse "Retrieves the list of standings"
+// @Router /standings  [get]
 func (h *Handler) GetStandings(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, StandingsResponse{h.repository.GetStandings()})
 }
 
+// GetStandingsByLeagueID
+// @Summary Returns the list of standings according to a given league_id
+// @Tags Standing
+// @Produce json
+// @Param league_id path int true "League ID"
+// @Param stage query int false "Stage" [0, 1, 2, 3, 4]
+// @Failure 400 {object} ErrorResponse "Bad request"
+// @Failure 404 {object} ErrorResponse "Standings not found"
+// @Success 200 {object} StandingsResponse "Retrieves the list of standings of a league"
+// @Router /standings/{league_id}  [get]
 func (h *Handler) GetStandingsByLeagueID(ctx *gin.Context) {
 	leagueID, err := strconv.Atoi(ctx.Param("league_id"))
 	if err != nil {
@@ -203,6 +287,17 @@ func (h *Handler) GetStandingsByLeagueID(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, StandingsResponse{standings})
 }
 
+// GetStandingsByCountryID
+// @Summary Returns the list of standings according to a given league_id and country_id
+// @Tags Standing
+// @Produce json
+// @Param league_id path int true "League ID"
+// @Param country_id path int true "Country ID"
+// @Param stage query int false "Stage" [0, 1, 2, 3, 4]
+// @Failure 400 {object} ErrorResponse "Bad request"
+// @Failure 404 {object} ErrorResponse "Standings not found"
+// @Success 200 {object} StandingsResponse "Retrieves the list of standings of a country"
+// @Router /standings/{league_id}/{country_id}  [get]
 func (h *Handler) GetStandingsByCountryID(ctx *gin.Context) {
 	leagueID, err := strconv.Atoi(ctx.Param("league_id"))
 	if err != nil {
