@@ -16,7 +16,7 @@ func setupRoutes(repository inmem.Repository) *gin.Engine {
 	router.Use(gin.Recovery())
 	router.SetHTMLTemplate(template.Must(template.ParseFiles("./front/html/index.html")))
 
-	prefix := router.Group("wc-qualifiers/api/v1")
+	prefix := router.Group("api/v1")
 
 	handler := wc_http.NewHandler(repository)
 

@@ -19,9 +19,6 @@ func main() {
 	localProvider := provider.Local{Path: "./files"}
 	repository := inmem.NewMemoryRepository(localProvider)
 
-	fs := http.FileServer(http.Dir("./front/assets"))
-	http.Handle("/front/assets/", http.StripPrefix("/front/assets/", fs))
-
 	router := setupRoutes(repository)
 
 	s := &http.Server{
