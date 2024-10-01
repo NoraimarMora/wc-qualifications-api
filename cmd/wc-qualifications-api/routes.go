@@ -1,6 +1,9 @@
 package main
 
 import (
+	"html/template"
+	"net/http"
+
 	"github.com/gin-gonic/gin"
 
 	wc_http "ws-qualifications-api/http"
@@ -11,10 +14,20 @@ import (
 func setupRoutes(repository inmem.Repository) *gin.Engine {
 	router := gin.New()
 	router.Use(gin.Recovery())
+	router.SetHTMLTemplate(template.Must(template.ParseFiles("./front/html/index.html")))
 
-	prefix := router.Group("wc-qualifications/api/v1")
+	prefix := router.Group("wc-qualifiers/api/v1")
 
 	handler := wc_http.NewHandler(repository)
+
+	prefix.StaticFile("/styles.css", "./front/assets/styles.css")
+	prefix.StaticFile("/functions.js", "./front/assets/functions.js")
+
+	prefix.GET("/", func(ctx *gin.Context) {
+		ctx.HTML(http.StatusOK, "index.html", gin.H{
+			"title": "World Cup Qualifiers API",
+		})
+	})
 
 	// Health check of the app.
 	prefix.GET("/health", handler.HealthCheck)

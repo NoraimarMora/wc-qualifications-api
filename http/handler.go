@@ -42,7 +42,7 @@ func (h Handler) HealthCheck(ctx *gin.Context) {
 }
 
 // GetCountries
-// @Summary Returns the list of countries participating in the qualifications
+// @Summary Returns the list of countries participating in the qualifiers
 // @Tags Country
 // @Produce json
 // @Success 200 {object} CountriesResponse "Retrieves the list of participating countries"
@@ -83,7 +83,7 @@ func (h *Handler) GetCountryByID(ctx *gin.Context) {
 }
 
 // GetLeagues
-// @Summary Returns the list of leagues/confederations participating in the qualifications
+// @Summary Returns the list of leagues/confederations participating in the qualifiers
 // @Tags League
 // @Produce json
 // @Success 200 {object} LeaguesResponse "Retrieves the list of participating leagues/confederations"
@@ -93,7 +93,7 @@ func (h *Handler) GetLeagues(ctx *gin.Context) {
 }
 
 // GetLeagueByID
-// @Summary Returns the list of leagues/confederations participating in the qualifications
+// @Summary Returns the detail of a league according to a given league_id
 // @Tags League
 // @Produce json
 // @Param league_id path int true "League ID"
@@ -124,7 +124,7 @@ func (h *Handler) GetLeagueByID(ctx *gin.Context) {
 }
 
 // GetMatches
-// @Summary Returns the list of matches of the qualifications
+// @Summary Returns the list of matches of the qualifiers
 // @Tags Match
 // @Produce json
 // @Param stage query int false "Stage"
@@ -150,7 +150,7 @@ func (h *Handler) GetMatches(ctx *gin.Context) {
 }
 
 // GetMatchesByLeagueID
-// @Summary Returns the list of matches of the qualifications according to a given league_id
+// @Summary Returns the list of matches of the qualifiers according to a given league_id
 // @Tags Match
 // @Produce json
 // @Param league_id path int true "League ID"

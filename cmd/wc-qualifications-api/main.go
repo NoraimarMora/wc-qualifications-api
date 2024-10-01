@@ -11,13 +11,16 @@ import (
 
 // @title WORLD CUP QUALIFICATION API
 // @version 1.0
-// @description This service is in charge of selecting which stores are the most suitable according to the user’s latitude and longitude. This microservice provides the necessary endpoints for store listing, store details, checkout, and other critical services. It is an essential component for the operation and user experience on our platform.
+// @description This service is in charge of provide info about the FIFA World Cup Classifications 2026
 // @termsOfService http://swagger.io/terms/
 // @BasePath /wc-qualification/api/v1
 // @Schemes http https
 func main() {
 	localProvider := provider.Local{Path: "./files"}
 	repository := inmem.NewMemoryRepository(localProvider)
+
+	fs := http.FileServer(http.Dir("./front/assets"))
+	http.Handle("/front/assets/", http.StripPrefix("/front/assets/", fs))
 
 	router := setupRoutes(repository)
 

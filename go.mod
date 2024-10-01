@@ -2,10 +2,7 @@ module ws-qualifications-api
 
 go 1.20
 
-require (
-	github.com/gin-gonic/gin v1.9.1
-	github.com/swaggo/swag v1.16.3
-)
+require github.com/gin-gonic/gin v1.9.1
 
 require (
 	github.com/KyleBanks/depth v1.2.1 // indirect
