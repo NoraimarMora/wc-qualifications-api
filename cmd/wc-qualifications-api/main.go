@@ -33,3 +33,22 @@ func main() {
 		log.Fatalf("Server error: %s", err.Error())
 	}
 }
+
+func Handler(w http.ResponseWriter, r *http.Request) {
+	localProvider := provider.Local{Path: "./files"}
+	repository := inmem.NewMemoryRepository(localProvider)
+
+	router := setupRoutes(repository)
+
+	s := &http.Server{
+		Addr:           ":8080",
+		Handler:        router,
+		ReadTimeout:    2 * time.Second,
+		WriteTimeout:   2 * time.Second,
+		MaxHeaderBytes: http.DefaultMaxHeaderBytes,
+	}
+
+	if err := s.ListenAndServe(); err != nil {
+		log.Fatalf("Server error: %s", err.Error())
+	}
+}

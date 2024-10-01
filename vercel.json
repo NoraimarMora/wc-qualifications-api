@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/cmd/wc-qualifications-api/main.go"
+    }
+  ]
+}
