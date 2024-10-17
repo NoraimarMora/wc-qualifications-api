@@ -2058,11 +2058,52 @@
                         "player_number": 22
                     }
                 ],
-                "coach": ""
+                "coach": "G. Costas"
             },
             "awayteam": {
                 "system": "4-3-3",
-                "starting_players": [{
+                "starting_players": [
+                    {
+                        "player_name": "Emiliano Martínez",
+                        "player_number": 23,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Nahuel Molina",
+                        "player_number": 21,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Cristian Romero",
+                        "player_number": 13,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Nicolás Otamendi",
+                        "player_number": 19,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Nicolás Tagliafico",
+                        "player_number": 3,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Rodrigo de Paul",
+                        "player_number": 7,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Alexis Mac Allister",
+                        "player_number": 20,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Enzo Fernández",
+                        "player_number": 8,
+                        "player_position": 8
+                    },
+                    {
                         "player_name": "Ángel Di María",
                         "player_number": 11,
                         "player_position": 9
@@ -2071,6 +2112,11 @@
                         "player_name": "Julián Álvarez",
                         "player_number": 9,
                         "player_position": 10
+                    },
+                    {
+                        "player_name": "Nicolás González",
+                        "player_number": 15,
+                        "player_position": 11
                     }
                 ],
                 "substitutes": [{
@@ -2086,7 +2132,7 @@
                         "player_number": 2
                     }
                 ],
-                "coach": ""
+                "coach": "L. Scaloni"
             }
         },
         "goal_scorers": [{
@@ -2320,7 +2366,7 @@
                         "player_number": 10
                     }
                 ],
-                "coach": ""
+                "coach": "Félix Sánchez"
             },
             "awayteam": {
                 "system": "4-2-3-1",
@@ -2338,7 +2384,7 @@
                         "player_number": 11
                     }
                 ],
-                "coach": ""
+                "coach": "M. Bielsa"
             }
         },
         "goal_scorers": [{
@@ -2589,7 +2635,7 @@
                         "player_number": 11
                     }
                 ],
-                "coach": ""
+                "coach": "F. Batista"
             },
             "awayteam": {
                 "system": "4-3-3",
@@ -2613,7 +2659,7 @@
                         "player_number": 18
                     }
                 ],
-                "coach": ""
+                "coach": "Guillermo Barros Schelotto"
             }
         },
         "goal_scorers": [{
@@ -2835,7 +2881,7 @@
                         "player_number": 5
                     }
                 ],
-                "coach": ""
+                "coach": "J. Reynoso"
             },
             "awayteam": {
                 "system": "4-2-3-1",
