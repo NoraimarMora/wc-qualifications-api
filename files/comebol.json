@@ -2667,7 +2667,8 @@
             "player": "S. Rondon",
             "team": "home"
         }],
-        "cards": [{
+        "cards": [
+            {
                 "time": "37",
                 "card": "yellow card",
                 "player": "Sosa Samuel",
@@ -2852,10 +2853,46 @@
         "lineups": {
             "hometeam": {
                 "system": "4-4-2",
-                "starting_players": [{
+                "starting_players": [
+                    {
+                        "player_name": "Pedro Gallese",
+                        "player_number": 1,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Luis Abram",
+                        "player_number": 2,
+                        "player_position": 4
+                    },
+                    {
                         "player_name": "Aldo Corzo",
                         "player_number": 3,
                         "player_position": 2
+                    },
+                    {
+                        "player_name": "Marcos Lopez",
+                        "player_number": 4,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Miguel Trauco",
+                        "player_number": 6,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Andy Polo",
+                        "player_number": 7,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Paolo Guerrero",
+                        "player_number": 9,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Renato Tapia",
+                        "player_number": 13,
+                        "player_position": 3
                     },
                     {
                         "player_name": "Wilder Cartagena",
@@ -2863,30 +2900,177 @@
                         "player_position": 7
                     },
                     {
-                        "player_name": "Marcos López",
-                        "player_number": 4,
-                        "player_position": 9
+                        "player_name": "Andre Carrillo",
+                        "player_number": 18,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Yoshimar Yotun",
+                        "player_number": 19,
+                        "player_position": 8
                     }
                 ],
-                "substitutes": [{
-                        "player_name": "Alexander Callens",
-                        "player_number": 22
+                "substitutes": [
+                    {
+                        "player_name": "Carlos Caceda",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Renato Solis",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Miguel Araujo",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Piero Quispe",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Sergio Pena",
+                        "player_number": 10
+                    },
+                    {
+                        "player_name": "Jesus Castillo",
+                        "player_number": 11
+                    },
+                    {
+                        "player_name": "Raul Ruidiaz",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "Carlos Ascues",
+                        "player_number": 16
                     },
                     {
                         "player_name": "Nilson Loyola",
                         "player_number": 17
                     },
                     {
-                        "player_name": "Miguel Araujo",
-                        "player_number": 5
+                        "player_name": "Alex Valera",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Alexander Callens",
+                        "player_number": 22
+                    },
+                    {
+                        "player_name": "Joao Grimaldo",
+                        "player_number": 23
                     }
                 ],
                 "coach": "J. Reynoso"
             },
             "awayteam": {
                 "system": "4-2-3-1",
-                "starting_players": [],
-                "substitutes": [],
+                "starting_players": [
+                    {
+                        "player_name": "Ederson",
+                        "player_number": 23,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Danilo",
+                        "player_number": 2,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Marquinhos",
+                        "player_number": 3,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Gabriel",
+                        "player_number": 4,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Casemiro",
+                        "player_number": 5,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Renan Lodi",
+                        "player_number": 6,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Raphinha",
+                        "player_number": 7,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Bruno Guimaraes",
+                        "player_number": 8,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Richarlison",
+                        "player_number": 9,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Neymar",
+                        "player_number": 10,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Rodrygo",
+                        "player_number": 11,
+                        "player_position": 10
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Alisson",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Lucas Perri",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Vanderson",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Nino",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Roger Ibañez Da Silva",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "Caio Henrique Oliveira Silva",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Andre",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Joelinton",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Gabriel Jesus",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "Raphael Veiga",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Matheus Cunha",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Gabriel Martinelli",
+                        "player_number": 22
+                    }
+                ],
                 "coach": "Fernando Diniz"
             }
         },
@@ -2895,7 +3079,8 @@
             "player": "Marquinhos",
             "team": "away"
         }],
-        "cards": [{
+        "cards": [
+            {
                 "time": "42",
                 "card": "yellow card",
                 "player": "Raphinha",
@@ -3110,7 +3295,7 @@
                         "player_number": 16
                     }
                 ],
-                "coach": ""
+                "coach": "E. Berizzo"
             },
             "awayteam": {
                 "system": "4-3-3",
@@ -3132,7 +3317,7 @@
                         "player_number": 4
                     }
                 ],
-                "coach": ""
+                "coach": "N. Lorenzo"
             }
         },
         "goal_scorers": [],
@@ -3340,7 +3525,7 @@
                         "player_number": 2
                     }
                 ],
-                "coach": ""
+                "coach": "L. Scaloni"
             },
             "awayteam": {
                 "system": "3-4-3",
@@ -3395,7 +3580,7 @@
                         "player_number": 18
                     }
                 ],
-                "coach": ""
+                "coach": "D. Garnero"
             }
         },
         "goal_scorers": [{
@@ -3604,7 +3789,7 @@
                         "player_number": 16
                     }
                 ],
-                "coach": "Dunga"
+                "coach": "Fernando Diniz"
             },
             "awayteam": {
                 "system": "4-4-2",
@@ -3632,7 +3817,7 @@
                         "player_number": 18
                     }
                 ],
-                "coach": ""
+                "coach": "F. Batista"
             }
         },
         "goal_scorers": [{
@@ -3856,7 +4041,7 @@
                         "player_number": 16
                     }
                 ],
-                "coach": ""
+                "coach": "E. Berizzo"
             },
             "awayteam": {
                 "system": "4-2-3-1",
@@ -4136,7 +4321,7 @@
                         "player_number": 6
                     }
                 ],
-                "coach": "J. Pekerman"
+                "coach": "N. Lorenzo"
             },
             "awayteam": {
                 "system": "4-2-3-1",
@@ -4173,7 +4358,7 @@
                         "player_number": 1
                     }
                 ],
-                "coach": "Ó. Tabárez"
+                "coach": "M. Bielsa"
             }
         },
         "goal_scorers": [{
@@ -4430,7 +4615,7 @@
                         "player_number": 19
                     }
                 ],
-                "coach": "J. Baldivieso"
+                "coach": "G. Costas"
             },
             "awayteam": {
                 "system": "4-4-2",
@@ -4485,7 +4670,7 @@
                         "player_number": 10
                     }
                 ],
-                "coach": ""
+                "coach": "Félix Sánchez"
             }
         },
         "goal_scorers": [{
@@ -4658,7 +4843,7 @@
                         "player_number": 5
                     }
                 ],
-                "coach": ""
+                "coach": "Félix Sánchez"
             },
             "awayteam": {
                 "system": "4-2-3-1",
@@ -4691,7 +4876,7 @@
                         "player_number": 12
                     }
                 ],
-                "coach": ""
+                "coach": "N. Lorenzo"
             }
         },
         "goal_scorers": [],
@@ -4803,17 +4988,17 @@
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-3-3",
                 "starting_players": [{
                     "player_name": "E. Bello",
                     "player_number": 18,
                     "player_position": 0
                 }],
                 "substitutes": [],
-                "coach": ""
+                "coach": "F. Batista"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-3-3",
                 "starting_players": [{
                         "player_name": "P. Díaz",
                         "player_number": 5,
@@ -4838,7 +5023,7 @@
                         "player_number": 13
                     }
                 ],
-                "coach": ""
+                "coach": "E. Berizzo"
             }
         },
         "goal_scorers": [{
@@ -4963,7 +5148,7 @@
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [{
                         "player_name": "A. Espínola",
                         "player_number": 13,
@@ -4992,7 +5177,7 @@
                 "coach": "D. Garnero"
             },
             "awayteam": {
-                "system": "",
+                "system": "5-3-2",
                 "starting_players": [{
                         "player_name": "D. Bejarano",
                         "player_number": 11,
@@ -5013,7 +5198,7 @@
                     "player_name": "L. Justiniano",
                     "player_number": 6
                 }],
-                "coach": ""
+                "coach": "G. Costas"
             }
         },
         "goal_scorers": [{
@@ -5155,7 +5340,7 @@
                         "player_number": 22
                     }
                 ],
-                "coach": ""
+                "coach": "M. Bielsa"
             },
             "awayteam": {
                 "system": "4-2-3-1",
@@ -5192,7 +5377,7 @@
                         "player_number": 2
                     }
                 ],
-                "coach": ""
+                "coach": "Fernando Diniz"
             }
         },
         "goal_scorers": [{
@@ -5365,7 +5550,7 @@
                         "player_number": 23
                     }
                 ],
-                "coach": ""
+                "coach": "J. Reynoso"
             },
             "awayteam": {
                 "system": "4-3-3",
@@ -5375,7 +5560,7 @@
                     "player_position": 0
                 }],
                 "substitutes": [],
-                "coach": ""
+                "coach": "L. Scaloni"
             }
         },
         "goal_scorers": [{
@@ -6001,7 +6186,7 @@
                         "player_number": 3
                     }
                 ],
-                "coach": ""
+                "coach": "F. Batista"
             },
             "awayteam": {
                 "system": "4-2-3-1",
@@ -6042,7 +6227,7 @@
                         "player_number": 8
                     }
                 ],
-                "coach": ""
+                "coach": "Félix Sánchez"
             }
         },
         "goal_scorers": [],
@@ -6268,7 +6453,7 @@
                         "player_number": 3
                     }
                 ],
-                "coach": ""
+                "coach": "Antônio Carlos Zago"
             },
             "awayteam": {
                 "system": "4-3-3",
@@ -6310,7 +6495,7 @@
                         "player_number": 21
                     }
                 ],
-                "coach": ""
+                "coach": "J. Reynoso"
             }
         },
         "goal_scorers": [{
@@ -6534,7 +6719,7 @@
                         "player_number": 11
                     }
                 ],
-                "coach": ""
+                "coach": "N. Lorenzo"
             },
             "awayteam": {
                 "system": "4-4-2",
@@ -6584,7 +6769,7 @@
                         "player_number": 23
                     }
                 ],
-                "coach": ""
+                "coach": "Fernando Diniz"
             }
         },
         "goal_scorers": [{
@@ -6788,7 +6973,7 @@
                     "player_name": "Renan Lodi",
                     "player_number": 6
                 }],
-                "coach": ""
+                "coach": "Fernando Diniz"
             },
             "awayteam": {
                 "system": "4-4-2",
@@ -6812,7 +6997,7 @@
                         "player_number": 15
                     }
                 ],
-                "coach": ""
+                "coach": "L. Scaloni"
             }
         },
         "goal_scorers": [{
@@ -7009,7 +7194,7 @@
                     "player_name": "Leonel Quiñónez",
                     "player_number": 3
                 }],
-                "coach": ""
+                "coach": "Félix Sánchez"
             },
             "awayteam": {
                 "system": "5-3-2",
@@ -7023,7 +7208,7 @@
                         "player_number": 17
                     }
                 ],
-                "coach": ""
+                "coach": "N. Cordova"
             }
         },
         "goal_scorers": [{
@@ -7224,7 +7409,7 @@
                         "player_number": 2
                     }
                 ],
-                "coach": ""
+                "coach": "D. Garnero"
             },
             "awayteam": {
                 "system": "4-2-3-1",
@@ -7237,7 +7422,7 @@
                     "player_name": "Mateus Uribe",
                     "player_number": 15
                 }],
-                "coach": ""
+                "coach": "N. Lorenzo"
             }
         },
         "goal_scorers": [{
@@ -7454,7 +7639,7 @@
                     }
                 ],
                 "substitutes": [],
-                "coach": ""
+                "coach": "M. Bielsa"
             },
             "awayteam": {
                 "system": "4-5-1",
@@ -7664,7 +7849,7 @@
                         "player_number": 5
                     }
                 ],
-                "coach": ""
+                "coach": "J. Reynoso"
             },
             "awayteam": {
                 "system": "4-4-2",
@@ -7674,7 +7859,7 @@
                     "player_position": 7
                 }],
                 "substitutes": [],
-                "coach": ""
+                "coach": "F. Batista"
             }
         },
         "goal_scorers": [{
@@ -7918,7 +8103,7 @@
                         "player_number": 18
                     }
                 ],
-                "coach": ""
+                "coach": "Ó. Villegas"
             },
             "awayteam": {
                 "system": "5-3-2",
@@ -7970,7 +8155,7 @@
                         "player_number": 7
                     }
                 ],
-                "coach": ""
+                "coach": "F. Batista"
             }
         },
         "goal_scorers": [{
@@ -8206,7 +8391,7 @@
                         "player_number": 21
                     }
                 ],
-                "coach": ""
+                "coach": "L. Scaloni"
             },
             "awayteam": {
                 "system": "4-3-3",
@@ -8269,7 +8454,7 @@
                         "player_number": 16
                     }
                 ],
-                "coach": ""
+                "coach": "R. Gareca"
             }
         },
         "goal_scorers": [{
@@ -8523,7 +8708,7 @@
                         "player_number": 19
                     }
                 ],
-                "coach": ""
+                "coach": "M. Bielsa"
             },
             "awayteam": {
                 "system": "4-2-3-1",
@@ -8574,7 +8759,7 @@
                         "player_number": 7
                     }
                 ],
-                "coach": ""
+                "coach": "G. Alfaro"
             }
         },
         "goal_scorers": [],
@@ -8844,7 +9029,7 @@
                         "player_number": 19
                     }
                 ],
-                "coach": ""
+                "coach": "N. Lorenzo"
             }
         },
         "goal_scorers": [{
@@ -9113,7 +9298,7 @@
                         "player_number": 19
                     }
                 ],
-                "coach": ""
+                "coach": "S. Beccacece"
             }
         },
         "goal_scorers": [{
@@ -9186,8 +9371,8 @@
                     "en": "Corners",
                     "es": "Tiros de esquina"
                 },
-                "home": "",
-                "away": ""
+                "home": "4",
+                "away": "2"
             },
             {
                 "type": {
@@ -9314,7 +9499,7 @@
                 "system": "3-5-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "J. Fossati"
             }
         },
         "goal_scorers": [{
@@ -9520,7 +9705,7 @@
                     "player_name": "Gonzalo Tapia",
                     "player_number": 14
                 }],
-                "coach": ""
+                "coach": "R. Gareca"
             },
             "awayteam": {
                 "system": "4-3-3",
@@ -9775,7 +9960,7 @@
                         "player_number": 3
                     }
                 ],
-                "coach": ""
+                "coach": "Dorival Júnior"
             }
         },
         "goal_scorers": [{
@@ -9984,7 +10169,7 @@
                     "player_name": "Juan Cabal",
                     "player_number": 13
                 }],
-                "coach": ""
+                "coach": "N. Lorenzo"
             },
             "awayteam": {
                 "system": "4-4-2",
@@ -10006,7 +10191,7 @@
                         "player_number": 21
                     }
                 ],
-                "coach": ""
+                "coach": "L. Scaloni"
             }
         },
         "goal_scorers": [{
@@ -10222,7 +10407,7 @@
                         "player_number": 5
                     }
                 ],
-                "coach": ""
+                "coach": "F. Batista"
             },
             "awayteam": {
                 "system": "4-3-3",
@@ -10255,7 +10440,7 @@
                         "player_number": 8
                     }
                 ],
-                "coach": ""
+                "coach": "M. Bielsa"
             }
         },
         "goal_scorers": [],
@@ -10448,7 +10633,7 @@
         "time": "16:00",
         "status": "Finished",
         "round": "9",
-        "referee": "",
+        "referee": "Wilton Pereira Sampaio",
         "stadium": "Estadio Municipal El Alto (El Alto)",
         "stage": "Current",
         "hometeam_id": "162",
@@ -10460,24 +10645,385 @@
         "lineups": {
             "hometeam": {
                 "system": "4-3-3",
-                "starting_players": [],
-                "substitutes": [],
+                "starting_players": [
+                    {
+                        "player_name": "Guillermo Vizcarra",
+                        "player_number": 23,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Diego Medina",
+                        "player_number": 3,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Luis Haquin",
+                        "player_number": 4,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Marcelo Suarez",
+                        "player_number": 5,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Jose Sagredo",
+                        "player_number": 21,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Hector Cuellar",
+                        "player_number": 6,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Miguel Terceros",
+                        "player_number": 7,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Ramiro Vaca",
+                        "player_number": 10,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Robson Matheus",
+                        "player_number": 14,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Jeyson Chura",
+                        "player_number": 19,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Carmelo Algaranaz",
+                        "player_number": 11,
+                        "player_position": 10
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Alejandro Torrez",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Bruno Poveda",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Widen Saucedo",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Sebastian Alvarez",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Luis Paz",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Daniel Camacho",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Gabriel Villamil",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "Adalid Terrazas",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Lucas Chavez",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Enzo Monteiro",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Jhon Velasquez",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Bruno Miranda",
+                        "player_number": 22
+                    }
+                ],
                 "coach": "Ó. Villegas"
             },
             "awayteam": {
                 "system": "4-2-3-1",
-                "starting_players": [],
-                "substitutes": [],
+                "starting_players": [
+                    {
+                        "player_name": "Camilo Vargas",
+                        "player_number": 12,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Willer Ditta",
+                        "player_number": 2,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Jhon Lucumi",
+                        "player_number": 3,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Santiago Arias",
+                        "player_number": 4,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Cristian Borja",
+                        "player_number": 18,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Kevin Castano",
+                        "player_number": 5,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "James Rodriguez",
+                        "player_number": 10,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Jhon Arias",
+                        "player_number": 11,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Mateus Uribe",
+                        "player_number": 15,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Luis Diaz",
+                        "player_number": 7,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Roger Martinez",
+                        "player_number": 19,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Kevin Mier",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Alvaro Montero",
+                        "player_number": 22
+                    },
+                    {
+                        "player_name": "Yerry Mina",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Johan Mojica",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Andres Felipe Roman",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Davinson Sanchez",
+                        "player_number": 23
+                    },
+                    {
+                        "player_name": "Richard Rios",
+                        "player_number": 6
+                    },
+                    {
+                        "player_name": "Yaser Asprilla",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Jefferson Lerma",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Juan Quintero",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Jhon Córdoba",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Juan Hernandez",
+                        "player_number": 14
+                    }
+                ],
                 "coach": "N. Lorenzo"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [{
+            "time": "57",
+            "player": "Miguel Terceros",
+            "team": "home"
+        }],
+        "cards": [
+            {
+                "time": "90+2",
+                "card": "yellow card",
+                "player": "Bruno Miranda",
+                "team": "home"
+            },
+            {
+                "time": "19",
+                "card": "red card",
+                "player": "Hector Cuellar",
+                "team": "home"
+            },
+            {
+                "time": "51",
+                "card": "yellow card",
+                "player": "Kevin Castano",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "30",
+                    "in": "Gabriel Villamil",
+                    "out": "Jeyson Chura"
+                },
+                {
+                    "time": "66",
+                    "in": "Luis Paz",
+                    "out": "Miguel Terceros"
+                },
+                {
+                    "time": "79",
+                    "in": "Bruno Miranda",
+                    "out": "Carmelo Algaranaz"
+                },
+                {
+                    "time": "79",
+                    "in": "Adalid Terrazas",
+                    "out": "Robson Matheus"
+                }
+            ],
+            "away": [
+                {
+                    "time": "23",
+                    "in": "Jhon Córdoba",
+                    "out": "Roger Martinez"
+                },
+                {
+                    "time": "45",
+                    "in": "Richard Rios",
+                    "out": "Mateus Uribe"
+                },
+                {
+                    "time": "61",
+                    "in": "Yaser Asprilla",
+                    "out": "Jhon Arias"
+                },
+                {
+                    "time": "61",
+                    "in": "Jefferson Lerma",
+                    "out": "Kevin Castano"
+                },
+                {
+                    "time": "77",
+                    "in": "Juan Hernandez",
+                    "out": "Luis Diaz"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "14",
+                "away": "20"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "8",
+                "away": "9"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "9",
+                "away": "8"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "5",
+                "away": "9"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "1",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "34%",
+                "away": "66%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "1",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "241",
+                "away": "454"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "197",
+                "away": "417"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "1",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270984,
@@ -10486,7 +11032,7 @@
         "time": "17:00",
         "status": "Finished",
         "round": "9",
-        "referee": "",
+        "referee": "Raphael Claus",
         "stadium": "Estadio Rodrigo Paz Delgado (Quito)",
         "stage": "Current",
         "hometeam_id": "169",
@@ -10497,25 +11043,381 @@
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "3-4-3",
+                "starting_players": [
+                    {
+                        "player_name": "Hernan Galindez",
+                        "player_number": 1,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Felix Torres",
+                        "player_number": 2,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Piero Hincapie",
+                        "player_number": 3,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "William Pacho",
+                        "player_number": 6,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Pervis Estupinan",
+                        "player_number": 7,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Angelo Preciado",
+                        "player_number": 17,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Kendry Paez",
+                        "player_number": 10,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Alan Franco",
+                        "player_number": 21,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Moises Caicedo",
+                        "player_number": 23,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Enner Valencia",
+                        "player_number": 13,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Gonzalo Plata",
+                        "player_number": 19,
+                        "player_position": 9
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Moises Ramirez",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Gonzalo Valle",
+                        "player_number": 22
+                    },
+                    {
+                        "player_name": "Jhoanner Chavez",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "Cristian Ramirez",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Joel Ordonez",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "John Yeboah",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Alan Minda",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Oscar Zambrano",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "Jeremy Sarmiento",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Pedro Vite",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Leonardo Campana",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Kevin Rodriguez",
+                        "player_number": 11
+                    }
+                ],
+                "coach": "S. Beccacece"
             },
             "awayteam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "3-4-3",
+                "starting_players": [
+                    {
+                        "player_name": "Roberto Fernandez",
+                        "player_number": 12,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Omar Alderete",
+                        "player_number": 3,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Juan Caceres",
+                        "player_number": 4,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Fabian Balbuena",
+                        "player_number": 5,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Gonzalo Sandez",
+                        "player_number": 6,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Gustavo Gomez",
+                        "player_number": 15,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Miguel Almiron",
+                        "player_number": 10,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Adrian Cubas",
+                        "player_number": 14,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Damian Bobadilla",
+                        "player_number": 16,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Alex Arce",
+                        "player_number": 18,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Julio Enciso",
+                        "player_number": 19,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Carlos Coronel",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Juan Espinola",
+                        "player_number": 22
+                    },
+                    {
+                        "player_name": "Gustavo Velazquez",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Saul Salcedo",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Santiago Arzamendia",
+                        "player_number": 23
+                    },
+                    {
+                        "player_name": "Matias Galarza",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Mathias Villasanti",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Ramon Sosa",
+                        "player_number": 7
+                    },
+                    {
+                        "player_name": "Antonio Sanabria",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Angel Romero",
+                        "player_number": 11
+                    },
+                    {
+                        "player_name": "Alfio Oviedo",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Isidro Pitta",
+                        "player_number": 21
+                    }
+                ],
+                "coach": "G. Alfaro"
             }
         },
         "goal_scorers": [],
-        "cards": [],
+        "cards": [
+            {
+                "time": "30",
+                "card": "yellow card",
+                "player": "Moises Caicedo",
+                "team": "home"
+            },
+            {
+                "time": "82",
+                "card": "yellow card",
+                "player": "Gonzalo Sandez",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Alan Minda",
+                    "out": "Kendry Paez"
+                },
+                {
+                    "time": "45",
+                    "in": "Jeremy Sarmiento",
+                    "out": "Angelo Preciado"
+                },
+                {
+                    "time": "65",
+                    "in": "Leonardo Campana",
+                    "out": "Gonzalo Plata"
+                },
+                {
+                    "time": "75",
+                    "in": "John Yeboah",
+                    "out": "Enner Valencia"
+                },
+                {
+                    "time": "75",
+                    "in": "Cristian Ramirez",
+                    "out": "Pervis Estupinan"
+                }
+            ],
+            "away": [
+                {
+                    "time": "65",
+                    "in": "Ramon Sosa",
+                    "out": "Julio Enciso"
+                },
+                {
+                    "time": "65",
+                    "in": "Isidro Pitta",
+                    "out": "Alex Arce"
+                },
+                {
+                    "time": "73",
+                    "in": "Mathias Villasanti",
+                    "out": "Damian Bobadilla"
+                },
+                {
+                    "time": "73",
+                    "in": "Angel Romero",
+                    "out": "Miguel Almiron"
+                },
+                {
+                    "time": "82",
+                    "in": "Santiago Arzamendia",
+                    "out": "Gonzalo Sandez"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "14",
+                "away": "3"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "5",
+                "away": "2"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "6",
+                "away": "10"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "4",
+                "away": "3"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "3",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "77%",
+                "away": "23%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "1",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "624",
+                "away": "189"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "555",
+                "away": "109"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "0",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270985,
@@ -10524,7 +11426,7 @@
         "time": "17:00",
         "status": "Finished",
         "round": "9",
-        "referee": "",
+        "referee": "Gustavo Tejera",
         "stadium": "Estadio Monumental de Maturín (Maturín)",
         "stage": "Current",
         "hometeam_id": "186",
@@ -10535,25 +11437,377 @@
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-3-3",
+                "starting_players": [
+                    {
+                        "player_name": "Rafael Romo",
+                        "player_number": 22,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Nahuel Ferraresi",
+                        "player_number": 2,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Yordan Osorio",
+                        "player_number": 3,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Jon Aramburu",
+                        "player_number": 4,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Alexander Gonzalez",
+                        "player_number": 21,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Yangel Herrera",
+                        "player_number": 6,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Jefferson Savarino",
+                        "player_number": 7,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Tomas Rincon",
+                        "player_number": 8,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Yeferson Soteldo",
+                        "player_number": 10,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Jose Martinez",
+                        "player_number": 13,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Salomon Rondon",
+                        "player_number": 23,
+                        "player_position": 10
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Jose Contreras",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Alain Baroja",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Christian Makoun",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Ruben Ramirez",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Delvin Alfonzo",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "Darwin Machis",
+                        "player_number": 11
+                    },
+                    {
+                        "player_name": "Telasco Segovia",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Kervin Andrade",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Bryant Ortega",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Edson Castillo",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "Eduard Bello",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Jhonder Cadiz",
+                        "player_number": 9
+                    }
+                ],
+                "coach": "F. Batista"
             },
             "awayteam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-1-2-1-2",
+                "starting_players": [
+                    {
+                        "player_name": "Geronimo Rulli",
+                        "player_number": 12,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Nicolas Tagliafico",
+                        "player_number": 3,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "German Pezzella",
+                        "player_number": 6,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Nahuel Molina",
+                        "player_number": 16,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Nicolas Otamendi",
+                        "player_number": 19,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Rodrigo De Paul",
+                        "player_number": 7,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Enzo Fernandez",
+                        "player_number": 8,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Giovani Lo Celso",
+                        "player_number": 11,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Thiago Almada",
+                        "player_number": 15,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Julian Alvarez",
+                        "player_number": 9,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Lionel Messi",
+                        "player_number": 10,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Walter Benitez",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Juan Musso",
+                        "player_number": 23
+                    },
+                    {
+                        "player_name": "Lisandro Martinez",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Gonzalo Montiel",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "Leonardo Balerdi",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Julio Soler",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Leandro Paredes",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Exequiel Palacios",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Facundo Buonanotte",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Alexis mac allister",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Nicolas Paz",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Lautaro Martinez",
+                        "player_number": 22
+                    }
+                ],
+                "coach": "L. Scaloni"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "64",
+                "player": "Salomon Rondon",
+                "team": "home"
+            },
+            {
+                "time": "12",
+                "player": "Nicolas Otamendi",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "31",
+                "card": "yellow card",
+                "player": "Jose Martinez",
+                "team": "home"
+            },
+            {
+                "time": "90+3",
+                "card": "yellow card",
+                "player": "German Pezzella",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "58",
+                    "in": "Darwin Machis",
+                    "out": "Jefferson Savarino"
+                },
+                {
+                    "time": "58",
+                    "in": "Jhonder Cadiz",
+                    "out": "Tomas Rincon"
+                },
+                {
+                    "time": "90+2",
+                    "in": "Edson Castillo",
+                    "out": "Jose Martinez"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Gonzalo Montiel",
+                    "out": "Thiago almada"
+                },
+                {
+                    "time": "67",
+                    "in": "Leonardo Balerdi",
+                    "out": "Giovani Lo Celso"
+                },
+                {
+                    "time": "83",
+                    "in": "Leandro Paredes",
+                    "out": "Enzo Fernandez"
+                },
+                {
+                    "time": "83",
+                    "in": "Lautaro Martinez",
+                    "out": "Julian Alvarez"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "16",
+                "away": "8"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "6",
+                "away": "4"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "20",
+                "away": "13"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "8",
+                "away": "4"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "6",
+                "away": "0"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "40%",
+                "away": "60%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "1",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "243",
+                "away": "382"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "136",
+                "away": "271"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "0",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270986,
@@ -10562,7 +11816,7 @@
         "time": "20:00",
         "status": "Finished",
         "round": "9",
-        "referee": "",
+        "referee": "Darío Herrera",
         "stadium": "Estadio Nacional Julio Martínez Prádanos (Santiago de Chile)",
         "stage": "Current",
         "hometeam_id": "163",
@@ -10573,25 +11827,409 @@
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-2-3-1",
+                "starting_players": [
+                    {
+                        "player_name": "Brayan Cortes",
+                        "player_number": 23,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Guillermo Maripan",
+                        "player_number": 3,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Thomas Galdames",
+                        "player_number": 6,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Felipe Loyola",
+                        "player_number": 14,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Kuscevic Benjamin",
+                        "player_number": 19,
+                        "player_position": 0
+                    },
+                    {
+                        "player_name": "Diego Valdes",
+                        "player_number": 15,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Esteban Pavez",
+                        "player_number": 17,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Rodrigo Echeverria",
+                        "player_number": 18,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Dario Osorio",
+                        "player_number": 8,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Victor Davila",
+                        "player_number": 10,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Eduardo Vargas",
+                        "player_number": 11,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Lawrence Vigouroux",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Vicente Reyes",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Marcelo Morales",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Fabian Hormazabal",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "Matias Zaldivia",
+                        "player_number": 22
+                    },
+                    {
+                        "player_name": "Carlos Palacios",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Ulises Ortegoza",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Williams Alarcon",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Lucas Cepeda",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Gonzalo Tapia",
+                        "player_number": 7
+                    },
+                    {
+                        "player_name": "Maximiliano Guerrero",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Luciano Cabral",
+                        "player_number": 21
+                    }
+                ],
+                "coach": "R. Gareca"
             },
             "awayteam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-2-3-1",
+                "starting_players": [
+                    {
+                        "player_name": "Ederson",
+                        "player_number": 23,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Marquinhos",
+                        "player_number": 4,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Gabriel",
+                        "player_number": 14,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Abner",
+                        "player_number": 16,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Danilo",
+                        "player_number": 2,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Lucas Paqueta",
+                        "player_number": 8,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Andre",
+                        "player_number": 18,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Savio",
+                        "player_number": 20,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Rodrygo",
+                        "player_number": 10,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Raphinha",
+                        "player_number": 11,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Igor Jesus",
+                        "player_number": 19,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Weverton",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Bento",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Fabricio Bruno",
+                        "player_number": 3
+                    },
+                    {
+                        "player_name": "Alex Telles",
+                        "player_number": 6
+                    },
+                    {
+                        "player_name": "Vanderson",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Lucas Beraldo",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Bruno Guimaraes",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Andreas Pereira",
+                        "player_number": 7
+                    },
+                    {
+                        "player_name": "Gerson",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "Luiz Henrique",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Endrick",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Gabriel martinelli",
+                        "player_number": 22
+                    }
+                ],
+                "coach": "Dorival Júnior"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "2",
+                "player": "Eduardo Vargas",
+                "team": "home"
+            },
+            {
+                "time": "89",
+                "player": "Luiz Henrique",
+                "team": "away"
+            },
+            {
+                "time": "45+1",
+                "player": "Igor Jesus",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "71",
+                "card": "yellow card",
+                "player": "Felipe Loyola",
+                "team": "home"
+            },
+            {
+                "time": "39",
+                "card": "yellow card",
+                "player": "Thomas Ignacio Galdames Millan",
+                "team": "home"
+            },
+            {
+                "time": "61",
+                "card": "yellow card",
+                "player": "Danilo",
+                "team": "away"
+            },
+            {
+                "time": "2",
+                "card": "yellow card",
+                "player": "Lucas Paqueta",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "58",
+                    "in": "Lucas Cepeda",
+                    "out": "Victor Davila"
+                },
+                {
+                    "time": "64",
+                    "in": "Marcelo Morales",
+                    "out": "Thomas Ignacio Galdames Millan"
+                },
+                {
+                    "time": "76",
+                    "in": "Williams Alarcon",
+                    "out": "Esteban Pavez"
+                },
+                {
+                    "time": "76",
+                    "in": "Gonzalo Tapia",
+                    "out": "Diego Valdes"
+                },
+                {
+                    "time": "76",
+                    "in": "Carlos Palacios",
+                    "out": "Eduardo Vargas"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Bruno Guimaraes",
+                    "out": "Andre"
+                },
+                {
+                    "time": "45",
+                    "in": "Gerson",
+                    "out": "Lucas Paqueta"
+                },
+                {
+                    "time": "67",
+                    "in": "Luiz Henrique",
+                    "out": "Savio"
+                },
+                {
+                    "time": "76",
+                    "in": "Endrick",
+                    "out": "Igor Jesus"
+                },
+                {
+                    "time": "84",
+                    "in": "Gabriel martinelli",
+                    "out": "Abner"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "7",
+                "away": "14"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "1",
+                "away": "4"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "14",
+                "away": "12"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "4",
+                "away": "7"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "2",
+                "away": "2"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "28%",
+                "away": "72%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "2",
+                "away": "2"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "233",
+                "away": "596"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "158",
+                "away": "536"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "0",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270987,
@@ -10600,7 +12238,7 @@
         "time": "21:30",
         "status": "Finished",
         "round": "9",
-        "referee": "",
+        "referee": "Facundo Raúl Tello Figueroa",
         "stadium": "Estadio Nacional de Lima (Lima)",
         "stage": "Current",
         "hometeam_id": "34",
@@ -10611,215 +12249,2462 @@
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "3-5-2",
+                "starting_players": [
+                    {
+                        "player_name": "Pedro Gallese",
+                        "player_number": 1,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Luis Abram",
+                        "player_number": 2,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Carlos Zambrano",
+                        "player_number": 5,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Miguel Araujo",
+                        "player_number": 15,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Oliver Sonne",
+                        "player_number": 19,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Alexander Callens",
+                        "player_number": 22,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Andy Polo",
+                        "player_number": 7,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Sergio Pena",
+                        "player_number": 10,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Jesus Castillo",
+                        "player_number": 13,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Edison Flores",
+                        "player_number": 20,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Alex Valera",
+                        "player_number": 23,
+                        "player_position": 10
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Carlos Caceda",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Diego Romero",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Aldo Corzo",
+                        "player_number": 3
+                    },
+                    {
+                        "player_name": "Renzo Garces",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "Jorge Murrugarra",
+                        "player_number": 6
+                    },
+                    {
+                        "player_name": "Piero Quispe",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Bryan Reyna",
+                        "player_number": 11
+                    },
+                    {
+                        "player_name": "Jean Pierre Archimbaud",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Horacio Calcaterra",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Luis Ramos",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Jose Rivera",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Joao Grimaldo",
+                        "player_number": 18
+                    }
+                ],
+                "coach": "J. Fossati"
             },
             "awayteam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "3-5-2",
+                "starting_players": [
+                    {
+                        "player_name": "Sergio Rochet",
+                        "player_number": 1,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Santiago Bueno",
+                        "player_number": 2,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Guillermo Varela",
+                        "player_number": 13,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Nicolas Fonseca",
+                        "player_number": 4,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Manuel Ugarte",
+                        "player_number": 5,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Nahitan Nandez",
+                        "player_number": 8,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Giorgian De Arrascaeta",
+                        "player_number": 10,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Federico Valverde",
+                        "player_number": 15,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Maximiliano Araujo",
+                        "player_number": 20,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Darwin Nunez",
+                        "player_number": 9,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Cristian Olivera",
+                        "player_number": 17,
+                        "player_position": 10
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Franco Israel",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Santiago Mele",
+                        "player_number": 23
+                    },
+                    {
+                        "player_name": "Jose Luis Rodriguez",
+                        "player_number": 3
+                    },
+                    {
+                        "player_name": "Marcelo Saracchi",
+                        "player_number": 6
+                    },
+                    {
+                        "player_name": "Santiago Mourino",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Nicolas De La Cruz",
+                        "player_number": 7
+                    },
+                    {
+                        "player_name": "Emiliano Martinez",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Facundo Bernal",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Facundo Pellistri",
+                        "player_number": 11
+                    },
+                    {
+                        "player_name": "Brian Rodriguez",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "Facundo Torres",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Matias Abaldo",
+                        "player_number": 22
+                    }
+                ],
+                "coach": "M. Bielsa"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "87",
+                "player": "Miguel Araujo",
+                "team": "home"
+            }
+        ],
+        "cards": [
+            {
+                "time": "83",
+                "card": "yellow card",
+                "player": "Nahitan Nandez",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "70",
+                    "in": "Piero Quispe",
+                    "out": "Alexander Callens"
+                },
+                {
+                    "time": "70",
+                    "in": "Bryan Reyna",
+                    "out": "Edison Flores"
+                },
+                {
+                    "time": "80",
+                    "in": "Jean Pierre Archimbaud",
+                    "out": "Oliver Sonne"
+                },
+                {
+                    "time": "80",
+                    "in": "Luis Ramos",
+                    "out": "Alex Valera"
+                },
+                {
+                    "time": "88",
+                    "in": "Renzo Garces",
+                    "out": "Sergio Pena"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Facundo Pellistri",
+                    "out": "Cristian Olivera"
+                },
+                {
+                    "time": "88",
+                    "in": "Brian Rodriguez",
+                    "out": "Nahitan Nandez"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "13",
+                "away": "8"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "3",
+                "away": "3"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "17",
+                "away": "6"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "5",
+                "away": "2"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "1",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "37%",
+                "away": "63%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "0",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "316",
+                "away": "530"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "224",
+                "away": "434"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "0",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270988,
         "league_id": 4,
         "date": "2024-10-15",
         "time": "19:30",
-        "status": "",
+        "status": "Finished",
         "round": "10",
-        "referee": "",
+        "referee": "Cristián Marcelo Garay Reyes",
         "stadium": "Estadio Centenario (Montevideo)",
         "stage": "Current",
         "hometeam_id": "136",
         "awayteam_id": "169",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "0",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-2-3-1",
+                "starting_players": [
+                    {
+                        "player_name": "Sergio Rochet",
+                        "player_number": 1,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Jose Gimenez",
+                        "player_number": 2,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Mathias Olivera",
+                        "player_number": 16,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Santiago Bueno",
+                        "player_number": 18,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Manuel Ugarte",
+                        "player_number": 5,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Nahitan Nandez",
+                        "player_number": 8,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Giorgian De Arrascaeta",
+                        "player_number": 10,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Federico Valverde",
+                        "player_number": 15,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Maximiliano Araujo",
+                        "player_number": 20,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Darwin Nunez",
+                        "player_number": 9,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Facundo Pellistri",
+                        "player_number": 11,
+                        "player_position": 8
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Franco Israel",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Santiago Mele",
+                        "player_number": 23
+                    },
+                    {
+                        "player_name": "Jose Luis Rodriguez",
+                        "player_number": 3
+                    },
+                    {
+                        "player_name": "Marcelo Saracchi",
+                        "player_number": 6
+                    },
+                    {
+                        "player_name": "Guillermo Varela",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Nicolas Fonseca",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "Nicolas De La Cruz",
+                        "player_number": 7
+                    },
+                    {
+                        "player_name": "Emiliano Martinez",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Joaquin Lavega",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Luciano Rodriguez",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "Facundo Torres",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Matias Abaldo",
+                        "player_number": 22
+                    }
+                ],
+                "coach": "M. Bielsa"
             },
             "awayteam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "5-3-2",
+                "starting_players": [
+                    {
+                        "player_name": "Hernan Galindez",
+                        "player_number": 1,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Felix Torres",
+                        "player_number": 2,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Piero Hincapie",
+                        "player_number": 3,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "William Pacho",
+                        "player_number": 6,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Pervis Estupinan",
+                        "player_number": 7,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Angelo Preciado",
+                        "player_number": 17,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Alan Minda",
+                        "player_number": 14,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Alan Franco",
+                        "player_number": 21,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Moises Caicedo",
+                        "player_number": 23,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Enner Valencia",
+                        "player_number": 13,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Gonzalo Plata",
+                        "player_number": 19,
+                        "player_position": 10
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Moises Ramirez",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Gonzalo Valle",
+                        "player_number": 22
+                    },
+                    {
+                        "player_name": "Jhoanner Chavez",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "Cristian Ramirez",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Joel Ordonez",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "John Yeboah",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Kendry Paez",
+                        "player_number": 10
+                    },
+                    {
+                        "player_name": "Oscar Zambrano",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "Jeremy Sarmiento",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Keny Arroyo",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Leonardo Campana",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Kevin Rodriguez",
+                        "player_number": 11
+                    }
+                ],
+                "coach": "S. Beccacece"
             }
         },
         "goal_scorers": [],
-        "cards": [],
+        "cards": [
+            {
+                "time": "83",
+                "card": "yellow card",
+                "player": "Nicolas Fonseca",
+                "team": "home"
+            },
+            {
+                "time": "36",
+                "card": "yellow card",
+                "player": "Moises Caicedo",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Nicolas De La Cruz",
+                    "out": "Giorgian De Arrascaeta"
+                },
+                {
+                    "time": "81",
+                    "in": "Nicolas Fonseca",
+                    "out": "Manuel Ugarte"
+                },
+                {
+                    "time": "86",
+                    "in": "Marcelo Saracchi",
+                    "out": "Mathias Olivera"
+                }
+            ],
+            "away": [
+                {
+                    "time": "58",
+                    "in": "Kevin Rodriguez",
+                    "out": "Enner Valencia"
+                },
+                {
+                    "time": "78",
+                    "in": "Keny Arroyo",
+                    "out": "Alan Minda"
+                },
+                {
+                    "time": "90+1",
+                    "in": "John Yeboah",
+                    "out": "Gonzalo Plata"
+                },
+                {
+                    "time": "90+1",
+                    "in": "Jhoanner Chavez",
+                    "out": "Pervis Estupinan"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "11",
+                "away": "8"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "4",
+                "away": "4"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "14",
+                "away": "12"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "6",
+                "away": "5"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "1",
+                "away": "0"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "55%",
+                "away": "45%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "1",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "435",
+                "away": "351"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "352",
+                "away": "273"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "0",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270992,
         "league_id": 4,
         "date": "2024-10-15",
         "time": "20:45",
-        "status": "",
+        "status": "Finished",
         "round": "10",
-        "referee": "",
+        "referee": "Esteban Ostojich",
         "stadium": "Arena BRB Mané Garrincha (Brasília, Distrito Federal)",
         "stage": "Current",
         "hometeam_id": "181",
         "awayteam_id": "34",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "4",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-2-3-1",
+                "starting_players": [
+                    {
+                        "player_name": "Ederson",
+                        "player_number": 23,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Marquinhos",
+                        "player_number": 4,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Vanderson",
+                        "player_number": 13,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Gabriel",
+                        "player_number": 14,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Abner",
+                        "player_number": 16,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Bruno Guimaraes",
+                        "player_number": 5,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Gerson",
+                        "player_number": 15,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Savio",
+                        "player_number": 20,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Rodrygo",
+                        "player_number": 10,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Raphinha",
+                        "player_number": 11,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Igor Jesus",
+                        "player_number": 19,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Weverton",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Bento",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Fabricio Bruno",
+                        "player_number": 3
+                    },
+                    {
+                        "player_name": "Alex Telles",
+                        "player_number": 6
+                    },
+                    {
+                        "player_name": "Lucas Beraldo",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Danilo",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Andreas Pereira",
+                        "player_number": 7
+                    },
+                    {
+                        "player_name": "Matheus Pereira",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Andre",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Luiz Henrique",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Endrick",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Gabriel martinelli",
+                        "player_number": 22
+                    }
+                ],
+                "coach": "Dorival Júnior"
             },
             "awayteam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "3-5-2",
+                "starting_players": [
+                    {
+                        "player_name": "Pedro Gallese",
+                        "player_number": 1,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Carlos Zambrano",
+                        "player_number": 5,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Marcos Lopez",
+                        "player_number": 6,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Miguel Araujo",
+                        "player_number": 15,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Luis Advincula",
+                        "player_number": 17,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Alexander Callens",
+                        "player_number": 22,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Sergio Pena",
+                        "player_number": 10,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Bryan Reyna",
+                        "player_number": 11,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Jesus Castillo",
+                        "player_number": 13,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Wilder Cartagena",
+                        "player_number": 16,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Edison Flores",
+                        "player_number": 20,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Carlos Caceda",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Diego Romero",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Luis Abram",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Aldo Corzo",
+                        "player_number": 3
+                    },
+                    {
+                        "player_name": "Oliver Sonne",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "Jorge Murrugarra",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "Andy Polo",
+                        "player_number": 7
+                    },
+                    {
+                        "player_name": "Piero Quispe",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Horacio Calcaterra",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Luis Ramos",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Joao Grimaldo",
+                        "player_number": 18
+                    }
+                ],
+                "coach": "J. Fossati"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "38",
+                "player": "Raphinha",
+                "team": "home"
+            },
+            {
+                "time": "71",
+                "player": "Andreas Pereira",
+                "team": "home"
+            },
+            {
+                "time": "74",
+                "player": "Luiz Henrique",
+                "team": "home"
+            },
+            {
+                "time": "54",
+                "player": "Raphinha",
+                "team": "home"
+            }
+        ],
+        "cards": [
+            {
+                "time": "82",
+                "card": "yellow card",
+                "player": "Vanderson",
+                "team": "home"
+            },
+            {
+                "time": "48",
+                "card": "yellow card",
+                "player": "Jesus Castillo",
+                "team": "away"
+            },
+            {
+                "time": "55",
+                "card": "yellow card",
+                "player": "Carlos Zambrano",
+                "team": "away"
+            },
+            {
+                "time": "7",
+                "card": "yellow card",
+                "player": "Bryan Reyna",
+                "team": "away"
+            },
+            {
+                "time": "44",
+                "card": "yellow card",
+                "player": "Pedro Gallese",
+                "team": "away"
+            },
+            {
+                "time": "68",
+                "card": "yellow card",
+                "player": "Wilder Cartagena",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "69",
+                    "in": "Andreas Pereira",
+                    "out": "Rodrygo"
+                },
+                {
+                    "time": "69",
+                    "in": "Luiz Henrique",
+                    "out": "Savio"
+                },
+                {
+                    "time": "77",
+                    "in": "Endrick",
+                    "out": "Raphinha"
+                },
+                {
+                    "time": "77",
+                    "in": "Matheus Pereira",
+                    "out": "Igor Jesus"
+                },
+                {
+                    "time": "79",
+                    "in": "Andre",
+                    "out": "Bruno Guimaraes"
+                }
+            ],
+            "away": [
+                {
+                    "time": "56",
+                    "in": "Oliver Sonne",
+                    "out": "Jesus Castillo"
+                },
+                {
+                    "time": "56",
+                    "in": "Luis Ramos",
+                    "out": "Bryan Reyna"
+                },
+                {
+                    "time": "73",
+                    "in": "Andy Polo",
+                    "out": "Luis Advincula"
+                },
+                {
+                    "time": "73",
+                    "in": "Joao Grimaldo",
+                    "out": "Edison Flores"
+                },
+                {
+                    "time": "77",
+                    "in": "Jorge Murrugarra",
+                    "out": "Sergio Pena"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "18",
+                "away": "3"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "8",
+                "away": "2"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "10",
+                "away": "17"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "6",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "0",
+                "away": "3"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "69%",
+                "away": "31%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "1",
+                "away": "5"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "506",
+                "away": "240"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "455",
+                "away": "182"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "0",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270991,
         "league_id": 4,
         "date": "2024-10-15",
         "time": "20:00",
-        "status": "",
+        "status": "Finished",
         "round": "10",
-        "referee": "",
+        "referee": "Kevin Ortega",
         "stadium": "Estadio Mâs Monumental (Capital Federal, Ciudad de Buenos Aires)",
         "stage": "Current",
         "hometeam_id": "102",
         "awayteam_id": "162",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "6",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-3-3",
+                "starting_players": [
+                    {
+                        "player_name": "Geronimo Rulli",
+                        "player_number": 12,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Nicolas Tagliafico",
+                        "player_number": 3,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Cristian Romero",
+                        "player_number": 13,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Nahuel Molina",
+                        "player_number": 16,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Nicolas Otamendi",
+                        "player_number": 19,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Rodrigo De Paul",
+                        "player_number": 7,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Enzo Fernandez",
+                        "player_number": 8,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Alexis Mac allister",
+                        "player_number": 20,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Julian Alvarez",
+                        "player_number": 9,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Lionel Messi",
+                        "player_number": 10,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Lautaro Martinez",
+                        "player_number": 22,
+                        "player_position": 10
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Walter Benitez",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Juan Musso",
+                        "player_number": 23
+                    },
+                    {
+                        "player_name": "Lisandro Martinez",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Gonzalo Montiel",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "German Pezzella",
+                        "player_number": 6
+                    },
+                    {
+                        "player_name": "Leonardo Balerdi",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Julio Soler",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Leandro Paredes",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Facundo Buonanotte",
+                        "player_number": 11
+                    },
+                    {
+                        "player_name": "Exequiel Palacios",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Thiago Almada",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "Nicolas Paz",
+                        "player_number": 18
+                    }
+                ],
+                "coach": "L. Scaloni"
             },
             "awayteam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "5-4-1",
+                "starting_players": [
+                    {
+                        "player_name": "Guillermo Vizcarra",
+                        "player_number": 23,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Diego Medina",
+                        "player_number": 3,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Luis Haquin",
+                        "player_number": 4,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Marcelo Suarez",
+                        "player_number": 5,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Jose Sagredo",
+                        "player_number": 21,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Miguel Terceros",
+                        "player_number": 7,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Ramiro Vaca",
+                        "player_number": 10,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Robson Matheus",
+                        "player_number": 14,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Gabriel Villamil",
+                        "player_number": 15,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Roberto Fernandez",
+                        "player_number": 17,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Carmelo Algaranaz",
+                        "player_number": 11,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Alejandro Torrez",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Bruno Poveda",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Marcelo Torrez",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Sebastian Alvarez",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "Luis Paz",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Adalid Terrazas",
+                        "player_number": 6
+                    },
+                    {
+                        "player_name": "Daniel Camacho",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Victor Cuellar",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Lucas Chavez",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Enzo Monteiro",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Jose Martinez",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Bruno Miranda",
+                        "player_number": 22
+                    }
+                ],
+                "coach": "Ó. Villegas"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "85",
+                "player": "Lionel Messi",
+                "team": "home"
+            },
+            {
+                "time": "18",
+                "player": "Lionel Messi",
+                "team": "home"
+            },
+            {
+                "time": "41",
+                "player": "Lautaro Martinez",
+                "team": "home"
+            },
+            {
+                "time": "83",
+                "player": "Lionel Messi",
+                "team": "home"
+            },
+            {
+                "time": "68",
+                "player": "Thiago almada",
+                "team": "home"
+            },
+            {
+                "time": "45+1",
+                "player": "Julian Alvarez",
+                "team": "home"
+            }
+        ],
+        "cards": [
+            {
+                "time": "74",
+                "card": "yellow card",
+                "player": "Carmelo Algaranaz",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "65",
+                    "in": "Thiago almada",
+                    "out": "Julian Alvarez"
+                },
+                {
+                    "time": "65",
+                    "in": "Leandro Paredes",
+                    "out": "Alexis Mac allister"
+                },
+                {
+                    "time": "65",
+                    "in": "Exequiel Palacios",
+                    "out": "Rodrigo De Paul"
+                },
+                {
+                    "time": "72",
+                    "in": "Lisandro Martinez",
+                    "out": "Nicolas Otamendi"
+                },
+                {
+                    "time": "72",
+                    "in": "Nicolas Paz",
+                    "out": "Lautaro Martinez"
+                }
+            ],
+            "away": [
+                {
+                    "time": "66",
+                    "in": "Lucas Chavez",
+                    "out": "Miguel Terceros"
+                },
+                {
+                    "time": "66",
+                    "in": "Luis Paz",
+                    "out": "Roberto Fernandez"
+                },
+                {
+                    "time": "78",
+                    "in": "Enzo Monteiro",
+                    "out": "Carmelo Algaranaz"
+                },
+                {
+                    "time": "78",
+                    "in": "Adalid Terrazas",
+                    "out": "Robson Matheus"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "14",
+                "away": "4"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "10",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "10",
+                "away": "13"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "4",
+                "away": "0"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "3",
+                "away": "0"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "73%",
+                "away": "27%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "0",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "795",
+                "away": "304"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "739",
+                "away": "246"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "0",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270989,
         "league_id": 4,
         "date": "2024-10-15",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "10",
-        "referee": "",
+        "referee": "Piero Maza Gomez",
         "stadium": "Estadio ueno Defensores del Chaco (Asunción)",
         "stage": "Current",
         "hometeam_id": "73",
         "awayteam_id": "186",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "2",
+        "awayteam_score": "1",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-2-3-1",
+                "starting_players": [
+                    {
+                        "player_name": "Roberto Fernandez",
+                        "player_number": 12,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Omar Alderete",
+                        "player_number": 3,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Juan Caceres",
+                        "player_number": 4,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Junior Alonso",
+                        "player_number": 6,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Gustavo Gomez",
+                        "player_number": 15,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Diego Gomez",
+                        "player_number": 8,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Miguel Almiron",
+                        "player_number": 10,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Adrian Cubas",
+                        "player_number": 14,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Ramon Sosa",
+                        "player_number": 7,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Julio Enciso",
+                        "player_number": 19,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Isidro Pitta",
+                        "player_number": 21,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Carlos Coronel",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Juan Espinola",
+                        "player_number": 22
+                    },
+                    {
+                        "player_name": "Gustavo Velazquez",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Fabian Balbuena",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Gonzalo Sandez",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Damian Bobadilla",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Alejandro Romero",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Mathias Villasanti",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Antonio Sanabria",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Angel Romero",
+                        "player_number": 11
+                    },
+                    {
+                        "player_name": "Alex Arce",
+                        "player_number": 18
+                    },
+                    {
+                        "player_name": "Hugo Cuenca",
+                        "player_number": 23
+                    }
+                ],
+                "coach": "G. Alfaro"
             },
             "awayteam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-2-3-1",
+                "starting_players": [
+                    {
+                        "player_name": "Rafael Romo",
+                        "player_number": 22,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Nahuel Ferraresi",
+                        "player_number": 2,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Jon Aramburu",
+                        "player_number": 4,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Ruben Ramirez",
+                        "player_number": 14,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Miguel Navarro",
+                        "player_number": 15,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Yangel Herrera",
+                        "player_number": 6,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Jefferson Savarino",
+                        "player_number": 7,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Yeferson Soteldo",
+                        "player_number": 10,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Darwin Machis",
+                        "player_number": 11,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Cristian Casseres",
+                        "player_number": 18,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Salomon Rondon",
+                        "player_number": 23,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Wuilker Farinez",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Alain Baroja",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Carlos Vivas",
+                        "player_number": 3
+                    },
+                    {
+                        "player_name": "Christian Makoun",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Alexander Gonzalez",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Tomas Rincon",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Telasco Segovia",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Kervin Andrade",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Edson Castillo",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "Eduard Bello",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Jhonder Cadiz",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Jesus Ramirez",
+                        "player_number": 13
+                    }
+                ],
+                "coach": "F. Batista"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "73",
+                "player": "Antonio Sanabria",
+                "team": "home"
+            },
+            {
+                "time": "58",
+                "player": "Antonio Sanabria",
+                "team": "home"
+            },
+            {
+                "time": "24",
+                "player": "Jon Aramburu",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "62",
+                "card": "yellow card",
+                "player": "Omar Alderete",
+                "team": "home"
+            },
+            {
+                "time": "34",
+                "card": "yellow card",
+                "player": "Juan Caceres",
+                "team": "home"
+            },
+            {
+                "time": "11",
+                "card": "yellow card",
+                "player": "Miguel Navarro",
+                "team": "away"
+            },
+            {
+                "time": "45+2",
+                "card": "yellow card",
+                "player": "Cristian Casseres",
+                "team": "away"
+            },
+            {
+                "time": "69",
+                "card": "yellow card",
+                "player": "Jon Aramburu",
+                "team": "away"
+            },
+            {
+                "time": "86",
+                "card": "yellow card",
+                "player": "Eduard Bello",
+                "team": "away"
+            },
+            {
+                "time": "37",
+                "card": "yellow card",
+                "player": "Yeferson Soteldo",
+                "team": "away"
+            },
+            {
+                "time": "67",
+                "card": "yellow card",
+                "player": "Jhonder Cadiz",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Antonio Sanabria",
+                    "out": "Isidro Pitta"
+                },
+                {
+                    "time": "45",
+                    "in": "Angel Romero",
+                    "out": "Ramon Sosa"
+                },
+                {
+                    "time": "79",
+                    "in": "Damian Bobadilla",
+                    "out": "Diego Gomez"
+                },
+                {
+                    "time": "79",
+                    "in": "Fabian Balbuena",
+                    "out": "Miguel Almiron"
+                },
+                {
+                    "time": "87",
+                    "in": "Mathias Villasanti",
+                    "out": "Julio Enciso"
+                }
+            ],
+            "away": [
+                {
+                    "time": "65",
+                    "in": "Jhonder Cadiz",
+                    "out": "Jefferson Savarino"
+                },
+                {
+                    "time": "78",
+                    "in": "Telasco Segovia",
+                    "out": "Cristian Casseres"
+                },
+                {
+                    "time": "78",
+                    "in": "Eduard Bello",
+                    "out": "Darwin Machis"
+                },
+                {
+                    "time": "87",
+                    "in": "Jesus Ramirez",
+                    "out": "Nahuel Ferraresi"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "13",
+                "away": "6"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "6",
+                "away": "3"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "10",
+                "away": "17"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "5",
+                "away": "1"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "2",
+                "away": "2"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "61%",
+                "away": "39%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "2",
+                "away": "6"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "401",
+                "away": "275"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "304",
+                "away": "181"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "0",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270990,
         "league_id": 4,
         "date": "2024-10-15",
         "time": "16:30",
-        "status": "",
+        "status": "Finished",
         "round": "10",
-        "referee": "",
+        "referee": "Jesús Valenzuela Sáez",
         "stadium": "Estadio Metropolitano Roberto Meléndez (Barranquilla)",
         "stage": "Current",
         "hometeam_id": "50",
         "awayteam_id": "163",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "4",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-3-3",
+                "starting_players": [
+                    {
+                        "player_name": "Camilo Vargas",
+                        "player_number": 12,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Jhon Lucumi",
+                        "player_number": 3,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Santiago Arias",
+                        "player_number": 4,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Johan Mojica",
+                        "player_number": 17,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Davinson Sanchez",
+                        "player_number": 23,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Richard Rios",
+                        "player_number": 6,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "James Rodriguez",
+                        "player_number": 10,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Jhon Arias",
+                        "player_number": 11,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Jefferson Lerma",
+                        "player_number": 16,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Luis Diaz",
+                        "player_number": 7,
+                        "player_position": 11
+                    },
+                    {
+                        "player_name": "Jhon Córdoba",
+                        "player_number": 9,
+                        "player_position": 10
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Kevin Mier",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Alvaro Montero",
+                        "player_number": 22
+                    },
+                    {
+                        "player_name": "Juan Cabal",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Yerry Mina",
+                        "player_number": 13
+                    },
+                    {
+                        "player_name": "Andres Felipe Roman",
+                        "player_number": 21
+                    },
+                    {
+                        "player_name": "Kevin Castano",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Jorge Carrascal",
+                        "player_number": 8
+                    },
+                    {
+                        "player_name": "Mateus Uribe",
+                        "player_number": 15
+                    },
+                    {
+                        "player_name": "Juan Portilla",
+                        "player_number": 19
+                    },
+                    {
+                        "player_name": "Juan Quintero",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Jhon Duran",
+                        "player_number": 14
+                    },
+                    {
+                        "player_name": "Luis Sinisterra",
+                        "player_number": 18
+                    }
+                ],
+                "coach": "N. Lorenzo"
             },
             "awayteam": {
-                "system": "",
-                "starting_players": [],
-                "substitutes": [],
-                "coach": ""
+                "system": "4-2-3-1",
+                "starting_players": [
+                    {
+                        "player_name": "Brayan Cortes",
+                        "player_number": 23,
+                        "player_position": 1
+                    },
+                    {
+                        "player_name": "Guillermo Maripan",
+                        "player_number": 3,
+                        "player_position": 3
+                    },
+                    {
+                        "player_name": "Thomas Ignacio Galdames Millan",
+                        "player_number": 6,
+                        "player_position": 5
+                    },
+                    {
+                        "player_name": "Felipe Loyola",
+                        "player_number": 14,
+                        "player_position": 2
+                    },
+                    {
+                        "player_name": "Kuscevic Benjamin",
+                        "player_number": 19,
+                        "player_position": 4
+                    },
+                    {
+                        "player_name": "Erick Pulgar",
+                        "player_number": 13,
+                        "player_position": 7
+                    },
+                    {
+                        "player_name": "Diego Valdes",
+                        "player_number": 15,
+                        "player_position": 9
+                    },
+                    {
+                        "player_name": "Rodrigo Echeverria",
+                        "player_number": 18,
+                        "player_position": 6
+                    },
+                    {
+                        "player_name": "Dario Osorio",
+                        "player_number": 8,
+                        "player_position": 8
+                    },
+                    {
+                        "player_name": "Victor Davila",
+                        "player_number": 10,
+                        "player_position": 10
+                    },
+                    {
+                        "player_name": "Eduardo Vargas",
+                        "player_number": 11,
+                        "player_position": 11
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player_name": "Lawrence Vigouroux",
+                        "player_number": 1
+                    },
+                    {
+                        "player_name": "Vicente Reyes",
+                        "player_number": 12
+                    },
+                    {
+                        "player_name": "Marcelo Morales",
+                        "player_number": 2
+                    },
+                    {
+                        "player_name": "Fabian Hormazabal",
+                        "player_number": 4
+                    },
+                    {
+                        "player_name": "Paulo Diaz",
+                        "player_number": 5
+                    },
+                    {
+                        "player_name": "Matias Zaldivia",
+                        "player_number": 22
+                    },
+                    {
+                        "player_name": "Ulises Ortegoza",
+                        "player_number": 16
+                    },
+                    {
+                        "player_name": "Cesar Perez",
+                        "player_number": 17
+                    },
+                    {
+                        "player_name": "Gonzalo Tapia",
+                        "player_number": 7
+                    },
+                    {
+                        "player_name": "Maximiliano Guerrero",
+                        "player_number": 9
+                    },
+                    {
+                        "player_name": "Lucas Cepeda",
+                        "player_number": 20
+                    },
+                    {
+                        "player_name": "Luciano Cabral",
+                        "player_number": 21
+                    }
+                ],
+                "coach": "R. Gareca"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "51",
+                "player": "Luis Diaz",
+                "team": "home"
+            },
+            {
+                "time": "81",
+                "player": "Jhon Duran",
+                "team": "home"
+            },
+            {
+                "time": "34",
+                "player": "Davinson Sanchez",
+                "team": "home"
+            },
+            {
+                "time": "90+2",
+                "player": "Luis Sinisterra",
+                "team": "home"
+            }
+        ],
+        "cards": [
+            {
+                "time": "36",
+                "card": "yellow card",
+                "player": "Jhon CÓrdoba",
+                "team": "home"
+            },
+            {
+                "time": "77",
+                "card": "yellow card",
+                "player": "Johan Mojica",
+                "team": "home"
+            },
+            {
+                "time": "76",
+                "card": "yellow card",
+                "player": "Erick Pulgar",
+                "team": "away"
+            },
+            {
+                "time": "64",
+                "card": "yellow card",
+                "player": "Gonzalo Tapia",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Jhon Duran",
+                    "out": "Jhon CÓrdoba"
+                },
+                {
+                    "time": "75",
+                    "in": "Luis Sinisterra",
+                    "out": "Luis Diaz"
+                },
+                {
+                    "time": "75",
+                    "in": "Jorge Carrascal",
+                    "out": "Jhon Arias"
+                },
+                {
+                    "time": "85",
+                    "in": "Juan Cabal",
+                    "out": "Johan Mojica"
+                },
+                {
+                    "time": "85",
+                    "in": "Juan Quintero",
+                    "out": "James Rodriguez"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Marcelo Morales",
+                    "out": "Thomas Ignacio Galdames Millan"
+                },
+                {
+                    "time": "59",
+                    "in": "Lucas Cepeda",
+                    "out": "Diego Valdes"
+                },
+                {
+                    "time": "59",
+                    "in": "Gonzalo Tapia",
+                    "out": "Eduardo Vargas"
+                },
+                {
+                    "time": "59",
+                    "in": "Maximiliano Guerrero",
+                    "out": "Rodrigo Echeverria"
+                },
+                {
+                    "time": "83",
+                    "in": "Ulises Ortegoza",
+                    "out": "Erick Pulgar"
+                }
+            ]
         },
-        "statistics": []
+        "statistics": [
+            {
+                "type": {
+                    "en": "Shots Total",
+                    "es": "Remates"
+                },
+                "home": "18",
+                "away": "8"
+            },
+            {
+                "type": {
+                    "en": "Shots On Goal",
+                    "es": "Remates al arco"
+                },
+                "home": "9",
+                "away": "2"
+            },
+            {
+                "type": {
+                    "en": "Fouls",
+                    "es": "Faltas"
+                },
+                "home": "16",
+                "away": "15"
+            },
+            {
+                "type": {
+                    "en": "Corners",
+                    "es": "Tiros de esquina"
+                },
+                "home": "5",
+                "away": "2"
+            },
+            {
+                "type": {
+                    "en": "Offsides",
+                    "es": "Posición adelantada"
+                },
+                "home": "8",
+                "away": "0"
+            },
+            {
+                "type": {
+                    "en": "Ball Possession",
+                    "es": "Posesión"
+                },
+                "home": "63%",
+                "away": "37%"
+            },
+            {
+                "type": {
+                    "en": "Yellow Cards",
+                    "es": "Tarjetas amarillas"
+                },
+                "home": "2",
+                "away": "2"
+            },
+            {
+                "type": {
+                    "en": "Passes Total",
+                    "es": "Pases"
+                },
+                "home": "438",
+                "away": "261"
+            },
+            {
+                "type": {
+                    "en": "Passes Accurate",
+                    "es": "Precisión de los pases"
+                },
+                "home": "381",
+                "away": "187"
+            },
+            {
+                "type": {
+                    "en": "Red Cards",
+                    "es": "Tarjetas rojas"
+                },
+                "home": "0",
+                "away": "0"
+            }
+        ]
     },
     {
         "id": 270993,

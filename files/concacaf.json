@@ -8845,57 +8845,57 @@
                 "starting_players": [{
                         "player_name": "L. Lambert",
                         "player_number": 1,
-                        "player_position": 0
+                        "player_position": 1
                     },
                     {
                         "player_name": "J. Alexander",
                         "player_number": 2,
-                        "player_position": 0
+                        "player_position": 4
                     },
                     {
                         "player_name": "Jabari Campbell",
                         "player_number": 23,
-                        "player_position": 0
+                        "player_position": 2
                     },
                     {
                         "player_name": "D. Rowe",
                         "player_number": 3,
-                        "player_position": 0
+                        "player_position": 5
                     },
                     {
                         "player_name": "Z. Scott",
                         "player_number": 10,
-                        "player_position": 0
+                        "player_position": 7
                     },
                     {
                         "player_name": "J. Bonilla",
                         "player_number": 8,
-                        "player_position": 0
+                        "player_position": 6
                     },
                     {
                         "player_name": "J. Johnson",
                         "player_number": 6,
-                        "player_position": 0
+                        "player_position": 3
                     },
                     {
                         "player_name": "M. Duval",
                         "player_number": 17,
-                        "player_position": 0
+                        "player_position": 9
                     },
                     {
                         "player_name": "E. Seymour",
                         "player_number": 7,
-                        "player_position": 0
+                        "player_position": 10
                     },
                     {
                         "player_name": "G. Studenhofft",
                         "player_number": 9,
-                        "player_position": 0
+                        "player_position": 11
                     },
                     {
                         "player_name": "J. Tugman",
                         "player_number": 21,
-                        "player_position": 0
+                        "player_position": 8
                     }
                 ],
                 "substitutes": [{
@@ -8911,7 +8911,7 @@
                         "player_number": 16
                     },
                     {
-                        "player_name": "G. Dell’Oglio",
+                        "player_name": "G. Dell'Oglio",
                         "player_number": 15
                     },
                     {
@@ -9031,7 +9031,7 @@
                 {
                     "time": "90",
                     "in": "J. Bonilla",
-                    "out": "G. Dell’Oglio"
+                    "out": "G. Dell'Oglio"
                 }
             ],
             "away": [{

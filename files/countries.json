@@ -3711,18 +3711,18 @@
         "id": 207,
         "name": {
             "en": {
-                "official": "French Polynesia",
-                "common": "French Polynesia"
+                "official": "Tahiti",
+                "common": "Tahiti"
             },
             "es": {
-                "official": "Polinesia francés",
-                "common": "Polinesia Francesa"
+                "official": "Tahití",
+                "common": "Tahití"
             }
         },
         "flags": {
             "png":"https://flagcdn.com/w320/pf.png",
             "svg":"https://flagcdn.com/pf.svg"
         },
-        "fifa": "PYF"
+        "fifa": "TAH"
     }
 ]

@@ -16,7 +16,7 @@
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-3-3",
                 "starting_players": [{
                         "player_name": "T. Kumsuz",
                         "player_number": 6,
@@ -105,7 +105,7 @@
                 "coach": "T. Tisam"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-1-3-2",
                 "starting_players": [{
                         "player_name": "S. Otukolo",
                         "player_number": 1,
@@ -305,7 +305,7 @@
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [{
                         "player_name": "B. Stefanon",
                         "player_number": 3,
@@ -414,7 +414,7 @@
                 "coach": "S. Simpson"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-3-3",
                 "starting_players": [{
                         "player_name": "P. Taupau",
                         "player_number": 1,
@@ -601,16 +601,16 @@
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-3-3",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "K. Uele"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-3-3",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "R. Stewart"
             }
         },
         "goal_scorers": [{
@@ -701,36 +701,118 @@
         "league_id": 5,
         "date": "2024-10-10",
         "time": "00:00",
-        "status": "",
+        "status": "Finished",
         "round": "1",
-        "referee": "",
+        "referee": "Campbell-Kirk Kawana-Waugh",
         "stadium": "HFC Bank Stadium (Suva)",
         "stage": "Group Stage",
         "hometeam_id": "124",
         "awayteam_id": "65",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "3",
+        "awayteam_score": "1",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-3-3",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Johann Sidaner"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Felipe Vega-Arango"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
-        "substitutions": {
-            "home": [],
-            "away": []
+        "goal_scorers":[
+            {
+                "time": "44",
+                "player": "Georges Gope-fenepej",
+                "team": "home"
+            },
+            {
+                "time": "19",
+                "player": "Joseph Athale",
+                "team": "home"
+            },
+            {
+                "time": "82",
+                "player": "Germain Haewegene",
+                "team": "home"
+            },
+            {
+                "time": "77",
+                "player": "Tommy Semmy",
+                "team": "away"
+            }
+        ],
+        "cards":[
+            {
+                "time": "86",
+                "card": "yellow card",
+                "player": "Morgan Mathelon",
+                "team": "home"
+            },
+            {
+                "time": "90'+5",
+                "card": "yellow card",
+                "player": "Bryan Ausu",
+                "team": "home"
+            },
+            {
+                "time": "74",
+                "card": "yellow card",
+                "player": "Joris Kenon",
+                "team": "home"
+            }
+        ],
+        "substitutions":{
+            "home":[
+                {
+                    "time": "63",
+                    "in": "Bryan Ausu",
+                    "out": "Shene Welepane"
+                },
+                {
+                    "time": "76",
+                    "in": "Mickael Partodikromo",
+                    "out": "Cesar Zeoula"
+                },
+                {
+                    "time": "76",
+                    "in": "Germain Haewegene",
+                    "out": "Jean-jacques Katrawa"
+                },
+                {
+                    "time": "89",
+                    "in": "Gerard Waia",
+                    "out": "Georges Gope-fenepej"
+                }
+            ],
+            "away":[
+                {
+                    "time": "50",
+                    "in": "Rex Naime",
+                    "out": "Ati Kepo"
+                },
+                {
+                    "time": "56",
+                    "in": "Oberth Simon",
+                    "out": "Nathaniel Eddie"
+                },
+                {
+                    "time": "57",
+                    "in": "Judah Asar",
+                    "out": "Emmanuel Simon"
+                },
+                {
+                    "time": "86",
+                    "in": "Raymond Gunemba",
+                    "out": "Joseph Joe"
+                }
+            ]
         },
         "statistics": []
     },
@@ -739,36 +821,126 @@
         "league_id": 5,
         "date": "2024-10-10",
         "time": "03:00",
-        "status": "",
+        "status": "Finished",
         "round": "1",
-        "referee": "",
+        "referee": "Hauata Norbert",
         "stadium": "HFC Bank Stadium (Suva)",
         "stage": "Group Stage",
-        "hometeam_id": "57",
-        "awayteam_id": "26",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_id": "26",
+        "awayteam_id": "57",
+        "hometeam_score": "0",
+        "awayteam_score": "1",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Joshua Smith"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Rob Sherman"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "12",
+                "player": "Roy Krishna",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "56",
+                "card": "yellow card",
+                "player": "Leon Kofana",
+                "team": "home"
+            },
+            {
+                "time": "80",
+                "card": "yellow card",
+                "player": "Bobby Leslie",
+                "team": "home"
+            },
+            {
+                "time": "43",
+                "card": "yellow card",
+                "player": "Raphael Leai",
+                "team": "home"
+            },
+            {
+                "time": "38",
+                "card": "red card",
+                "player": "Aporosa Yada",
+                "team": "away"
+            },
+            {
+                "time": "24",
+                "card": "yellow card",
+                "player": "Epeli Lairoti",
+                "team": "away"
+            },
+            {
+                "time": "84",
+                "card": "yellow card",
+                "player": "Filipe Baravilala",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "72",
+                    "in": "John Orobulu",
+                    "out": "Alvin Hou"
+                },
+                {
+                    "time": "72",
+                    "in": "Don Keana",
+                    "out": "Micah Leaalafa"
+                },
+                {
+                    "time": "87",
+                    "in": "Ali Mekawir",
+                    "out": "Bobby Leslie"
+                },
+                {
+                    "time": "90'+7",
+                    "in": "David Supa",
+                    "out": "Ben Fox"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Ivan Kumar",
+                    "out": "Setareki Hughes"
+                },
+                {
+                    "time": "66",
+                    "in": "Filipe Baravilala",
+                    "out": "Epeli Lairoti"
+                },
+                {
+                    "time": "74",
+                    "in": "Sairusi Nalaubu",
+                    "out": "Thomas Dunn"
+                },
+                {
+                    "time": "86",
+                    "in": "Dave Radrigai",
+                    "out": "Ratu Waranaivalu"
+                },
+                {
+                    "time": "86",
+                    "in": "Sitiveni Cavuilagi",
+                    "out": "Leroy Jennings"
+                }
+            ]
         },
         "statistics": []
     },
@@ -777,36 +949,107 @@
         "league_id": 5,
         "date": "2024-10-10",
         "time": "22:00",
-        "status": "",
+        "status": "Finished",
         "round": "1",
-        "referee": "",
+        "referee": "Médéric Lacour",
         "stadium": "VFF Freshwater Stadium (Port Vila)",
         "stage": "Group Stage",
         "hometeam_id": "204",
         "awayteam_id": "207",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "3",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Darren Bazeley"
             },
             "awayteam": {
-                "system": "",
+                "system": "5-3-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Samuel Garcia"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "67",
+                "player": "Chris Wood",
+                "team": "home"
+            },
+            {
+                "time": "88",
+                "player": "Ben waine",
+                "team": "home"
+            },
+            {
+                "time": "1",
+                "player": "Elijah Just",
+                "team": "home"
+            }
+        ],
+        "cards": [
+            {
+                "time": "90",
+                "card": "yellow card",
+                "player": "Tyler Bindon",
+                "team": "home"
+            },
+            {
+                "time": "90'+7",
+                "card": "yellow card",
+                "player": "Matatia Paama",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "63",
+                    "in": "Sam sutton",
+                    "out": "Liberato Cacace"
+                },
+                {
+                    "time": "63",
+                    "in": "Ben waine",
+                    "out": "Elijah Just"
+                },
+                {
+                    "time": "72",
+                    "in": "Kosta Barbarouses",
+                    "out": "Ben old"
+                },
+                {
+                    "time": "72",
+                    "in": "Storm Roux",
+                    "out": "Tim Payne"
+                },
+                {
+                    "time": "76",
+                    "in": "Logan Rogerson",
+                    "out": "Chris Wood"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Francois Hapipi",
+                    "out": "Mauri Heitaa"
+                },
+                {
+                    "time": "71",
+                    "in": "Manuarii Shan",
+                    "out": "Taumihau Tiatia"
+                },
+                {
+                    "time": "87",
+                    "in": "Frank Papaura",
+                    "out": "Benoit Mathon"
+                }
+            ]
         },
         "statistics": []
     },
@@ -815,36 +1058,117 @@
         "league_id": 5,
         "date": "2024-10-11",
         "time": "23:00",
-        "status": "",
+        "status": "Finished",
         "round": "1",
-        "referee": "",
+        "referee": "Ben Aukwai",
         "stadium": "VFF Freshwater Stadium (Port Vila)",
         "stage": "Group Stage",
         "hometeam_id": "125",
         "awayteam_id": "160",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "4",
+        "awayteam_score": "1",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "3-4-3",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Juliano Schmeling"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-5-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Ryan Stewart"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "6",
+                "player": "Alex Saniel",
+                "team": "home"
+            },
+            {
+                "time": "90",
+                "player": "Bong Kalo",
+                "team": "home"
+            },
+            {
+                "time": "35",
+                "player": "John Alick",
+                "team": "home"
+            },
+            {
+                "time": "56",
+                "player": "John Alick",
+                "team": "home"
+            },
+            {
+                "time": "54",
+                "player": "Nathan Viliamu",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "90'+7",
+                "card": "yellow card",
+                "player": "Jacques Wanemut",
+                "team": "home"
+            },
+            {
+                "time": "61",
+                "card": "yellow card",
+                "player": "Harry Chote",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "63",
+                    "in": "Kensi Tangis",
+                    "out": "Alex Saniel"
+                },
+                {
+                    "time": "63",
+                    "in": "Raoul Coulon",
+                    "out": "Selwyn Vatu"
+                },
+                {
+                    "time": "72",
+                    "in": "Bong Kalo",
+                    "out": "Mitch Cooper"
+                },
+                {
+                    "time": "72",
+                    "in": "Godine Tenene",
+                    "out": "Raoul Coulon"
+                },
+                {
+                    "time": "85",
+                    "in": "Jacky Ruben",
+                    "out": "John Alick"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Nathan Viliamu",
+                    "out": "Michael Tumua Leo"
+                },
+                {
+                    "time": "67",
+                    "in": "Jefferson Faamatau",
+                    "out": "Jesse Vine"
+                },
+                {
+                    "time": "88",
+                    "in": "Lonokaehu Tuitele",
+                    "out": "Kaleb De Groot-green"
+                }
+            ]
         },
         "statistics": []
     },
