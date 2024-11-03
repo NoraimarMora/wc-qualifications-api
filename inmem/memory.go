@@ -3,11 +3,13 @@ package inmem
 import "ws-qualifications-api/model"
 
 type Memory struct {
-	provider  Provider
-	matches   map[int]model.Matches
-	countries model.CountriesByID
-	leagues   model.LeaguesByID
-	standings model.StandingsByLeague
+	provider       Provider
+	matches        map[int]model.Matches
+	countries      model.CountriesByID
+	leagues        model.LeaguesByID
+	standings      model.StandingsByLeague
+	news           model.NewsList
+	ranking        []model.Ranking
 }
 
 func NewMemoryRepository(provider Provider) Repository {
@@ -19,6 +21,8 @@ func NewMemoryRepository(provider Provider) Repository {
 	r.LoadLeagues()
 	r.LoadStandings()
 	r.LoadMatches()
+	r.LoadNews()
+	r.LoadRanking()
 
 	return &r
 }
@@ -49,6 +53,20 @@ func (r *Memory) LoadLeagues() map[int]model.League {
 		r.leagues = r.provider.LoadLeagues()
 	}
 	return r.leagues
+}
+
+func (r *Memory) LoadNews() model.NewsList {
+	if r.news == nil {
+		r.news = r.provider.LoadNews()
+	}
+	return r.news
+}
+
+func (r *Memory) LoadRanking() []model.Ranking {
+	if r.ranking == nil {
+		r.ranking = r.provider.LoadRanking()
+	}
+	return r.ranking
 }
 
 func (r *Memory) GetCountries() []model.Country {
@@ -138,4 +156,12 @@ func (r *Memory) GetStandingsByCountryID(leagueID, countryID int, filters model.
 	}
 
 	return []model.Standing{}
+}
+
+func (r *Memory) GetNews(filters model.Filters) model.NewsList {
+	return r.news.ByFromDate(filters.From).ByToDate(filters.To)
+}
+
+func (r *Memory) GetRanking() []model.Ranking {
+	return r.ranking
 }

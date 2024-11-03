@@ -37,3 +37,11 @@ type MatchResponse struct {
 type StandingsResponse struct {
 	Standings []model.Standing `json:"standings"`
 }
+
+type NewsResponse struct {
+	News model.NewsList `json:"news"`
+}
+
+type RankingResponse struct {
+	Ranking []model.Ranking `json:"ranking"`
+}

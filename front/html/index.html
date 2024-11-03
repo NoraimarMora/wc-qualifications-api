@@ -31,7 +31,7 @@
                         <div class="item">
                             <span class="title">Version</span>
                             <span class="description">
-                                <i class="fa-solid fa-tag"></i> 1.0.0
+                                <i class="fa-solid fa-tag"></i> 1.1.0
                             </span>
                         </div>
                         <div class="item">
@@ -43,7 +43,7 @@
                         <div class="item">
                             <span class="title">Updated</span>
                             <span class="description">
-                                <i class="fa-solid fa-calendar-days"></i> 2024-10-13
+                                <i class="fa-solid fa-calendar-days"></i> 2024-11-02
                             </span>
                         </div>
                     </div>
@@ -80,16 +80,16 @@
                 <a href="#get-standings" class="standings hidden">Get standings</a>
                 <a href="#get-standings-by-league-id" class="standings hidden">Get standings by league</a>
                 <a href="#get-standings-by-country-id" class="standings hidden">Get standings by country</a>
-                <a href="#" id="ranking-title">
-                    Ranking
-                    <i class="fa-solid fa-angle-down"></i>
-                </a>
-                <a href="#get-ranking" class="ranking hidden">Get ranking</a>
                 <a href="#" id="news-title">
                     News
                     <i class="fa-solid fa-angle-down"></i>
                 </a>
                 <a href="#get-news" class="news hidden">Get news</a>
+                <a href="#" id="ranking-title">
+                    Ranking
+                    <i class="fa-solid fa-angle-down"></i>
+                </a>
+                <a href="#get-ranking" class="ranking hidden">Get ranking</a>
             </div>
             
             <div id="main" class="content">
@@ -1088,6 +1088,86 @@
             "points": 18,
             "group": "A",
             "stage": "Current"
+        },
+        ...
+    ]
+}</pre>
+                        </div>
+                    </div>
+                </div>
+                <div class="separator"></div>
+                <div id="get-news">
+                    <h3>Get news</h3>
+                    <p>Returns the list of news</p>
+                    <div class="method">
+                        <h6>Method</h6>
+                        <div class="method-detail">
+                            <span class="get">GET</span>&nbsp;&nbsp;/news
+                        </div>
+                    </div>
+                    <div class="url">
+                        <h6>Request URL</h6>
+                        <div class="code-box">
+                            https://wc-qualifications-api-production.up.railway.app/api/v1/news
+                        </div>
+                    </div>
+                    <div class="response">
+                        <h6>JSON Response</h6>
+                        <div class="code-box">
+                            <pre>
+{
+    "news": [
+        {
+            "url": {
+                "en": "https://www.fifa.com/en/articles/kenan-yildiz-interview-turkiye-juventus",
+                "es": "https://www.fifa.com/es/articles/kenan-yildiz-entrevista-turquia-juventus"
+            },
+            "image": "https://digitalhub.fifa.com/transform/f1700579-c75b-4236-bdba-73cfcb659632/2157499729",
+            "title": {
+                "en": "Yildiz on rapid rise, Juve breakthrough and Türkiye's new era",
+                "es": "El ascenso vertiginoso de Kenan Yildiz, su actuación con la Juve y el resurgir de Turquía"
+            },
+            "preview_text": {
+                "en": "Teenage forward Kenan Yildiz opens up on desire to bring Türkiye back to the World Cup and relishing the pressure of wearing the Juventus No10 shirt.",
+                "es": "El joven delantero Kenan Yildiz comparte su deseo de llevar a Turquía de regreso a la Copa Mundial y nos cuenta sobre el reto fascinante de vestir la camiseta número 10 de la Juventus."
+            },
+            "date": "2024-10-25"
+        },
+        ...
+    ]
+}</pre>
+                        </div>
+                    </div>
+                </div>
+                <div class="separator"></div>
+                <div id="get-ranking">
+                    <h3>Get ranking</h3>
+                    <p>Returns the last male world classification</p>
+                    <div class="method">
+                        <h6>Method</h6>
+                        <div class="method-detail">
+                            <span class="get">GET</span>&nbsp;&nbsp;/ranking
+                        </div>
+                    </div>
+                    <div class="url">
+                        <h6>Request URL</h6>
+                        <div class="code-box">
+                            https://wc-qualifications-api-production.up.railway.app/api/v1/ranking
+                        </div>
+                    </div>
+                    <div class="response">
+                        <h6>JSON Response</h6>
+                        <div class="code-box">
+                            <pre>
+{
+    "ranking": [
+        {
+            "country_id": 102,
+            "rank": 1,
+            "previous_rank": 1,
+            "points": 1883.5,
+            "previous_points": 1889.02,
+            "league_id": 4
         },
         ...
     ]

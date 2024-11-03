@@ -620,14 +620,14 @@
             },
             "es": {
                 "official": "República de Singapur",
-                "common": "República de Singapur"
+                "common": "Singapur"
             }
         },
         "flags": {
             "png": "https://flagcdn.com/w320/sg.png",
             "svg": "https://flagcdn.com/sg.svg"
         },
-        "fifa": "SIN"
+        "fifa": "SGP"
     },
     {
         "id": 36,
@@ -3122,7 +3122,7 @@
             },
             "es": {
                 "official": "Commonwealth de las Bahamas",
-                "common": "Commonwealth de las Bahamas"
+                "common": "Bahamas"
             }
         },
         "flags": {
@@ -3140,7 +3140,7 @@
             },
             "es": {
                 "official": "República de Kosovo",
-                "common": "República de Kosovo"
+                "common": "Kosovo"
             }
         },
         "flags": {
@@ -3724,5 +3724,77 @@
             "svg":"https://flagcdn.com/pf.svg"
         },
         "fifa": "TAH"
+    },
+    {
+        "id": 208,
+        "name": {
+            "en": {
+                "official": "United Kingdom",
+                "common": "England"
+            },
+            "es": {
+                "official": "Reino Unido",
+                "common": "Inglaterra"
+            }
+        },
+        "flags":{
+            "png":"https://flagcdn.com/w320/gb-eng.png",
+            "svg":"https://flagcdn.com/gb-eng.svg"
+        },
+        "fifa": "ENG"
+    },
+    {
+        "id": 209,
+        "name": {
+            "en": {
+                "official": "Scotland",
+                "common": "Scotland"
+            },
+            "es": {
+                "official": "Escocia",
+                "common": "Escocia"
+            }
+        },
+        "flags":{
+            "png":"https://flagcdn.com/w320/gb-wls.png",
+            "svg":"https://flagcdn.com/gb-sct.svg"
+        },
+        "fifa": "SCO"
+    },
+    {
+        "id": 210,
+        "name": {
+            "en": {
+                "official": "Northern Ireland",
+                "common": "Northern Ireland"
+            },
+            "es": {
+                "official": "Irlanda del Norte",
+                "common": "Irlanda del Norte"
+            }
+        },
+        "flags":{
+            "png":"https://flagcdn.com/w320/gb-nir.png",
+            "svg":"https://flagcdn.com/gb-nir.svg"
+        },
+        "fifa": "NIR"
+    },
+    {
+        "id": 210,
+        "name": {
+            "en": {
+                "official": "Wales",
+                "common": "Wales"
+            },
+            "es": {
+                "official": "Gales",
+                "common": "Gales"
+            }
+        },
+        "flags":{
+            "png":"https://flagcdn.com/w320/gb-wls.png",
+            "svg":"https://flagcdn.com/gb-wls.svg"
+        },
+        "fifa": "WAL"
     }
 ]

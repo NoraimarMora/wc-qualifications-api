@@ -7,6 +7,8 @@ type Repository interface {
 	LoadStandings() map[int]model.Standings
 	LoadMatches() map[int]model.Matches
 	LoadLeagues() map[int]model.League
+	LoadNews() model.NewsList
+	LoadRanking() []model.Ranking
 
 	GetCountries() []model.Country
 	GetCountryByID(countryID int) model.Country
@@ -18,6 +20,8 @@ type Repository interface {
 	GetStandings() []model.Standing
 	GetStandingsByLeagueID(leagueID int, filters model.Filters) []model.Standing
 	GetStandingsByCountryID(leagueID, countryID int, filters model.Filters) []model.Standing
+	GetNews(filters model.Filters) model.NewsList
+	GetRanking() []model.Ranking
 }
 
 type Provider interface {
@@ -25,4 +29,6 @@ type Provider interface {
 	LoadCountries() map[int]model.Country
 	LoadMatches() map[int]model.Matches
 	LoadStandings() map[int]model.Standings
+	LoadNews() model.NewsList
+	LoadRanking() []model.Ranking
 }

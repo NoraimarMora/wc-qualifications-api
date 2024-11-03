@@ -338,6 +338,39 @@ func (h *Handler) GetStandingsByCountryID(ctx *gin.Context) {
 	ctx.JSON(http.StatusOK, StandingsResponse{standings})
 }
 
+// GetNews
+// @Summary Returns the list of matches of the qualifiers
+// @Tags News
+// @Produce json
+// @Param from query string false "From date" "2023-10-02"
+// @Param to query string false "To date" "2023-10-02"
+// @Failure 400 {object} ErrorResponse "Bad request"
+// @Success 200 {object} NewsResponse "Retrieves the list of news"
+// @Router /news  [get]
+func (h *Handler) GetNews(ctx *gin.Context) {
+	filters, err := validateQueryParams(ctx)
+	if err != nil {
+		msg := fmt.Sprintf("[get_news]%v", err)
+		log.Println(msg)
+
+		ctx.JSON(http.StatusBadRequest, ErrorResponse{msg})
+		return
+	}
+
+	ctx.JSON(http.StatusOK, NewsResponse{h.repository.GetNews(filters)})
+}
+
+// GetRanking
+// @Summary Returns the last male world classification
+// @Tags Ranking
+// @Produce json
+// @Failure 400 {object} ErrorResponse "Bad request"
+// @Success 200 {object} RankingResponse "Retrieves the male world classification"
+// @Router /ranking  [get]
+func (h *Handler) GetRanking(ctx *gin.Context) {
+	ctx.JSON(http.StatusOK, RankingResponse{h.repository.GetRanking()})
+}
+
 func validateQueryParams(ctx *gin.Context) (model.Filters, error) {
 	filters := model.Filters{}
 

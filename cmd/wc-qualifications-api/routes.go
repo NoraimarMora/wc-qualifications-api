@@ -46,5 +46,9 @@ func setupRoutes(repository inmem.Repository) *gin.Engine {
 	prefix.GET("/standings/:league_id", handler.GetStandingsByLeagueID)
 	prefix.GET("/standings/:league_id/:country_id", handler.GetStandingsByCountryID)
 
+	prefix.GET("/news", handler.GetNews)
+
+	prefix.GET("/ranking", handler.GetRanking)
+
 	return router
 }

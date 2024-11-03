@@ -140,7 +140,9 @@ body {
     #sidenav a.countries,
     #sidenav a.leagues,
     #sidenav a.matches,
-    #sidenav a.standings {
+    #sidenav a.standings,
+    #sidenav a.news,
+    #sidenav a.ranking {
         padding: 10px 30px;
     }
 

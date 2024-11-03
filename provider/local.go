@@ -19,7 +19,7 @@ func (l Local) LoadMatches() map[int]model.Matches {
 		l.Path + "/afc.json",
 		l.Path + "/caf.json",
 		l.Path + "/concacaf.json",
-		l.Path + "/comebol.json",
+		l.Path + "/conmebol.json",
 		l.Path + "/ofc.json",
 	}
 
@@ -31,9 +31,17 @@ func (l Local) LoadStandings() map[int]model.Standings {
 		l.Path + "/standings_afc.json",
 		l.Path + "/standings_caf.json",
 		l.Path + "/standings_concacaf.json",
-		l.Path + "/standings_comebol.json",
+		l.Path + "/standings_conmebol.json",
 		l.Path + "/standings_ofc.json",
 	}
 
 	return model.StandingsFromJSONFile(paths)
+}
+
+func (l Local) LoadNews() model.NewsList {
+	return model.NewsFromJSONFile(l.Path + "/news.json")
+}
+
+func (l Local) LoadRanking() []model.Ranking {
+	return model.RankingFromJSONFile(l.Path + "/ranking.json")
 }

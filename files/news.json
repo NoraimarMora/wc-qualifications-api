@@ -1,483 +1,226 @@
 [
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/kenan-yildiz-interview-turkiye-juventus",
+            "es": "https://www.fifa.com/es/articles/kenan-yildiz-entrevista-turquia-juventus"
+        },
+        "image": "https://digitalhub.fifa.com/transform/f1700579-c75b-4236-bdba-73cfcb659632/2157499729",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Yildiz on rapid rise, Juve breakthrough and Türkiye's new era",
+            "es": "El ascenso vertiginoso de Kenan Yildiz, su actuación con la Juve y el resurgir de Turquía"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "Teenage forward Kenan Yildiz opens up on desire to bring Türkiye back to the World Cup and relishing the pressure of wearing the Juventus No10 shirt.",
+            "es": "El joven delantero Kenan Yildiz comparte su deseo de llevar a Turquía de regreso a la Copa Mundial y nos cuenta sobre el reto fascinante de vestir la camiseta número 10 de la Juventus."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-25"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/guillermo-ochoa-mexico",
+            "es": "https://www.fifa.com/es/articles/memo-ochoa-y-la-competencia-por-la-porteria-mexicana-en-la-copa-mundial-2026"
+        },
+        "image": "https://digitalhub.fifa.com/transform/b59261e9-5177-49b4-b3f4-4390e04fba7b/Argentina-v-Mexico-Group-C-FIFA-World-Cup-Qatar-2022",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Ochoa's quest for a sixth World Cup",
+            "es": "El dilema de la portería mexicana: Guillermo Ochoa y la batalla por el Mundial 2026"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "FIFA looks at Guillermo Ochoa's bid at reaching a history-setting sixth FIFA World Cup, and the 39-year-old's goalkeeping rivals for places in the Mexico squad.",
+            "es": "De cara al Mundial 2026 en casa y con nuevo cuerpo técnico, la titularidad en la portería mexicana está en disputa entre los arqueros jóvenes y el experimentado Guillermo Ochoa."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-21"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/thomas-tuchel-analysis-england",
+            "es": "https://www.fifa.com/es/articles/thomas-tuchel-analisis-inglaterra"
+        },
+        "image": "https://digitalhub.fifa.com/transform/56198d8b-ddaa-4819-9fcf-50d64abdc328/FWC-2026-Tuchel-appointed-England-coach-161024",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "What England can expect from Thomas Tuchel",
+            "es": "Lo que Inglaterra puede esperar de Thomas Tuchel"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "Following his appointment as England coach on a deal through to World Cup 26, FIFA looks at what England fans can expect from Thomas Tuchel.",
+            "es": "Después de su nombramiento como entrenador de Inglaterra en un acuerdo hasta la Copa Mundial 26, la FIFA analiza lo que los fanáticos de Inglaterra pueden esperar de Thomas Tuchel."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-16"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/jhon-duran-colombia-chile",
+            "es": "https://www.fifa.com/es/articles/jhon-duran-colombia-chile-clasificacion-copa-mundial"
+        },
+        "image": "https://digitalhub.fifa.com/transform/42dd55d7-dcc9-45b5-aa57-03085ba295e7/Jhon-Duran-celebrates-scoring-for-Colombia-against-Chile-in-FIFA-World-Cup-26-qualifying",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Duran: Colombia are ready to make great things happen",
+            "es": "Durán: \"Colombia está lista para hacer grandes cosas\""
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "hon Duran has been on fire for Aston Villa this season, and the 20-year-old replicated his form for Colombia in FIFA World Cup 26 qualifying.",
+            "es": "Jhon Durán ha brillado con luz propia en el Aston Villa esta temporada, y el jugador de 20 años repitió con Colombia en la competición clasificatoria para la Copa Mundial de la FIFA 26™."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-16"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/thomas-tuchel-appointed-england-coach",
+            "es": "https://www.fifa.com/es/articles/tuchel-nuevo-seleccionador-inglaterra"
+        },
+        "image": "https://digitalhub.fifa.com/transform/13b049b0-f064-4243-9c11-2b3908187cfe/2151411422",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Tuchel appointed England coach",
+            "es": "Tuchel, nuevo seleccionador de Inglaterra"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "FA CEO Mark Bullingham says German will have \"single-minded\" focus on winning the FIFA World Cup 26.",
+            "es": "El Director Ejecutivo de la FA, Mark Bullingham, afirma que el alemán tendrá el \"único objetivo\" de ganar la Copa Mundial de la FIFA 26™."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-16"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com//en/articles/lessons-learned-as-conmebol-qualifiers-pass-the-halfway-stage",
+            "es": "https://www.fifa.com/es/articles/copa-mundial-2026-eliminatorias-sudamericanas-decima-jornada-conmebol"
+        },
+        "image": "https://digitalhub.fifa.com/transform/afd4f74d-76d1-4800-b347-3b2f5300bc38/Lionel-Messi-hat-trick-vs-Bolivia",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Lessons learned as CONMEBOL qualifiers pass the halfway stage",
+            "es": "Messi volvió a brillar en Argentina, Colombia se afianza y Paraguay ganó una final"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "Paraguay improve, Brazil breathe a sigh of relief and Messi... well, is still Messi. FIFA takes a look back at the latest round of South American qualifiers.",
+            "es": "La Pulga se lució en su retorno a suelo albiceleste, Colombia demostró su poderío ante Chile y el conjunto de Gustavo Alfaro consiguió tres puntos trascendentales. "
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-16"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/conmebol-south-american-qualifying-world-cup-2026-goals-top-scorers-goalscorers",
+            "es": "https://www.fifa.com/es/articles/tabla-goleadores-eliminatorias-sudamericanas-2026-clasificacion-maximos-anotadores"
+        },
+        "image": "https://digitalhub.fifa.com/transform/53c1aa54-6563-4192-bfa9-8be76392ed9c/Lionel-Messi-celebrates-scoring-for-Argentina-against-Bolivia-in-FIFA-World-Cup-2026-qualifying",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "op goalscorers in South American qualifying",
+            "es": "Los goleadores de las Eliminatorias sudamericanas 2026: una corona para varios reyes"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "See the leading marksmen in CONMEBOL qualifying for FIFA World Cup 26 and the all-time top scorers in the South American preliminaries.",
+            "es": "Un repaso por los jugadores con más tantos en el torneo que clasifica a la Copa Mundial de la FIFA 2026."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-16"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/https://cxm-api.fifa.com/en/articles/south-america-conmebol-qualifying-fixtures-maches-results-world-cup-2026",
+            "es": "https://www.fifa.com/es/articles/calendario-completo-de-las-eliminatorias-sudamericanos-camino-a-la-copa-mundial-de-la-fifa-2026"
+        },
+        "image": "https://digitalhub.fifa.com/transform/97f142b4-29b0-4023-825e-efc83a81c849/GettyImages-1786606470",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "South American qualifying results and fixtures",
+            "es": "Fixture de las Eliminatorias sudamericanas 2026: partidos y calendario"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "See the results, fixtures, dates and locations for South American qualifying for the FIFA World Cup 26™.",
+            "es": "Consulta los calendarios, fechas y sedes de las Eliminatorias sudamericanas para la Copa Mundial de la FIFA 2026."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-16"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/afc-round-three-qualifiers-matchday-four",
+            "es": "https://www.fifa.com/es/articles/afc-clasificatorios-jornada-cuatro-resumen"
+        },
+        "image": "https://digitalhub.fifa.com/transform/332bc3b5-7388-4cc8-847f-ef28090f2625/FWC-2026-AFC-qualifiers-151024?focuspoint=0.13,0.46",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Azmoun and Al-Naimat inspire wins, Bahrain hold Saudi Arabia",
+            "es": "Azmoun y Al-Naimat inspiran las victorias, mientras que Baréin frena a Arabia Saudí"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "A brace apiece from IR Iran's Sardar Azmoun and Jordan's Yazan Al-Naimat took their sides to victories. China PR, Korea Republic, Kyrgyz Republic and Uzbekistan also won.",
+            "es": "Dos goles del iraní Sardar Azmoun y otros dos del jordano Yazan Al-Naimat dieron la victoria a sus respectivas selecciones. También ganaron la RP China, la República de Corea, la República Kirguisa y Uzbekistán."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-15"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/peru-uruguay-match-report",
+            "es": "https://www.fifa.com/es/articles/peru-vence-a-uruguay-sobre-el-final-y-suma-su-primera-victoria"
+        },
+        "image": "https://digitalhub.fifa.com/transform/6e516c9c-6859-46af-8bb7-e0bd894a2e80/Peru-vs-Uruguay-south-american-qualifiers",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Peru stun Uruguay to collect first qualifying win",
+            "es": "Perú vence a Uruguay sobre el final y suma su primera victoria"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "A late Miguel Araujo goal has handed Peru their first win in CONMEBOL qualifying to move them off the foot of the table while Uruguay stay third.",
+            "es": "Le ganó 1 a 0 con un tanto de Araujo, en Lima, por el cierre de la jornada nueve de las Eliminatorias sudamericanas.. "
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-11"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/vanuatu-samoa-qualifying-match-report",
+            "es": "https://www.fifa.com/es/articles/vanuatu-vence-a-samoa-y-gana-su-primer-partido-de-clasificacion-de-la-ofc"
+        },
+        "image": "https://digitalhub.fifa.com/transform/dd4edbca-fee2-4afb-8583-ed97cce0ee13/Vanuatu-celebrate-a-goal-in-a-World-Cup-qualification-match-against-Samoa?focuspoint=0.53,0.65",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Vanuatu down Samoa to win their opening OFC qualifier",
+            "es": "Vanuatu vence a Samoa y gana su primer partido de clasificación de la OFC"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "Hosts prove too strong for first round qualifiers with a brace from John Alick setting Vanuatu on their way to a first-up win in OFC qualification for the FIFA World Cup.",
+            "es": "Los anfitriones resultan demasiado fuertes para la primera ronda de clasificación con un doblete de John Alick que coloca a Vanuatu en el camino hacia una primera victoria en la clasificación de la OFC para la Copa Mundial de la FIFA."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-11"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/andres-guardado-mexico-interview",
+            "es": "https://www.fifa.com/es/articles/andres-guardado-se-despide-de-la-seleccion-mexicana"
+        },
+        "image": "https://digitalhub.fifa.com/transform/9a527dfc-07d1-41f3-be40-ac314301ad8d/Andres-Guardado-playing-for-Mexico",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Guardado talks Mexico farewell and 2026 excitement",
+            "es": "Andrés Guardado: \"Los envidio porque la Copa Mundial 2026 será algo muy especial\""
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "Read what Andres Guardado had to say about his career and hopes for FIFA World Cup 26 ahead of his farewell match for the Mexican national team.",
+            "es": "El referente de México cuenta a la FIFA su mejor recuerdo de una Copa Mundial previo a su despedida como seleccionado. "
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-11"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/en/articles/conmebol-qualifiers-matchday-nine-review",
+            "es": "https://www.fifa.com/es/articles/argentina-rescata-un-empate-y-bolivia-consigue-su-tercer-triunfo-seguido"
+        },
+        "image": "https://digitalhub.fifa.com/transform/1f81b501-2d25-4f3f-accc-3ed92d024bb6/2177091375",
         "title": {
-            "en": "",
-            "es": ""
+            "en": "Bolivia take down Colombia as Venezuela hold Argentina",
+            "es": "Argentina consigue un empate y Bolivia logra su tercer triunfo seguido"
         },
-        "subtitle": {
-            "en": "",
-            "es": ""
+        "preview_text": {
+            "en": "Brazil and Bolivia picked up important wins, Venezuela held Argentina and the points were shared between Ecuador and Paraguay as South American qualifying resumed.",
+            "es": "La Verde le ganó 1 a 0 a Colombia y se ilusiona cada vez más; además, el equipo de Scaloni igualó 1 a 1 en un encuentro lleno de agua."
         },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-11"
     },
     {
-        "date": "",
+        "url": {
+            "en": "https://www.fifa.com/",
+            "es": "https://www.fifa.com/es/articles/nueva-zelanda-vence-a-tahiti-y-comienza-con-victoria"
+        },
+        "image": "https://digitalhub.fifa.com/transform/6d41dbab-08eb-490c-8399-28971b2a8eb0/New-Zealand-s-Chris-Wood-in-action-in-a-World-Cup-qualifier-with-Tahiti?focuspoint=0.52,0.6",
         "title": {
             "en": "",
-            "es": ""
+            "es": "Nueva Zelanda vence a Tahití y comienza con victoria"
         },
-        "subtitle": {
+        "preview_text": {
             "en": "",
-            "es": ""
+            "es": "Los blancos fueron demasiado fuertes, con goles de Just, Wood y Waine que zanjaron la situación en Port Vila."
         },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
-    },
-    {
-        "date": "",
-        "title": {
-            "en": "",
-            "es": ""
-        },
-        "subtitle": {
-            "en": "",
-            "es": ""
-        },
-        "cover_url": "",
-        "url": ""
+        "date": "2024-10-10"
     }
 ]
