@@ -14,7 +14,6 @@ import (
 func setupRoutes(repository inmem.Repository) *gin.Engine {
 	router := gin.New()
 	router.Use(gin.Recovery())
-	router.Use(corsMiddleware())
 	router.SetHTMLTemplate(template.Must(template.ParseFiles("./front/html/index.html")))
 
 	prefix := router.Group("api/v1")
@@ -31,25 +30,25 @@ func setupRoutes(repository inmem.Repository) *gin.Engine {
 	})
 
 	// Health check of the app.
-	prefix.GET("/health", handler.HealthCheck)
+	prefix.GET("/health", corsMiddleware(), handler.HealthCheck)
 
-	prefix.GET("/countries", handler.GetCountries)
-	prefix.GET("/countries/:country_id", handler.GetCountryByID)
+	prefix.GET("/countries", corsMiddleware(), handler.GetCountries)
+	prefix.GET("/countries/:country_id", corsMiddleware(), handler.GetCountryByID)
 
-	prefix.GET("/leagues", handler.GetLeagues)
-	prefix.GET("/leagues/:league_id", handler.GetLeagueByID)
+	prefix.GET("/leagues", corsMiddleware(), handler.GetLeagues)
+	prefix.GET("/leagues/:league_id", corsMiddleware(), handler.GetLeagueByID)
 
-	prefix.GET("/matches", handler.GetMatches)
-	prefix.GET("/matches/:league_id", handler.GetMatchesByLeagueID)
-	prefix.GET("/matches/:league_id/:match_id", handler.GetMatchByID)
+	prefix.GET("/matches", corsMiddleware(), handler.GetMatches)
+	prefix.GET("/matches/:league_id", corsMiddleware(), handler.GetMatchesByLeagueID)
+	prefix.GET("/matches/:league_id/:match_id", corsMiddleware(), handler.GetMatchByID)
 
-	prefix.GET("/standings", handler.GetStandings)
-	prefix.GET("/standings/:league_id", handler.GetStandingsByLeagueID)
-	prefix.GET("/standings/:league_id/:country_id", handler.GetStandingsByCountryID)
+	prefix.GET("/standings", corsMiddleware(), handler.GetStandings)
+	prefix.GET("/standings/:league_id", corsMiddleware(), handler.GetStandingsByLeagueID)
+	prefix.GET("/standings/:league_id/:country_id", corsMiddleware(), handler.GetStandingsByCountryID)
 
-	prefix.GET("/news", handler.GetNews)
+	prefix.GET("/news", corsMiddleware(), handler.GetNews)
 
-	prefix.GET("/ranking", handler.GetRanking)
+	prefix.GET("/ranking", corsMiddleware(), handler.GetRanking)
 
 	return router
 }
