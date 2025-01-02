@@ -1,5 +1,821 @@
 [
     {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/reaction-draw-uefa",
+            "es": "https://www.fifa.com/es/articles/las-principales-reacciones-del-sorteo-de-las-clasificatorias-de-la-uefa"
+        },
+        "image": "https://digitalhub.fifa.com/transform/de6cd0fd-318f-4679-8e34-ee5405034391/FIFA-World-Cup-2026-European-Qualifier-Draw-Arsene-Wenger-Meeting-with-Coaches?focuspoint=0.43,0.02",
+        "title":{
+            "en": "European hopefuls react to UEFA Preliminary Draw",
+            "es": "Las principales reacciones del sorteo de las clasificatorias de la UEFA"
+        },
+        "preview_text":{
+            "en": "Players, coaches and officials react to the UEFA Preliminary Draw, with 54 nations set to battle it out for 16 spots at FIFA World Cup 26.",
+            "es": "Los principales entrenadores de la competencia opinan sobre el camino rumbo a la Copa Mundial 2026."
+        },
+        "date": "2024-12-13"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/european-qualifiers-uefa-stats",
+            "es": "https://www.fifa.com/es/articles/los-numeros-y-estadisticas-de-las-clasificatorias-de-europa"
+        },
+        "image": "https://digitalhub.fifa.com/transform/69fe49b1-6a49-4942-a2dc-53254efca749/FWC-2026-UEFA-qualifying-in-numbers-091224",
+        "title":{
+            "en": "European qualifiers in stats",
+            "es": "Los números y estadísticas de las clasificatorias de Europa"
+        },
+        "preview_text":{
+            "en": "With the UEFA Preliminary Draw now made ahead of FIFA World Cup 26 qualifying, FIFA looks at the continent's qualifying history through a statistical lens.",
+            "es": "Con el sorteo previsto para las eliminatorias de la UEFA de cara a la Copa Mundial, la FIFA analiza la historia de las eliminatorias del continente a través de sus tendencias."
+        },
+        "date": "2024-12-12"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/ofc-2024-year-review",
+            "es": "https://www.fifa.com/es/articles/resumen-2024-oceania"
+        },
+        "image": "https://digitalhub.fifa.com/transform/0980ab69-c5e1-4d11-803b-ee83e4edd12e/Chris-Wood-celebrates-a-goal-with-his-New-Zealand-teammates-in-a-World-Cup-26-qualifying-win-against-Vanuatu?focuspoint=0.49,0.47",
+        "title":{
+            "en": "OFC's 2024: A year in review",
+            "es": "OFC 2024: dominio de Nueva Zelanda y triunfo de Auckland"
+        },
+        "preview_text":{
+            "en": "New Zealand remained perfect in World Cup qualifying and claimed a record sixth continental title as Auckland City continued to dominate at club level.",
+            "es": "Nueva Zelanda siguió contando sus partidos por victorias en la clasificación para la Copa Mundial y logró un récord con su sexto título continental, mientras que Auckland City alargó su dominio entre los clubes."
+        },
+        "date": "2024-12-27"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/conmebol-2024-year-review",
+            "es": "https://www.fifa.com/es/articles/conmebol-2024-argentina-hegemonia-botafogo-libertadores-mundial-de-clubes-mundial-2026"
+        },
+        "image": "https://digitalhub.fifa.com/transform/591b1cb7-1762-465a-abb8-b2e104ed7175/Messi-lifts-Copa-America-2024",
+        "title":{
+            "en": "CONMEBOL's 2024: Argentina and Botafogo reach new heights",
+            "es": "Argentina estira su hegemonía y Botafogo se estrena en el continente"
+        },
+        "preview_text":{
+            "en": "Argentina defended their Copa America title and stood atop the World Cup qualifying standings, while Botafogo won the Copa Libertadores.",
+            "es": "En un año cargado de fútbol en Conmebol, la Albiceleste defendió su corona continental y lidera las apasionantes Eliminatorias. Un nuevo brasileño celebró en la Libertadores y se definieron los seis clasificados al Mundial de Clubes. "
+        },
+        "date": "2024-12-27"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/concacaf-2024-year-review",
+            "es": "https://www.fifa.com/es/articles/resumen-ano-2024-concacaf"
+        },
+        "image": "https://digitalhub.fifa.com/transform/4516a1f1-0270-48a4-b740-7e5b41b6b1a2/FIFA-2026-World-Cup-CONCACAF-qualifying-match-Anguilla-vs-Puerto-Rico-Puerto-Rico-striker-Jeremy-De-Leon-celebrated-th",
+        "title":{
+            "en": "Concacaf's 2024: A year in review",
+            "es": "Resumen del 2024 en la Concacaf"
+        },
+        "preview_text":{
+            "en": "World Cup qualifying started with a bang, while Liga MX's Pachuca secured spots in two FIFA tournaments during a memorable year in Concacaf.",
+            "es": "La fase preliminar de la Copa Mundial empezó con sorpresas, mientras que el Pachuca mexicano logró clasificarse para dos torneos de la FIFA en un año memorable en la Concacaf."
+        },
+        "date": "2024-12-25"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/caf-2024-year-review",
+            "es": "https://www.fifa.com/es/articles/como-fue-el-2024-del-futbol-africano"
+        },
+        "image": "https://digitalhub.fifa.com/transform/5288f331-5527-4881-af89-41f6ebbe9ad6/Cote-d-Ivoire-win-AFCON?focuspoint=0.52,0.63",
+        "title":{
+            "en": "CAF's 2024: A year in review",
+            "es": "El 2024, otro año espectacular para el fútbol de África"
+        },
+        "preview_text":{
+            "en": "FIFA looks back on the highlights, standout teams and star players of African football over the last 12 months.",
+            "es": " Este año el deporte ha vuelto a brillar en el continente. La FIFA da un repaso a los últimos doce meses, llenos de momentos emblemáticos protagonizados por equipos y jugadores sobresalientes"
+        },
+        "date": "2024-12-22"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/uefa-draw-results",
+            "es": "https://www.fifa.com/es/articles/grupos-fase-clasificacion-uefa-mundial-2026-equipos-grupos-partidos"
+        },
+        "image": "https://digitalhub.fifa.com/transform/1b779574-e303-4e63-a091-af4c458503df/FIFA-World-Cup-2026-European-Qualifier-Draw",
+        "title":{
+            "en": "UEFA Preliminary Draw tees up titanic tussles",
+            "es": "Los grupos de las clasificatorias UEFA rumbo a la Copa Mundial 2026"
+        },
+        "preview_text":{
+            "en": "Find out the results of the UEFA Preliminary Draw for the FIFA World Cup 26™, held at the Home of FIFA in Zurich.",
+            "es": "Tras el sorteo, un repaso alrededor de las zonas que quedaron camino al torneo que se disputará en Canadá, México y Estados Unidos."
+        },
+        "date": "2024-12-13"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/uefa-preliminary-draw-live-stream",
+            "es": "https://www.fifa.com/es/articles/sorteo-fase-clasificacion-uefa-streaming-en-directo"
+        },
+        "image": "https://digitalhub.fifa.com/transform/be1b5780-09af-4984-9299-39e61927e751/FIFA-World-Cup-Trophy?focuspoint=0.51,0.48",
+        "title":{
+            "en": "Watch the UEFA Preliminary Draw live on FIFA.com",
+            "es": "Sigue en directo el sorteo de la fase de clasificación UEFA en FIFA.com"
+        },
+        "preview_text":{
+            "en": "Find out how to watch the UEFA Preliminary Draw for the FIFA World Cup 26™ on 13 December 2024.",
+            "es": "Descubre cómo ver el sorteo preliminar de la UEFA para la Copa Mundial de la FIFA 26™ el 13 de diciembre de 2024."
+        },
+        "date": "2024-12-12"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/2030-2034-host-nations-confirmed",
+            "es": "https://www.fifa.com/es/articles/sedes-designadas-copa-mundial-fifa-2030-2034"
+        },
+        "image": "https://digitalhub.fifa.com/transform/2691bf47-9ddd-4913-b78f-11de920985c6/FIFA-World-Cup-Trophy",
+        "title":{
+            "en": "Hosts appointed for FIFA World Cups 2030 and 2034",
+            "es": "Sedes designadas para las Copas Mundiales de la FIFA de 2030 y 2034 "
+        },
+        "preview_text":{
+            "en": "Morocco, Portugal and Spain will co-host the FIFA World Cup in 2030, with three centenary games in South America, while Saudi Arabia will stage the 2034 finals.",
+            "es": "Marruecos, Portugal y España coorganizarán la Copa Mundial de la FIFA en 2030, con tres partidos del centenario en Sudamérica, mientras que Arabia Saudí albergará la fase final de 2034."
+        },
+        "date": "2024-12-11"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/uefa-qualifying-teams-schedule-dates-places",
+            "es": "https://www.fifa.com/es/articles/clasificacion-europa-uefa-mundial-2026-cuando-son-partidos-horarios-equipos-calendario"
+        },
+        "image": "https://digitalhub.fifa.com/transform/fcb0df7b-0617-4ba5-9550-fd1b4555f979/Mbappe-sings-national-anthem",
+        "title":{
+            "en": "Everything you need to know about UEFA qualifying",
+            "es": "Todo sobre las clasificatorias de Europa para la Copa Mundial de la FIFA 2026"
+        },
+        "preview_text":{
+            "en": "Discover dates, groups, qualifying format and the number of places up for grabs at the FIFA World Cup 26.",
+            "es": "Un repaso por las fechas, equipos y toda la información del torneo que otorgará 16 plazas rumbo a la competencia que se disputará en Estados Unidos, México y Canadá."
+        },
+        "date": "2024-12-09"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/world-cup-2030-hosts-qualified-bidding-spain-argentina-morocco-uruguay-portugal-paraguay",
+            "es": "https://www.fifa.com/es/articles/copa-mundial-de-la-fifa-2030-cuando-es-donde-clasificados-y-sedes"
+        },
+        "image": "https://digitalhub.fifa.com/transform/7beeda49-708d-4d5d-a128-8f6cbb979a6a/FIFA-Virtual-Council-Meeting-no-25",
+        "title":{
+            "en": "FIFA World Cup 2030™: Everything you need to know",
+            "es": "Copa Mundial de la FIFA 2030: cuándo es, dónde, clasificados y sedes"
+        },
+        "preview_text":{
+            "en": "Get all the information on hosts, who has qualified and how the tournament will work.",
+            "es": "El torneo se jugará en España, Marruecos y Portugal como principales anfitriones, pero también habrá acción en Argentina, Paraguay y Uruguay."
+        },
+        "date": "2024-12-07"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/procedures-and-seedings-uefa-draw",
+            "es": "https://www.fifa.com/es/articles/sorteo-preliminar-de-la-uefa-para-la-copa-mundial-de-la-fifa-26"
+        },
+        "image": "https://digitalhub.fifa.com/transform/54cfd715-9e19-4c87-8788-578fc3dcee37/FIFA-World-Cup-2026-Match-Schedule-Announcement?focuspoint=0.49,0.59",
+        "title":{
+            "en": "UEFA Preliminary Draw for the FIFA World Cup 26™: procedures and seedings confirmed",
+            "es": "Sorteo preliminar de la UEFA para la Copa Mundial de la FIFA 26™: confirmados los procedimientos y cabezas de serie"
+        },
+        "preview_text":{
+            "en": "The draw will take place Friday, 13 December and be streamed live on FIFA.com and FIFA+.",
+            "es": "El sorteo se celebrará el viernes 13 de diciembre y se transmitirá en directo por FIFA.com y FIFA+."
+        },
+        "date": "2024-11-28"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/road-to-world-cup-26-qualifiers-usa-canada-mexico",
+            "es": "https://www.fifa.com/es/articles/eliminatorias-mundial-2026-cuando-empiezan-cuantos-cupos-reparten-confederacion-formato"
+        },
+        "image": "https://digitalhub.fifa.com/transform/40fdd37f-433e-45a6-9b57-aba5a7568534/Germany-v-Argentina-FIFA-World-Cup-Brazil-2014-Final",
+        "title":{
+            "en": "FIFA World Cup 26 qualifying: All you need to know",
+            "es": "Arranca el camino hacia la Copa Mundial de la FIFA 2026"
+        },
+        "preview_text":{
+            "en": "Qualifying campaigns are now under way as nations vie for a place at biggest World Cup ever.",
+            "es": "Eliminatorias rumbo al Mundial 2026: cuándo empiezan, formato y cuántos cupos se reparten por confederación"
+        },
+        "date": "2024-11-28"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/jesus-casas-interview-iraq",
+            "es": "https://www.fifa.com/es/articles/jesus-casas-seleccionador-irak"
+        },
+        "image": "https://digitalhub.fifa.com/transform/278a34a8-81a0-4774-b34c-a472ead26afd/Jesus-Casas-1",
+        "title":{
+            "en": "Casas: Ending Iraq's World Cup wait would be a dream come true",
+            "es": "Jesús Casas: \"Los seis puntos de marzo son vitales\""
+        },
+        "preview_text":{
+            "en": "Blessed with a young core and a passionate legion of fans, coach Jesus Casas is looking to make history and take Iraq back to the World Cup.",
+            "es": "El seleccionador español de Irak analiza para FIFA la situación de un combinado que marcha en el camino correcto para volver a una Copa Mundial 40 años después."
+        },
+        "date": "2024-11-26"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/mark-mckenzie-usa-interview",
+            "es": "https://www.fifa.com/es/articles/mckenzie-y-la-influencia-de-pochettino-en-estados-unidos"
+        },
+        "image": "https://digitalhub.fifa.com/transform/3accf37b-b4fa-460f-bc3d-8cb504e7cb90/1680725430?focuspoint=0.63,0.32",
+        "title":{
+            "en": "McKenzie: For USA it's all about intensity under Pochettino",
+            "es": "McKenzie y la influencia de Pochettino en Estados Unidos"
+        },
+        "preview_text":{
+            "en": "USA defender Mark McKenzie provides a glimpse into the early days of the Mauricio Pochettino era with the World Cup 2026 co-hosts.",
+            "es": "\"Con él cada acción que tenemos se trata de intensidad\", dijo el defensor en una entrevista con FIFA."
+        },
+        "date": "2024-11-22"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/five-players-concacaf-november-window",
+            "es": "https://www.fifa.com/es/articles/cinco-jugadoress-concacaf-brillaron-noviembre"
+        },
+        "image": "https://digitalhub.fifa.com/transform/af98f6d3-2fb8-48fe-a3b6-677060e08db8/2184319416?focuspoint=0.51,0.5",
+        "title":{
+            "en": "Five players who starred in the November Concacaf window",
+            "es": "Cinco jugadores que protagonizaron la ventana internacional de noviembre en la Concacaf"
+        },
+        "preview_text":{
+            "en": "FIFA shines a spotlight on five players in the Concacaf region who starred during the November international window.",
+            "es": "Descubre a los cinco jugadores que brillaron con sus selecciones en la última fecha del año en la región de Concacaf."
+        },
+        "date": "2024-11-21"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/first-hospitality-deposit-programme-launched",
+            "es": "https://www.fifa.com/es/articles/programa-de-venta-anticipada-de-la-copa-mundial-de-la-fifa-2026"
+        },
+        "image": "https://digitalhub.fifa.com/transform/e94e06e7-364b-4aaf-8c09-5473d2402df0/Official-Hospitality-Provider-of-the-FIFA-World-Cup-26-On-Location-to-manage-deposit-programme",
+        "title":{
+            "en": "First-ever FIFA World Cup™ hospitality deposit programme launched",
+            "es": "Llega el primer programa de venta anticipada para los servicios preferentes de la Copa Mundial de la FIFA™ "
+        },
+        "preview_text":{
+            "en": "Find out how fans can can secure priority access for hospitality packages at the biggest ever edition of football's flagship event.",
+            "es": "Descubre cómo los aficionados pueden asegurar el acceso prioritario a los paquetes de hospitalidad en el evento más importante del fútbol."
+        },
+        "date": "2024-11-21"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/nico-williams-spain-interview",
+            "es": "https://www.fifa.com/es/articles/nico-williams-entrevista-espana-ambicion-2026"
+        },
+        "image": "https://digitalhub.fifa.com/transform/0995ca92-9eb9-44a9-b0ee-d67e38e6fbce/Nico-Williams",
+        "title":{
+            "en": "Williams: Spain have huge potential in the next World Cup",
+            "es": "Nico Williams: \"Sabemos del gran potencial que tenemos\""
+        },
+        "preview_text":{
+            "en": "The jet-heeled attacker caught up with FIFA to discuss his success so far, how Spain are shaping up, and ambitions for World Cup 2026.",
+            "es": "La estrella de España atendió a FIFA para charlar de los éxitos cosechados, del presente de la selección y de la ambición ante la Copa Mundial de la FIFA 26™."
+        },
+        "date": "2024-11-21"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/state-of-play-conmebol-qualifying-2024",
+            "es": "https://www.fifa.com/es/articles/las-eliminatorias-sudamericanas-cierran-el-2024-con-varios-candidatos-y"
+        },
+        "image": "https://digitalhub.fifa.com/transform/2785d5b5-40fa-43a1-b0e3-3056998aafee/GettyImages-2178623216",
+        "title":{
+            "en": "The state of play in CONMEBOL qualifying as 2024 closes",
+            "es": "Las Eliminatorias sudamericanas cierran el 2024 con varios candidatos y mucho suspenso"
+        },
+        "preview_text":{
+            "en": "With 12 of 18 matchdays now complete, FIFA analyse how South American qualifying for the FIFA World Cup 2026 took shape during 2024.",
+            "es": "Un repaso por el rendimiento de los equipos que sueñan con formar parte de la Copa Mundial 2026."
+        },
+        "date": "2024-11-20"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/lautaro-martinez-interview-argentina",
+            "es": "https://www.fifa.com/es/articles/lautaro-martinez-el-9-que-no-se-da-por-vencido"
+        },
+        "image": "https://digitalhub.fifa.com/transform/a00aae28-cbfb-49a4-bbe9-a91e296576fd/Lautaro-Martinez-celebrates-after-scoring-for-Argentina-against-Peru",
+        "title":{
+            "en": "Martinez thriving as Argentina's go-to man",
+            "es": "Lautaro Martínez, el 9 que no se da por vencido"
+        },
+        "preview_text":{
+            "en": "Following his game-winner over Peru, FIFA looks at how Lautaro Martinez is producing the goods for club and country.",
+            "es": "El delantero del Inter marcó el único tanto de la Selección argentina ante Perú, en la Bombonera. El Toro mantiene su estilo en un equipo que busca no perder terreno."
+        },
+        "date": "2024-11-20"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/conmebol-qualifying-tuesday-round-up",
+            "es": "https://www.fifa.com/es/articles/eliminatorias-conmebol-noviembre-argentina-peru-bolivia-paraguay"
+        },
+        "image": "https://digitalhub.fifa.com/transform/e1246309-f1da-4d87-bd1b-be8a46d6be93/Enner-Valencia-of-Ecuador-scores-agaisnt-Colombia?focuspoint=0.52,0.56",
+        "title":{
+            "en": "Cepeda, Martinez and Valencia thrill as Uruguay hold Brazil",
+            "es": "Chile se recupera, Ecuador sorprende a Colombia y Argentina cumple ante Perú"
+        },
+        "preview_text":{
+            "en": "Argentina, Chile and Ecuador eked out victories, while Julio Enciso snatched Paraguay a point in Bolivia and Brazil-Uruguay ended all square.",
+            "es": "Julio Enciso entró de cambio, asistió y marcó en el empate 2-2 de Paraguay ante Bolivia. La Tri consiguió tres puntos claves con un golazo de Valencia. En la Bombonera, la Albiceleste volvió a sumar."
+        },
+        "date": "2024-11-20"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/conmebol-south-american-qualifying-world-cup-2026-goals-top-scorers-goalscorers",
+            "es": "https://www.fifa.com/es/articles/tabla-goleadores-eliminatorias-sudamericanas-2026-clasificacion-maximos-anotadores"
+        },
+        "image": "https://digitalhub.fifa.com/transform/53c1aa54-6563-4192-bfa9-8be76392ed9c/Lionel-Messi-celebrates-scoring-for-Argentina-against-Bolivia-in-FIFA-World-Cup-2026-qualifying",
+        "title":{
+            "en": "Top goalscorers in South American qualifying",
+            "es": "Los goleadores de las Eliminatorias sudamericanas 2026: una corona para varios reyes"
+        },
+        "preview_text":{
+            "en": "See the leading marksmen in CONMEBOL qualifying for FIFA World Cup 26 and the all-time top scorers in the South American preliminaries.",
+            "es": "Un repaso por los jugadores con más tantos en el torneo que clasifica a la Copa Mundial de la FIFA 2026."
+        },
+        "date": "2024-11-20"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/julio-enciso-gustavo-alfaro-bolivia-paraguay",
+            "es": "https://www.fifa.com/es/articles/bolivia-paraguay-julio-enciso-gustavo-alfaro"
+        },
+        "image": "https://digitalhub.fifa.com/transform/e7fe6434-c7ee-4115-9601-db6515115eef/Julio-Enciso-celebrates-following-Paraguay-s-2-2-draw-in-Bolivia-in-FIFA-World-Cup-26-qualifying",
+        "title":{
+            "en": "Enciso: Alfaro is a genius",
+            "es": "Enciso: Alfaro es un genio"
+        },
+        "preview_text":{
+            "en": "Julio Enciso rose from the bench to propel Paraguay to a crucial point in Bolivia. The 20-year-old lauded the result and coach Gustavo Alfaro.",
+            "es": "Julio Enciso salió de la banca para darle a Paraguay un punto decisivo en Bolivia. El jugador de 20 años elogió el trabajo del seleccionador Gustavo Alfaro."
+        },
+        "date": "2024-11-20"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/south-america-conmebol-qualifying-fixtures-maches-results-world-cup-2026",
+            "es": "https://www.fifa.com/es/articles/calendario-completo-de-las-eliminatorias-sudamericanos-camino-a-la-copa-mundial-de-la-fifa-2026"
+        },
+        "image": "https://digitalhub.fifa.com/transform/c1b686de-8e70-4225-b2cf-cdd2144c3795/Gonzalo-Plata-celebrates-scoring-for-Ecuador-against-Bolivia-in-South-American-qualifying-for-the-FIFA-World-Cup-26-with-Enner-Valencia",
+        "title":{
+            "en": "South American qualifying results and fixtures",
+            "es": "Fixture de las Eliminatorias sudamericanas 2026: partidos y calendario"
+        },
+        "preview_text":{
+            "en": "See the results, fixtures, dates and locations for South American qualifying for the FIFA World Cup 26™.",
+            "es": "Consulta los calendarios, fechas y sedes de las Eliminatorias sudamericanas para la Copa Mundial de la FIFA 2026."
+        },
+        "date": "2024-11-19"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/conmebol-qualifying-top-goalscorers-history",
+            "es": "https://www.fifa.com/es/articles/quienes-son-los-maximos-goleadores-historicos-de-las-eliminatorias-sudamericanas"
+        },
+        "image": "https://digitalhub.fifa.com/transform/c08015e0-af6d-4838-b017-8bdb71a41613/Argentina-v-Ecuador-FIFA-World-Cup-2026-Qualifier",
+        "title":{
+            "en": "Top goalscorers in South American qualifying history",
+            "es": "Messi, máximo goleador de la historia de las Eliminatorias sudamericanas"
+        },
+        "preview_text":{
+            "en": "See a ranking of the leading 15 marksmen in South American qualifying for the FIFA World Cup and stats on each of them.",
+            "es": "Con los goles ante Perú, Lionel Messi superó a Luis Suárez como máximo anotador de la competencia, con 31 tantos."
+        },
+        "date": "2024-11-19"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/erling-haaland-norway-top-scorer",
+            "es": "https://www.fifa.com/es/articles/erling-haaland-maximo-goleador-noruega"
+        },
+        "image": "https://digitalhub.fifa.com/transform/c2ddd504-3cf6-45c4-a9c8-b6164cc7a5b5/2184080171?focuspoint=0.52,0.42",
+        "title":{
+            "en": "World Cup the next objective for Norway's Haaland",
+            "es": "La Copa Mundial, próximo objetivo del noruego Haaland"
+        },
+        "preview_text":{
+            "en": "After becoming his nation's all-time top scorer, Erling Haaland will try to help Norway qualify for their first World Cup since 1998.",
+            "es": "Tras convertirse en el máximo goleador de la historia de su país, Erling Haaland intentará ayudar a Noruega a clasificarse para su primer Mundial desde 1998."
+        },
+        "date": "2024-11-19"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/uefa-preliminary-draw-date-13-december",
+            "es": "https://www.fifa.com/es/articles/sorteo-uefa-clasificatorias-mundial-2026-cuando-donde-como-funciona"
+        },
+        "image": "https://digitalhub.fifa.com/transform/3ce7fa89-5d10-4536-8ea3-ceb75af45bde/FIFA-World-Cup-Trophy?focuspoint=0.53,0.49",
+        "title":{
+            "en": "UEFA Preliminary Draw for FIFA World Cup 26 to take place on 13 December",
+            "es": "El sorteo preliminar de la UEFA para la Copa Mundial de la FIFA 26™, el 13 de diciembre"
+        },
+        "preview_text":{
+            "en": "The draw, which will be held at the Home of FIFA in Zurich at 12:00 CET, will be streamed live on FIFA.com and FIFA+.",
+            "es": "Se realizará en la sede de la FIFA, en Zúrich, y será transmitida por FIFA.com y FIFA+."
+        },
+        "date": "2024-11-19"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/lionel-messi-2024-review-argentina-inter-miami",
+            "es": "https://www.fifa.com/es/articles/lionel-messi-final-2024-temporada-2025-mundial-de-clubes-mundial-2026"
+        },
+        "image": "https://digitalhub.fifa.com/transform/47a0f37e-1baa-4daf-a281-6f46682b541a/Lionel-Messi-during-Argentina-Peru",
+        "title":{
+            "en": "Messi primed for 2025 challenges after 'unforgettable' year",
+            "es": "Incombustible Messi: cerró el año con 2025 entre ceja y ceja"
+        },
+        "preview_text":{
+            "en": "Lionel Messi's 2024 campaign concluded with Argentina's 1-0 World Cup qualifying victory over Peru. FIFA reflects on another remarkable year for the Argentina superstar and looks ahead to what the next 12 months have in store.",
+            "es": "El interminable astro argentino disputó su último partido de 2024 en la victoria de Argentina ante Perú en La Bombonera por las Eliminatorias rumbo a la Copa Mundial de 2026. "
+        },
+        "date": "2024-11-19"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/afc-round-three-qualifiers-matchday-six",
+            "es": "https://www.fifa.com/es/articles/afc-tercera-ronda-clasificacion-jornada-seis"
+        },
+        "image": "https://digitalhub.fifa.com/transform/9f9696f0-27fd-4602-9a5b-15f77829cdea/FWC-26-Indonesia-celebrate-win-over-Saudi-Arabia-191124",
+        "title":{
+            "en": "Yengi saves Socceroos, four-goal Fabio sinks Qatar",
+            "es": "Indonesia sorprende a Arabia Saudí y Azmoun salva a Irán"
+        },
+        "preview_text":{
+            "en": "Fabio Lima hit four goals inside 52 minutes to tear Qatar apart, while braces for Mahdi Abduljabbar and Kusini Yengi saw Bahrain and Australia share the spoils.",
+            "es": "Ferdinan brilla en el triunfo de Indonesia sobre Arabia Saudí y Fayzullaev vuelve a ser vital para Uzbekistán. Además, triunfos de Irán y Japón."
+        },
+        "date": "2024-11-18"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/la-bombonera-argentina-memorable-matches",
+            "es": "https://www.fifa.com/es/articles/seleccion-argentina-bombonera-partidos-homenaje-maradona-riquelme-messi"
+        },
+        "image": "https://digitalhub.fifa.com/transform/a7443d83-d402-4b4a-9a92-01e28326b5b5/Messi-getting-into-la-Bombonera-for-the-game-vs-Uruguay",
+        "title":{
+            "en": "Seven memorable Argentina clashes at La Bombonera",
+            "es": "La especial relación entre la Bombonera y la Selección argentina"
+        },
+        "preview_text":{
+            "en": "Lionel Messi's La Albiceleste will return to one of their spiritual homes for a FIFA World Cup qualifying clash with Peru on 19 November.",
+            "es": "En las Eliminatorias sudamericanas, ante Perú, el equipo de Lionel Scaloni volverá a jugar en la cancha de Boca. Un repaso por algunos encuentros de la Albiceleste en el mítico estadio. "
+        },
+        "date": "2024-11-18"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/juanfer-quintero-colombia-racing",
+            "es": "https://www.fifa.com/es/articles/juanfer-quintero-el-10-que-nunca-debe-dejar-de-existir"
+        },
+        "image": "https://digitalhub.fifa.com/transform/72668206-79af-4cef-bd6f-476275b391be/Juanfer-Quintero-celebrates-a-goal-for-Racing",
+        "title":{
+            "en": "Quintero out to make the difference again",
+            "es": "Juanfer Quintero, el 10 que 'nunca debe dejar de existir'"
+        },
+        "preview_text":{
+            "en": "FIFA shines the spotlight on Colombia and Racing playmaker's fascinating career journey ahead of Saturday's Copa Sudamericana final.",
+            "es": "El colombiano es la figura de Racing, que se quedó con la Copa Sudamericana, ante Cruzeiro, y habitual convocado de Néstor Lorenzo. Historia de un crack con una carrera de idas y vueltas."
+        },
+        "date": "2024-11-18"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/afc-qualifying-matchday-six-preview",
+            "es": "https://www.fifa.com/es/articles/afc-clasificacion-jornada-seis-previa"
+        },
+        "image": "https://digitalhub.fifa.com/transform/c68066f5-064f-419b-9e96-e2b27c5f9e31/Indonesia-fans-prior-to-a-World-Cup-26-qualifier-against-Japan-in-Jakarta?focuspoint=0.53,0.53",
+        "title":{
+            "en": "Heavyweight trio remain on course for qualification",
+            "es": "El trío de pesos pesados mantiene el rumbo a la fase final"
+        },
+        "preview_text":{
+            "en": "IR Iran, Japan and Korea Republic looking to move a step closer to World Cup qualification while wins are needed for Indonesia, Korea DPR and Palestine.",
+            "es": "RI de Irán, Japón y la República de Corea quieren dar un paso más hacia la clasificación para el Mundial, mientras que Indonesia, la RPD de Corea y Palestina necesitan la victoria."
+        },
+        "date": "2024-11-17"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/ofc-round-two-matchday-six-report",
+            "es": "https://www.fifa.com/es/articles/ofc-ronda-dos-jornada-seis-resumen"
+        },
+        "image": "https://digitalhub.fifa.com/transform/e579d412-ee53-41cc-b278-6b2347bd93b9/Tahitian-celebrations-after-a-World-Cup-26-qualifying-win-against-Vanuatu?focuspoint=0.5,0.52",
+        "title":{
+            "en": "Tahiti complete Oceania's final round line-up",
+            "es": "Tahití entra en la última ronda de Oceanía "
+        },
+        "preview_text":{
+            "en": "Manuarii Shan impresses as Tahiti reach the final four of OFC qualification while New Zealand top the section after comfortable Samoa win.",
+            "es": "Manuarii Shan impresiona en la clasificación de Tahití para las semifinales de la OFC, mientras que Nueva Zelanda lidera la zona tras una cómoda goleada ante Samoa. "
+        },
+        "date": "2024-11-17"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/ofc-round-two-matchday-five-report",
+            "es": "https://www.fifa.com/es/articles/ofc-segunda-ronda-quinta-jornada-resumen"
+        },
+        "image": "https://digitalhub.fifa.com/transform/9ff25aa0-a750-4bff-833e-a26e634b18e8/Fiji-celebrate-a-goal-against-New-Caledonia-in-World-Cup-26-qualification?focuspoint=0.49,0.51",
+        "title":{
+            "en": "Fiji advance as New Caledonia top the group",
+            "es": "Fiyi avanza y Nueva Caledonia lidera el grupo"
+        },
+        "preview_text":{
+            "en": "Roy Krishna's first half penalty enough for the Bula Boys to bounce into the final round of Oceania World Cup qualification as New Caledonia secure top spot in the section.",
+            "es": "Un penalti transformado por Roy Krishna en la primera parte bastó a los Bula Boys para meterse en la última ronda de clasificación para la Copa Mundial de Oceanía, mientras que Nueva Caledonia se asegura el primer puesto de grupo."
+        },
+        "date": "2024-11-16"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/south-american-qualifying-matchday-twelve-preview",
+            "es": "https://www.fifa.com/es/articles/eliminatorias-sudamericanas-jornada-doce-previa-donde-ver-argentina-peru-brasil-uruguay"
+        },
+        "image": "https://digitalhub.fifa.com/transform/fce6bef1-dde3-4bc0-a9bc-f47e8bd84fec/Brazil-and-Uruguay-line-up-before-playing-in-the-Copa-America-2024-quarter-finals",
+        "title":{
+            "en": "Brazil-Uruguay tops billing as Argentina host Peru",
+            "es": "Partidazo de Brasil-Uruguay mientras Argentina recibe a Perú"
+        },
+        "preview_text":{
+            "en": "Bolivia-Paraguay, Colombia-Ecuador, Argentina-Peru, Chile-Venezuela and Brazil-Uruguay are on the menu in South American qualifying for the FIFA World Cup 26.",
+            "es": "Bolivia-Paraguay, Colombia-Ecuador, Argentina-Perú, Chile-Venezuela y Brasil-Uruguay figuran en el menú de las eliminatorias sudamericanas para la Copa Mundial de la FIFA 26."
+        },
+        "date": "2024-11-16"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/marcelo-bielsa-uruguay-reaction",
+            "es": "https://www.fifa.com/es/articles/uruguay-bielsa-y-un-triunfo-sanador"
+        },
+        "image": "https://digitalhub.fifa.com/transform/8ad5f3ee-69d5-4444-aba3-4319338360fb/2185026841",
+        "title":{
+            "en": "Bielsa: This is a healing victory for Uruguay",
+            "es": "Uruguay, Bielsa y un triunfo sanador"
+        },
+        "preview_text":{
+            "en": "Uruguay's dramatic 3-2 triumph over Colombia brought some needed relief for head coach Marcelo Bielsa and La Celeste fans everywhere.",
+            "es": "La Celeste le ganó 3-2 a Colombia y quedó en la segunda posición de las Eliminatorias sudamericanas. No ganaba hacía cuatro partidos."
+        },
+        "date": "2024-11-16"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/conmebol-qualifying-review-friday\",\n            \"image\": {",
+            "es": "https://www.fifa.com/es/articles/goles-uruguay-colombia-partido-eliminatorias-sudamericanas-cronica"
+        },
+        "image": "https://digitalhub.fifa.com/transform/8b5f4373-6219-4048-99b5-cb61ef170fd6/2184297700",
+        "title":{
+            "en": "Late goal lifts Uruguay over Colombia as Chile hold Peru",
+            "es": "En un partidazo, Uruguay se lo gana a Colombia sobre el final"
+        },
+        "preview_text":{
+            "en": "Uruguay shook off a stoppage-time equaliser with a winner on the last kick to down Colombia 3-2, while Chile and Peru played to a 0-0 draw.",
+            "es": "El equipo de Marcelo Bielsa venció 3 a 2 al conjunto de Néstor Lorenzo, en Montevideo, por las Eliminatorias sudamericanas. Además, Chile y Perú igualaron 0 a 0."
+        },
+        "date": "2024-11-16"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/ofc-qualification-round-two-matchday-three-preview",
+            "es": "https://www.fifa.com/es/articles/ofc-clasificacion-ronda-dos-previa-tercera-jornada"
+        },
+        "image": "https://digitalhub.fifa.com/transform/bcf5f44e-1307-4f76-bd31-321cf52b2e56/Papua-New-Guinea-celebrate-a-goal-against-Fiji-in-World-Cup-26-qualifying?focuspoint=0.49,0.57",
+        "title":{
+            "en": "Four way tussle for final OFC tickets",
+            "es": "Lucha a cuatro bandas por los últimos billetes"
+        },
+        "preview_text":{
+            "en": "Fiji, Papua New Guinea, Tahiti and Vanuatu locked in a battle for the two remaining final round berths in Oceania qualification.",
+            "es": "Fiyi, Papúa Nueva Guinea, Tahití y Vanuatu se disputan las dos plazas restantes para la fase final de la competición preliminar de Oceanía. "
+        },
+        "date": "2024-11-15"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/conmebol-qualifying-thursday-round-up",
+            "es": "https://www.fifa.com/es/articles/copa-mundial-2026-eliminatorias-sudamericanas-venezuela-brasil-paraguay-argentina-ecuador-bolivia"
+        },
+        "image": "https://digitalhub.fifa.com/transform/3aeacf53-39ae-4174-a683-275b3ba20bfe/Omar-Alderete-celebrates-scoring-for-Paraguay-against-Argentina-in-FIFA-World-Cup-26-qualifying?focuspoint=0.47,0.24",
+        "title":{
+            "en": "Paraguay upset Argentina as Venezuela hold Brazil",
+            "es": "Paraguay derrotó a Argentina y sigue soñando de la mano de Alfaro"
+        },
+        "preview_text":{
+            "en": "A Tony Sanabria bicycle-kick helped Paraguay beat Argentina 2-1, while Venezuela held Brazil and Ecuador thrashed Bolivia in South American qualifying.",
+            "es": "El combinado guaraní se impuso al elenco de Lionel Scaloni y finalizará el año dentro de los clasificados directamente al Mundial. La Vinotinto igualó 1-1 en casa ante la Verdeamarela en un partido dramático. "
+        },
+        "date": "2024-11-15"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/ofc-round-two-matchday-four-report",
+            "es": "https://www.fifa.com/es/articles/ofc-segunda-ronda-cuarta-jornada-resumen"
+        },
+        "image": "https://digitalhub.fifa.com/transform/0980ab69-c5e1-4d11-803b-ee83e4edd12e/Chris-Wood-celebrates-a-goal-with-his-New-Zealand-teammates-in-a-World-Cup-26-qualifying-win-against-Vanuatu?focuspoint=0.49,0.47",
+        "title":{
+            "en": "Ruthless New Zealand rout Vanuatu to reach third round",
+            "es": "Nueva Zelanda golea a Vanuatu y alcanza la tercera ronda"
+        },
+        "preview_text":{
+            "en": "Braces from Chris Wood and Tyler Bindon and a trio of Matthew Garbett assists power the All Whites into the last four as Tahiti down Samoa in the wet to stay alive.",
+            "es": "Los dobletes de Chris Wood y Tyler Bindon y un trío de asistencias de Matthew Garbett permiten a los All Whites meterse en semifinales, mientras que Tahití derrota a Samoa para seguir con vida. "
+        },
+        "date": "2024-11-14"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/ofc-round-two-matchday-two-report",
+            "es": "https://www.fifa.com/es/articles/ofc-resumen-segunda-jornada-cronica"
+        },
+        "image": "https://digitalhub.fifa.com/transform/6fdb99a9-1ec5-445b-b832-9b07636faa01/New-Caledonia-s-Joseph-Athale-on-the-ball-against-Solomon-Islands-in-a-World-Cup-26-qualifier?focuspoint=0.53,0.44",
+        "title":{
+            "en": "Athale stars as New Caledonia advance",
+            "es": "Athale da el pase a Nueva Caledonia"
+        },
+        "preview_text":{
+            "en": "South Pacific side become the first team to secure a spot in the OFC's final qualification round as the Solomon Islands are eliminated while Fiji and Papua New Guinea stay alive.",
+            "es": "La selección del Pacífico Sur se convierte en el primer combinado que se asegura un puesto en la última ronda de clasificación de la OFC. Islas Salomón queda eliminada, mientras que Fiyi y Papúa Nueva Guinea se mantienen con vida."
+        },
+        "date": "2024-11-14"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/raul-jimenez-mexico-striker-resurgence",
+            "es": "https://www.fifa.com/es/articles/el-resurgimiento-de-raul-jimenez-en-la-seleccion-mexicana"
+        },
+        "image": "https://digitalhub.fifa.com/transform/8441eeff-0101-41e3-b0c9-0bb1e0e3b859/Raul-Jimenez-celebrates-a-goal-in-a-friendly-match-against-the-USA",
+        "title":{
+            "en": "The resurgence of Mexico striker Raul Jimenez",
+            "es": "Del Fulham a la Selección: Raúl Jiménez, el regreso que México espera"
+        },
+        "preview_text":{
+            "en": "With four goals and two assists this season in the Premier League, the Fulham striker has regained his form at the right time for Mexico.",
+            "es": "Con cuatro goles y dos asistencias en la presente temporada de la Premier League, Raúl Jiménez ilusiona a México con un regreso goleador cuando más lo necesita. "
+        },
+        "date": "2024-11-14"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/afc-round-three-qualifiers-matchday-five",
+            "es": "https://www.fifa.com/es/articles/afc-tercera-ronda-clasificacion-quinta-jornada"
+        },
+        "image": "https://digitalhub.fifa.com/transform/e8ffb66a-7e11-4157-8f98-5303c7f1b911/Japan-celebrates-with-teammates-after-scoring-their-second-goal-against-Indonesia-FIFA-World-Cup-Asian-3rd-Qualifier-Group-C",
+        "title":{
+            "en": "Japan thump Indonesia as Iran and Qatar survive scares",
+            "es": "Japón golea a Indonesia e Irán y Catar sobreviven al susto"
+        },
+        "preview_text":{
+            "en": "Japan extended their lead at the top of Group C following victory in Jakarta, while Son hit his 50th goal for Korea Republic and Qatar survived an Uzbekistan comeback.",
+            "es": "Japón amplió su ventaja al frente del Grupo C tras su victoria en Yakarta, mientras que Son marcó su gol número 50 con la República de Corea y Catar superó a Uzbekistán."
+        },
+        "date": "2024-11-13"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/ofc-qualification-matchday-two-preview",
+            "es": "https://www.fifa.com/es/articles/ofc-fase-clasificacion-segunda-jornada-previa"
+        },
+        "image": "https://digitalhub.fifa.com/transform/7b132e0a-fdf0-44af-b07b-b168636ba790/Solomon-Islands-line-up-prior-to-a-World-Cup-qualifier-with-Fiji?focuspoint=0.46,0.34",
+        "title":{
+            "en": "Hopes on the line for Oceania contenders",
+            "es": "Los aspirantes de Oceanía se juegan sus esperanzas"
+        },
+        "preview_text":{
+            "en": "Chris Wood, Sarpreet Singh and Brian Kaltak among the stars taking centre stage on the penultimate matchday of OFC, second round, qualifiers.",
+            "es": "Chris Wood, Sarpreet Singh y Brian Kaltak, entre las estrellas protagonistas de la penúltima jornada de la segunda ronda de clasificación de la OFC."
+        },
+        "date": "2024-11-12"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/conmebol-qualifying-matchday-eleven-preview",
+            "es": "https://www.fifa.com/es/articles/conmebol-clasificacion-jornada-once-previa"
+        },
+        "image": "https://digitalhub.fifa.com/transform/ed2e8772-3cb3-47ea-b22a-f9bcf13d06f4/Lionel-Messi-celebrates-scoring-for-Argentina-against-Bolivia-in-FIFA-World-Cup-26-qualifying",
+        "title":{
+            "en": "Messi visits Paraguay as Liverpool team-mates square off",
+            "es": "Messi visita Paraguay y duelo entre compañeros del Liverpool"
+        },
+        "preview_text":{
+            "en": "Venezuela-Brazil, Paraguay-Argentina, Ecuador-Bolivia, Uruguay-Colombia and Peru-Chile will unfold as CONMEBOL qualifying for the FIFA World Cup 26 resumes.",
+            "es": "Venezuela-Brasil, Paraguay-Argentina, Ecuador-Bolivia, Uruguay-Colombia y Perú-Chile se darán cita en la reanudación de las eliminatorias de la CONMEBOL para la Copa Mundial de la FIFA 26™."
+        },
+        "date": "2024-11-12"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/afc-qualifying-matchday-five-preview",
+            "es": "https://www.fifa.com/es/articles/afc-clasificacion-quinta-jornada-previa"
+        },
+        "image": "https://digitalhub.fifa.com/transform/5f8cfc64-0e97-4d02-b9e2-41c9bb0f6ab9/Son-Heung-min-in-action-against-China-PR-in-a-World-Cup-26-qualifier?focuspoint=0.42,0.38",
+        "title":{
+            "en": "Son returns as quartet look to edge closer to qualification",
+            "es": "Son regresa para acercar la clasificación"
+        },
+        "preview_text":{
+            "en": "Korea's megastar back from injury, Renard returns to the Saudi touchline and Jordan receive Al-Tamari boost as Asian qualifiers resume.",
+            "es": "La megaestrella coreana regresa tras su lesión, Renard vuelve al banquillo saudí y Jordania recibe el impulso del Al-Tamari en una nueva cita con la fase de clasificación asiática."
+        },
+        "date": "2024-11-12"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/carmelo-algaranaz-bolivia-interview",
+            "es": "https://www.fifa.com/es/articles/carmelo-algaranaz-tenemos-la-oportunidad-de-entrar-en-la-historia"
+        },
+        "image": "https://digitalhub.fifa.com/transform/bc7f9e6c-cbe2-4a7f-a965-39923ff1fb20/Carmelo-Arganaraz-celebrates-Bolivia-goal-against-Chile",
+        "title":{
+            "en": "Algaranaz: Representing Bolivia means love and passion",
+            "es": "Carmelo Algarañaz: \"Tenemos la oportunidad de entrar en la historia\""
+        },
+        "preview_text":{
+            "en": "Striker speaks to FIFA about his deep connection with the national team, why World Cup qualification is 'in our hands', and his desire to leave a legacy.",
+            "es": "Bolivia sacó 9 puntos en los últimos 12 disputados en las Eliminatorias sudamericanas y se ilusiona. El delantero de La Verde describe el momento del equipo."
+        },
+        "date": "2024-11-12"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/jhon-duran-profile-colombia-aston-villa",
+            "es": "https://www.fifa.com/es/articles/jhon-duran-el-delantero-indomable"
+        },
+        "image": "https://digitalhub.fifa.com/transform/f3e9173c-ae4b-443e-a159-4ade37ebbaa1/Jhon-Duran-celebrates-a-goal-for-Colombia",
+        "title":{
+            "en": "Duran on the rise with Aston Villa and Colombia",
+            "es": "Jhon Durán, el delantero indomable"
+        },
+        "preview_text":{
+            "en": "Despite not starting at Aston Villa, the Colombian frontman is earning his stripes from off the bench to become one of Europe's sensations.",
+            "es": "El colombiano, de 20 años, es una de las sensaciones de Europa. Aunque no termina de ser titular en Aston Villa, muestra todo su potencial mientras su personalidad resalta una y otra vez. "
+        },
+        "date": "2024-11-11"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/five-things-to-watch-concacaf-november-window",
+            "es": "https://www.fifa.com/es/articles/partidos-liga-de-las-naciones-concacaf-2026"
+        },
+        "image": "https://digitalhub.fifa.com/transform/b396dd2a-4269-4966-b0d6-a9ec842c9b55/March-24-2024-Arlington-Texas-USA-Jamaica-s-SHAMAR-NICHOLSON-left-and-DEXTER-LEMBIKISA-celebrate-Lembikisa-s-goal",
+        "title":{
+            "en": "Five things to watch for in Concacaf's November window",
+            "es": "Cinco cosas a tener en cuenta en la ventana de noviembre de Concacaf"
+        },
+        "preview_text":{
+            "en": "November's Concacaf window will see World Cup 26 hopefuls Jamaica, Costa Rica and Honduras try to end the year strong before a pivotal 2025.",
+            "es": "Un repaso por los encuentros más importantes de una jornada para elevar el nivel de los equipos que sueñan con la Copa Mundial 2026."
+        },
+        "date": "2024-11-11"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/salomon-rondon-venezuela-interview-tournament",
+            "es": "https://www.fifa.com/es/articles/salomon-rondon-entrevista-venezuela"
+        },
+        "image": "https://digitalhub.fifa.com/transform/663d3352-ff7e-4ece-84aa-46817dc5c49a/Salomon-Rondon-Venezuela",
+        "title":{
+            "en": "Rondon: Making the World Cup would be a remarkable feat",
+            "es": "Rondón: \"Ir a la Copa Mundial supondría la guinda a mi carrera\""
+        },
+        "preview_text":{
+            "en": "Salomon Rondon discusses Venezuela's World Cup qualifying campaign, wanting to honour previous Vinotinto legends, and the desire to put the 'icing' on his career's cake.",
+            "es": "Antes de afrontar los duelos de noviembre rumbo a la Copa Mundial de la FIFA 26™, la estrella de Venezuela atiende a FIFA para valorar lo que sería estar en la cita de 2026."
+        },
+        "date": "2024-11-11"
+    },
+    {
+        "url":{
+            "en": "https://www.fifa.com/en/articles/lionel-messi-games-highlights-watch",
+            "es": "https://www.fifa.com/es/articles/todos-los-partidos-de-messi-y-cuantos-mundiales-jugo"
+        },
+        "image": "https://digitalhub.fifa.com/transform/2252b63d-3cc6-4454-9751-d53388c54cea/Lionel-Messi-in-action-against-France-in-the-2022-World-Cup-final",
+        "title":{
+            "en": "Lionel Messi's World Cup games",
+            "es": "Todos los partidos de Messi en la Copa Mundial"
+        },
+        "preview_text":{
+            "en": "The Argentina icon has more World Cup appearances (26) than anyone, having taken that crown from Lothar Matthaus at Qatar 2022.",
+            "es": "La Pulga es el jugador con más encuentros en la historia del torneo, con 26. Superó durante Catar 2022 al alemán Lothar Matthaus."
+        },
+        "date": "2024-11-01"
+    },
+    {
         "url": {
             "en": "https://www.fifa.com/en/articles/kenan-yildiz-interview-turkiye-juventus",
             "es": "https://www.fifa.com/es/articles/kenan-yildiz-entrevista-turquia-juventus"

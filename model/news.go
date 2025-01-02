@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"log"
 	"os"
+	"sort"
 	"time"
 )
 
@@ -17,21 +18,27 @@ type News struct {
 	Date        string            `json:"date"`
 }
 
-func NewsFromJSONFile(path string) []News {
+func NewsFromJSONFile(path string) NewsList {
 	file, err := os.ReadFile(path)
 	if err != nil {
 		log.Printf("[news_from_json][read_file][err:%v]", err)
-		return []News{}
+		return NewsList{}
 	}
 
-	var data []News
+	var data NewsList
 	err = json.Unmarshal(file, &data)
 	if err != nil {
 		log.Printf("[news_from_json][json_unmarshal][err:%v]", err)
-		return []News{}
+		return NewsList{}
 	}
 
-	return data
+	return data.OrderByDate()
+}
+
+func (n NewsList) OrderByDate() NewsList {
+	sort.Sort(n)
+
+	return n
 }
 
 func (n NewsList) ByFromDate(from time.Time) NewsList {
@@ -72,4 +79,26 @@ func (n NewsList) ByToDate(to time.Time) NewsList {
 	}
 
 	return result
+}
+
+func (n NewsList) Len() int {
+	return len(n)
+}
+
+func (n NewsList) Swap(i, j int) {
+	n[i], n[j] = n[j], n[i]
+}
+
+func (n NewsList) Less(i, j int) bool {
+	newsDateI, err := time.Parse("2006-01-02", n[i].Date)
+	if err != nil {
+		return false
+	}
+
+	newsDateJ, err := time.Parse("2006-01-02", n[j].Date)
+	if err != nil {
+		return false
+	}
+
+	return newsDateI.After(newsDateJ)
 }

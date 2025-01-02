@@ -35976,36 +35976,111 @@
         "league_id": 1,
         "date": "2024-11-13",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "5",
-        "referee": "",
-        "stadium": "",
+        "referee": "Ahmed Abu Bakar Said Al Kaf",
+        "stadium": "Estadio Mohammed Bin Zayed",
         "stage": "3rd Round",
         "hometeam_id": "77",
         "awayteam_id": "84",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "3",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": "G. Caldwell"
+                "coach": "Paulo Jorge Gomes Bento"
             },
             "awayteam": {
-                "system": "",
+                "system": "3-4-2-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Maksim Lisitsyn"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "14",
+                "player": "Harib Abdalla",
+                "team": "home"
+            },
+            {
+                "time": "34",
+                "player": "Marcus Meloni",
+                "team": "home"
+            },
+            {
+                "time": "88",
+                "player": "Harib Abdalla",
+                "team": "home"
+            }
+        ],
+        "cards": [
+            {
+                "time": "90",
+                "card": "yellow card",
+                "player": "Majid Rashid",
+                "team": "home"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Kouame Autonne",
+                    "out": "Khalifa Mubarak"
+                },
+                {
+                    "time": "65",
+                    "in": "Issam Faiz",
+                    "out": "Mackenzie Hunt"
+                },
+                {
+                    "time": "65",
+                    "in": "Khaled Aldhanhani",
+                    "out": "Zayed Sultan"
+                },
+                {
+                    "time": "65",
+                    "in": "Bruno",
+                    "out": "Caio Canedo"
+                },
+                {
+                    "time": "79",
+                    "in": "Majid Rashid",
+                    "out": "Yahia Nader"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Aleksandr Mishchenko",
+                    "out": "Kai Merk"
+                },
+                {
+                    "time": "59",
+                    "in": "Beknaz Almazbekov",
+                    "out": "Kairat Zhyrgalbek"
+                },
+                {
+                    "time": "70",
+                    "in": "Kimi Merk",
+                    "out": "Joel Kojo"
+                },
+                {
+                    "time": "70",
+                    "in": "Nurlanbek Sarykbaev",
+                    "out": "Gulzhigit Alykulov"
+                },
+                {
+                    "time": "84",
+                    "in": "Maksat Alygulov",
+                    "out": "Valerii Kichin"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36014,36 +36089,134 @@
         "league_id": 1,
         "date": "2024-11-13",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "5",
-        "referee": "",
-        "stadium": "",
+        "referee": "Sadullo Gulmurodi",
+        "stadium": "Nuevo Estadio Nacional de Laos",
         "stage": "3rd Round",
         "hometeam_id": "46",
         "awayteam_id": "179",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "2",
+        "awayteam_score": "3",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": "S. Bruce"
+                "coach": "Sin Yong Nam"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Amir Ghalenoei"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "58",
+                "player": "Kim Yu Song",
+                "team": "home"
+            },
+            {
+                "time": "55",
+                "player": "Mehdi Taremi",
+                "team": "home"
+            },
+            {
+                "time": "28",
+                "player": "Mehdi Ghayedi",
+                "team": "away"
+            },
+            {
+                "time": "44",
+                "player": "Mohammad Mohebbi",
+                "team": "away"
+            },
+            {
+                "time": "40",
+                "player": "Mohammad Mohebbi",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "0",
+                "card": "yellow card",
+                "player": "Ri Jo Guk",
+                "team": "home"
+            },
+            {
+                "time": "32",
+                "card": "yellow card",
+                "player": "Kang Kuk Chol",
+                "team": "home"
+            },
+            {
+                "time": "50",
+                "card": "red card",
+                "player": "Shojae Khalilzadeh",
+                "team": "away"
+            },
+            {
+                "time": "71",
+                "card": "yellow card",
+                "player": "Arya Yousefi",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "66",
+                    "in": "Pak Kwang Hun",
+                    "out": "Choe Ju Song"
+                },
+                {
+                    "time": "66",
+                    "in": "Ri Un Chol",
+                    "out": "Kye Tam"
+                },
+                {
+                    "time": "72",
+                    "in": "Jong Il Gwan",
+                    "out": "Han Kwang Song"
+                },
+                {
+                    "time": "89",
+                    "in": "Jong Kum Song",
+                    "out": "Ri Jo Guk"
+                }
+            ],
+            "away": [
+                {
+                    "time": "53",
+                    "in": "Mohammad Kanaani",
+                    "out": "Mehdi Ghayedi"
+                },
+                {
+                    "time": "66",
+                    "in": "Alireza Jahanbakhsh",
+                    "out": "Sardar Azmoun"
+                },
+                {
+                    "time": "66",
+                    "in": "Mohammad Ghorbani",
+                    "out": "Mohammad Karimi"
+                },
+                {
+                    "time": "80",
+                    "in": "Shahriyar Moghanlou",
+                    "out": "Mehdi Taremi"
+                },
+                {
+                    "time": "80",
+                    "in": "Omid Norafkan",
+                    "out": "Mohammad Mohebbi"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36052,36 +36225,128 @@
         "league_id": 1,
         "date": "2024-11-13",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "5",
-        "referee": "",
-        "stadium": "",
+        "referee": "Jong-Hyeok Kim",
+        "stadium": "Estadio Jassim Bin Hamad",
         "stage": "3rd Round",
         "hometeam_id": "67",
         "awayteam_id": "28",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "3",
+        "awayteam_score": "2",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "3-4-1-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Tintin Marquez"
             },
             "awayteam": {
-                "system": "",
+                "system": "3-4-2-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Srečko Katanec"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "25",
+                "player": "Almoez Ali",
+                "team": "home"
+            },
+            {
+                "time": "40",
+                "player": "Almoez Ali",
+                "team": "home"
+            },
+            {
+                "time": "90'+11",
+                "player": "Lucas Michel Mendes",
+                "team": "home"
+            },
+            {
+                "time": "74",
+                "player": "Abbosbek Fayzullaev",
+                "team": "away"
+            },
+            {
+                "time": "79",
+                "player": "Abbosbek Fayzullaev",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "64",
+                "card": "yellow card",
+                "player": "Ahmed Fathy",
+                "team": "home"
+            },
+            {
+                "time": "90'+1",
+                "card": "yellow card",
+                "player": "Mohammed Waad",
+                "team": "home"
+            },
+            {
+                "time": "72",
+                "card": "yellow card",
+                "player": "Jaloliddin Masharipov",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "68",
+                    "in": "Abdulaziz Hatem",
+                    "out": "Ahmed Alganehi"
+                },
+                {
+                    "time": "77",
+                    "in": "Abdulla Badr Al Yazidi",
+                    "out": "Bassam Hisham"
+                },
+                {
+                    "time": "85",
+                    "in": "Yusuf Abdurisag",
+                    "out": "Ibrahim Mohammad Ali"
+                },
+                {
+                    "time": "85",
+                    "in": "Mohammed Muntari",
+                    "out": "Tarek Salman"
+                }
+            ],
+            "away": [
+                {
+                    "time": "20",
+                    "in": "Jaloliddin Masharipov",
+                    "out": "Eldor Shomurodov"
+                },
+                {
+                    "time": "45",
+                    "in": "Bobur Abdikholikov",
+                    "out": "Abdulla Abdullaev"
+                },
+                {
+                    "time": "63",
+                    "in": "Jamshid Iskanderov",
+                    "out": "Otabek Shukurov"
+                },
+                {
+                    "time": "64",
+                    "in": "Farrukh Sayfiev",
+                    "out": "Sherzod Nasrullaev"
+                },
+                {
+                    "time": "89",
+                    "in": "Rustamjon Ashurmatov",
+                    "out": "Azizbek Turgunboev"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36090,36 +36355,97 @@
         "league_id": 1,
         "date": "2024-11-13",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "5",
-        "referee": "",
-        "stadium": "",
+        "referee": "Ming Fu",
+        "stadium": "Boshar - Sultan Qaboos Sports Complex",
         "stage": "3rd Round",
         "hometeam_id": "96",
         "awayteam_id": "32",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "1",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-4-1-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Jaber Rasheed"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Makram Daboub"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "82",
+                "player": "Al Ghassani Muhsen",
+                "team": "home"
+            }
+        ],
+        "cards": [
+            {
+                "time": "13",
+                "card": "yellow card",
+                "player": "Abdullah Fawaz",
+                "team": "home"
+            },
+            {
+                "time": "90'+6",
+                "card": "yellow card",
+                "player": "Rashid Mohammed",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "58",
+                    "in": "Al Alawi Arshad",
+                    "out": "Abdullah Fawaz"
+                },
+                {
+                    "time": "58",
+                    "in": "Zahir Al Aghbari",
+                    "out": "Nasser Al Rawahi"
+                },
+                {
+                    "time": "72",
+                    "in": "Al Sabhi Issam",
+                    "out": "Abdulrahman Al Mushaifri"
+                },
+                {
+                    "time": "87",
+                    "in": "Thani Al Rushaidi",
+                    "out": "Al Ghassani Muhsen"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Rashid Mohammed",
+                    "out": "Ameed Mahajneh"
+                },
+                {
+                    "time": "45",
+                    "in": "Wajdi Nabhan",
+                    "out": "Khalil Mohammed"
+                },
+                {
+                    "time": "64",
+                    "in": "Zeid Qunbar",
+                    "out": "Abu Warda Mahmoud"
+                },
+                {
+                    "time": "87",
+                    "in": "Moustafa Zeidan",
+                    "out": "Ataa Jaber"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36128,36 +36454,128 @@
         "league_id": 1,
         "date": "2024-11-13",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "5",
-        "referee": "",
-        "stadium": "",
+        "referee": "Shaun Evans",
+        "stadium": "Estadio Internacional Jaber Al-Ahmad",
         "stage": "3rd Round",
         "hometeam_id": "176",
         "awayteam_id": "150",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "1",
+        "awayteam_score": "3",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Juan Antonio Pizzi"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Myung-bo Hong"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "59",
+                "player": "Mohammad Abdullah",
+                "team": "home"
+            },
+            {
+                "time": "18",
+                "player": "Son Heungmin",
+                "team": "away"
+            },
+            {
+                "time": "73",
+                "player": "Bae Junho",
+                "team": "away"
+            },
+            {
+                "time": "9",
+                "player": "Oh Sehun",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "49",
+                "card": "yellow card",
+                "player": "Moaath Alenezi",
+                "team": "home"
+            },
+            {
+                "time": "16",
+                "card": "yellow card",
+                "player": "Sami Alsanca ",
+                "team": "home"
+            },
+            {
+                "time": "68",
+                "card": "yellow card",
+                "player": "Cho Yumin ",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "57",
+                    "in": "Yousef Majed",
+                    "out": "Moaath Alenezi"
+                },
+                {
+                    "time": "60",
+                    "in": "Sultan Al Enezi",
+                    "out": "Athbi Shehab Saleh"
+                },
+                {
+                    "time": "70",
+                    "in": "Yousef Nasser",
+                    "out": "Eid Alrashidi"
+                },
+                {
+                    "time": "70",
+                    "in": "Moaath Al Dhafiri",
+                    "out": "Meshari Alenezi"
+                },
+                {
+                    "time": "70",
+                    "in": "Rashed Aldousari",
+                    "out": "Sami Alsanca "
+                }
+            ],
+            "away": [
+                {
+                    "time": "63",
+                    "in": "Bae Junho",
+                    "out": "Son Heungmin"
+                },
+                {
+                    "time": "63",
+                    "in": "Lee Taeseok",
+                    "out": "Lee Myungjae"
+                },
+                {
+                    "time": "74",
+                    "in": "Oh Hyeongyu",
+                    "out": "Oh Sehun"
+                },
+                {
+                    "time": "80",
+                    "in": "Paik Seungho",
+                    "out": "Hwang Inbeom"
+                },
+                {
+                    "time": "80",
+                    "in": "Lee Hyunju",
+                    "out": "Lee Jaesung"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36166,36 +36584,113 @@
         "league_id": 1,
         "date": "2024-11-13",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "5",
-        "referee": "",
-        "stadium": "",
+        "referee": "Mohammed Al Hoaish",
+        "stadium": "Estadio Internacional de Basora",
         "stage": "3rd Round",
         "hometeam_id": "81",
         "awayteam_id": "151",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "0",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Jesus Casas"
             },
             "awayteam": {
-                "system": "",
+                "system": "3-4-3",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Jamal Sellami"
             }
         },
         "goal_scorers": [],
-        "cards": [],
+        "cards": [
+            {
+                "time": "19",
+                "card": "yellow card",
+                "player": "Mustafa Saadoon",
+                "team": "home"
+            },
+            {
+                "time": "4",
+                "card": "yellow card",
+                "player": "Amjed Attwan",
+                "team": "home"
+            },
+            {
+                "time": "58",
+                "card": "yellow card",
+                "player": "Ehsan Haddad",
+                "team": "away"
+            },
+            {
+                "time": "65",
+                "card": "yellow card",
+                "player": "Yazan Alarab",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Hussein Ali",
+                    "out": "Mustafa Saadoon"
+                },
+                {
+                    "time": "72",
+                    "in": "Zidane Iqbal",
+                    "out": "Saad Luaibi"
+                },
+                {
+                    "time": "72",
+                    "in": "Youssef Amyn",
+                    "out": "Amjed Attwan"
+                },
+                {
+                    "time": "83",
+                    "in": "Mohanad Ali",
+                    "out": "Ali Jasim"
+                },
+                {
+                    "time": "90'+1",
+                    "in": "Ahmed Yaseen",
+                    "out": "Aymen Hussein"
+                }
+            ],
+            "away": [
+                {
+                    "time": "69",
+                    "in": "Mahmoud Almardi",
+                    "out": "Mousa Suleiman"
+                },
+                {
+                    "time": "69",
+                    "in": "Ibrahim Sadeh",
+                    "out": "Rajaei Ayed"
+                },
+                {
+                    "time": "86",
+                    "in": "Reziq Bani Hani",
+                    "out": "Yazan Alnaimat"
+                },
+                {
+                    "time": "90'+2",
+                    "in": "Mohammad abu zraiq",
+                    "out": "Nizar Al Rashdan"
+                },
+                {
+                    "time": "90'+2",
+                    "in": "Youssef Abu Al-jazar",
+                    "out": "Ali Olwan"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36204,36 +36699,109 @@
         "league_id": 1,
         "date": "2024-11-13",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "5",
-        "referee": "",
-        "stadium": "",
+        "referee": "Adham Mohammad Tumah Makhadmeh",
+        "stadium": "Estadio Nacional de Baréin",
         "stage": "3rd Round",
         "hometeam_id": "119",
         "awayteam_id": "24",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "0",
+        "awayteam_score": "1",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "3-4-3",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Dragan Talajic"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-3-1-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Branko Ivanković"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "90",
+                "player": "Zhang Yuning",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "90'+8",
+                "card": "red card",
+                "player": "Waleed Alhayam",
+                "team": "home"
+            },
+            {
+                "time": "90'+2",
+                "card": "yellow card",
+                "player": "Vincente Emmanuel",
+                "team": "home"
+            },
+            {
+                "time": "19",
+                "card": "yellow card",
+                "player": "Abduweli Behram",
+                "team": "away"
+            },
+            {
+                "time": "37",
+                "card": "yellow card",
+                "player": "Lin Liangming",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "67",
+                    "in": "Abdulwahab Almalood",
+                    "out": "Ali Madan"
+                },
+                {
+                    "time": "67",
+                    "in": "Mahdi Alhumaidan",
+                    "out": "Abbas Alasfoor"
+                },
+                {
+                    "time": "73",
+                    "in": "Ebrahim Mubarak Alkhatal",
+                    "out": "Mahdi Abdouljabbar"
+                }
+            ],
+            "away": [
+                {
+                    "time": "19",
+                    "in": "Hu Hetao",
+                    "out": "Li Lei"
+                },
+                {
+                    "time": "45",
+                    "in": "Xu Haoyang",
+                    "out": "Li Yuanyi"
+                },
+                {
+                    "time": "70",
+                    "in": "Wang Ziming",
+                    "out": "Abduweli Behram"
+                },
+                {
+                    "time": "70",
+                    "in": "Cao Yongjing",
+                    "out": "Wei Shihao"
+                },
+                {
+                    "time": "83",
+                    "in": "Wang Haijian",
+                    "out": "Wang Shangyuan"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36244,34 +36812,111 @@
         "time": "19:00",
         "status": "",
         "round": "5",
-        "referee": "",
-        "stadium": "",
+        "referee": "Ali Saeed Al Naqbi",
+        "stadium": "Estadio Rectangular de Melbourne",
         "stage": "3rd Round",
         "hometeam_id": "106",
         "awayteam_id": "91",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "0",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "3-4-2-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Tony Popović"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-1-4-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Herve renard"
             }
         },
         "goal_scorers": [],
-        "cards": [],
+        "cards": [
+            {
+                "time": "90'+1",
+                "card": "yellow card",
+                "player": "Jason Geria",
+                "team": "home"
+            },
+            {
+                "time": "64",
+                "card": "yellow card",
+                "player": "Riley Mcgree",
+                "team": "home"
+            },
+            {
+                "time": "62",
+                "card": "yellow card",
+                "player": "Ali Albulayhi",
+                "team": "away"
+            },
+            {
+                "time": "14",
+                "card": "yellow card",
+                "player": "Ahmed Alkassar",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Nishan Velupillay",
+                    "out": "Ajdin Hrustic"
+                },
+                {
+                    "time": "73",
+                    "in": "Anthony Caceres",
+                    "out": "Nishan Velupillay"
+                },
+                {
+                    "time": "73",
+                    "in": "Brandon Borrello",
+                    "out": "Mitch duke"
+                },
+                {
+                    "time": "81",
+                    "in": "Aziz Behich",
+                    "out": "Jordan Bos"
+                },
+                {
+                    "time": "89",
+                    "in": "Kusini Yengi",
+                    "out": "Aiden Connor O'neill"
+                }
+            ],
+            "away": [
+                {
+                    "time": "56",
+                    "in": "Abdullah Alhamddan",
+                    "out": "Saleh Alshehri"
+                },
+                {
+                    "time": "56",
+                    "in": "Abdullah Alkhaibari",
+                    "out": "Musab Aljuwayr"
+                },
+                {
+                    "time": "87",
+                    "in": "Sultan Alghannam",
+                    "out": "Faisal Alghamdi"
+                },
+                {
+                    "time": "87",
+                    "in": "Awn Alsaluli",
+                    "out": "Marwan Alsahafi"
+                },
+                {
+                    "time": "90'+4",
+                    "in": "Abdullah radif",
+                    "out": "Feras Albrikan"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36280,36 +36925,116 @@
         "league_id": 1,
         "date": "2024-11-14",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "5",
-        "referee": "",
-        "stadium": "",
+        "referee": "Mooud Bonyadifard",
+        "stadium": "Estadio Gelora Bung Karno",
         "stage": "3rd Round",
         "hometeam_id": "11",
         "awayteam_id": "161",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "0",
+        "awayteam_score": "4",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "5-4-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Tae-yong Shin"
             },
             "awayteam": {
-                "system": "",
+                "system": "3-4-2-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Hajime Moriyasu"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "49",
+                "player": "Hidemasa Morita",
+                "team": "away"
+            },
+            {
+                "time": "69",
+                "player": "Yukinari Sugawara",
+                "team": "away"
+            },
+            {
+                "time": "40",
+                "player": "Takumi Minamino",
+                "team": "away"
+            },
+            {
+                "time": "35",
+                "player": "Justin Hubner",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "29",
+                "card": "yellow card",
+                "player": "Kaoru mitoma",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "41",
+                    "in": "Sandy Walsh",
+                    "out": "Kevin Diks"
+                },
+                {
+                    "time": "62",
+                    "in": "Pratama Arhan",
+                    "out": "Yakob Sayuri"
+                },
+                {
+                    "time": "76",
+                    "in": "Witan Sulaeman",
+                    "out": "Ragnar Oratmangun"
+                },
+                {
+                    "time": "76",
+                    "in": "Jordi Amat",
+                    "out": "Thom Haye"
+                },
+                {
+                    "time": "76",
+                    "in": "Marselino Ferdinan",
+                    "out": "Nathan Tjoe-a-on"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Daizen maeda",
+                    "out": "Takumi Minamino"
+                },
+                {
+                    "time": "62",
+                    "in": "Junya Ito",
+                    "out": "Kaoru mitoma"
+                },
+                {
+                    "time": "62",
+                    "in": "Yukinari Sugawara",
+                    "out": "Ritsu Doan"
+                },
+                {
+                    "time": "80",
+                    "in": "Reo hatate",
+                    "out": "Daichi Kamada"
+                },
+                {
+                    "time": "80",
+                    "in": "Yuki Ohashi",
+                    "out": "Koki Ogawa"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36318,36 +37043,118 @@
         "league_id": 1,
         "date": "2024-11-18",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "6",
-        "referee": "",
-        "stadium": "",
+        "referee": "Ning Ma",
+        "stadium": "Estadio Dolen Omurzakov",
         "stage": "3rd Round",
         "hometeam_id": "84",
         "awayteam_id": "179",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "2",
+        "awayteam_score": "3",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "5-3-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Maksim Lisitsyn"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Amir Ghalenoei"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "51",
+                "player": "Joel Kojo",
+                "team": "home"
+            },
+            {
+                "time": "63",
+                "player": "Joel Kojo",
+                "team": "home"
+            },
+            {
+                "time": "12",
+                "player": "Mehdi Taremi",
+                "team": "away"
+            },
+            {
+                "time": "75",
+                "player": "Sardar Azmoun",
+                "team": "away"
+            },
+            {
+                "time": "32",
+                "player": "Saleh Hardani",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "90'+4",
+                "card": "yellow card",
+                "player": "Ermek Kenzhebaev",
+                "team": "home"
+            },
+            {
+                "time": "22",
+                "card": "yellow card",
+                "player": "Alimardon Shukurov",
+                "team": "home"
+            },
+            {
+                "time": "45'+1",
+                "card": "yellow card",
+                "player": "Saeid Ezatolahi",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Erbol Atabayev",
+                    "out": "Kai Merk"
+                },
+                {
+                    "time": "45",
+                    "in": "Beknaz Almazbekov",
+                    "out": "Gulzhigit Alykulov"
+                }
+            ],
+            "away": [
+                {
+                    "time": "62",
+                    "in": "Mehdi Ghayedi",
+                    "out": "Ali Gholizadeh"
+                },
+                {
+                    "time": "62",
+                    "in": "Roozbeh Cheshmi",
+                    "out": "Saeid Ezatolahi"
+                },
+                {
+                    "time": "62",
+                    "in": "Mohammad Ghorbani",
+                    "out": "Mohammad Karimi"
+                },
+                {
+                    "time": "62",
+                    "in": "Omid Norafkan",
+                    "out": "Saleh Hardani"
+                },
+                {
+                    "time": "90'+2",
+                    "in": "Amirhossein Hosseinzadeh",
+                    "out": "Sardar Azmoun"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36356,36 +37163,157 @@
         "league_id": 1,
         "date": "2024-11-18",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "6",
-        "referee": "",
-        "stadium": "",
+        "referee": "Khalid Saleh Al Turais",
+        "stadium": "Estadio Al Nahyan",
         "stage": "3rd Round",
         "hometeam_id": "77",
         "awayteam_id": "67",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "5",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Paulo Jorge Gomes Bento"
             },
             "awayteam": {
-                "system": "",
+                "system": "3-5-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Tintin Marquez"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "3",
+                "player": "Fabio De Lima",
+                "team": "home"
+            },
+            {
+                "time": "45'+4",
+                "player": "Fabio De Lima",
+                "team": "home"
+            },
+            {
+                "time": "72",
+                "player": "Yahya Alghassani",
+                "team": "home"
+            },
+            {
+                "time": "44",
+                "player": "Fabio De Lima",
+                "team": "home"
+            },
+            {
+                "time": "55",
+                "player": "Fabio De Lima",
+                "team": "home"
+            }
+        ],
+        "cards": [
+            {
+                "time": "47",
+                "card": "yellow card",
+                "player": "Issam Faiz",
+                "team": "home"
+            },
+            {
+                "time": "90'+1",
+                "card": "yellow card",
+                "player": "Kouame Autonne",
+                "team": "home"
+            },
+            {
+                "time": "17",
+                "card": "yellow card",
+                "player": "Majid Rashid",
+                "team": "home"
+            },
+            {
+                "time": "35",
+                "card": "yellow card",
+                "player": "Marcus Meloni",
+                "team": "home"
+            },
+            {
+                "time": "59",
+                "card": "yellow card",
+                "player": "Almoez Ali",
+                "team": "away"
+            },
+            {
+                "time": "86",
+                "card": "yellow card",
+                "player": "Yusuf Abdurisag",
+                "team": "away"
+            },
+            {
+                "time": "37",
+                "card": "yellow card",
+                "player": "Boualem Khoukhi",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Issam Faiz",
+                    "out": "Majid Rashid"
+                },
+                {
+                    "time": "58",
+                    "in": "Caio Canedo",
+                    "out": "Bruno"
+                },
+                {
+                    "time": "72",
+                    "in": "Tahnoon Alzaabi",
+                    "out": "Harib Abdalla"
+                },
+                {
+                    "time": "82",
+                    "in": "Mackenzie Hunt",
+                    "out": "Yahia Nader"
+                },
+                {
+                    "time": "82",
+                    "in": "Zayed Sultan",
+                    "out": "Khaled Aldhanhani"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Mohammed Muntari",
+                    "out": "Abdelrahman Moustafa"
+                },
+                {
+                    "time": "45",
+                    "in": "Yusuf Abdurisag",
+                    "out": "Ibrahim Mohammad Ali"
+                },
+                {
+                    "time": "45",
+                    "in": "Homam Ahmed",
+                    "out": "Mohammed Waad"
+                },
+                {
+                    "time": "45",
+                    "in": "Ismail Mohamad",
+                    "out": "Boualem Khoukhi"
+                },
+                {
+                    "time": "70",
+                    "in": "Abdulaziz Hatem",
+                    "out": "Jassem Gaber"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36394,36 +37322,103 @@
         "league_id": 1,
         "date": "2024-11-18",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "6",
-        "referee": "",
-        "stadium": "",
+        "referee": "Ahmad Al Ali",
+        "stadium": "Nuevo Estadio Nacional de Laos",
         "stage": "3rd Round",
         "hometeam_id": "46",
         "awayteam_id": "28",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "0",
+        "awayteam_score": "1",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Sin Yong Nam"
             },
             "awayteam": {
-                "system": "",
+                "system": "5-4-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Srečko Katanec"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "43",
+                "player": "Abbosbek Fayzullaev",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "58",
+                "card": "yellow card",
+                "player": "Jang Kuk Chol",
+                "team": "home"
+            },
+            {
+                "time": "37",
+                "card": "yellow card",
+                "player": "Bobur Abdikholikov",
+                "team": "away"
+            },
+            {
+                "time": "82",
+                "card": "red card",
+                "player": "Umar Eshmurodov",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "32",
+                    "in": "Kye Tam",
+                    "out": "Ri Un Chol"
+                },
+                {
+                    "time": "69",
+                    "in": "Jong Il Gwan",
+                    "out": "Ri Jo Guk"
+                },
+                {
+                    "time": "69",
+                    "in": "Pak Kwang Hun",
+                    "out": "Paek Chung Song"
+                },
+                {
+                    "time": "87",
+                    "in": "Choe Ju Song",
+                    "out": "Han Kwang Song"
+                }
+            ],
+            "away": [
+                {
+                    "time": "65",
+                    "in": "Hojimat Erkinov",
+                    "out": "Bobur Abdikholikov"
+                },
+                {
+                    "time": "79",
+                    "in": "Azizbek Turgunboev",
+                    "out": "Abbosbek Fayzullaev"
+                },
+                {
+                    "time": "79",
+                    "in": "Azizbek Amonov",
+                    "out": "Jaloliddin Masharipov"
+                },
+                {
+                    "time": "86",
+                    "in": "Abdulla Abdullaev",
+                    "out": "Azizbek Amonov"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36432,36 +37427,104 @@
         "league_id": 1,
         "date": "2024-11-18",
         "time": "19:00",
-        "status": "",
+        "status": "F",
         "round": "6",
-        "referee": "",
-        "stadium": "",
+        "referee": "Yusuke Araki",
+        "stadium": "Estadio Internacional de Amán",
         "stage": "3rd Round",
         "hometeam_id": "32",
         "awayteam_id": "150",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "1",
+        "awayteam_score": "1",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Makram Daboub"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Myung-bo Hong"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "12",
+                "player": "Zeid Qunbar",
+                "team": "home"
+            },
+            {
+                "time": "15",
+                "player": "Son Heungmin",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "79",
+                "card": "yellow card",
+                "player": "Camilo Saldana",
+                "team": "home"
+            },
+            {
+                "time": "52",
+                "card": "yellow card",
+                "player": "Ameed Mahajneh",
+                "team": "home"
+            },
+            {
+                "time": "84",
+                "card": "yellow card",
+                "player": "Kharoub Oday",
+                "team": "home"
+            },
+            {
+                "time": "51",
+                "card": "yellow card",
+                "player": "Michel Termanini",
+                "team": "home"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "60",
+                    "in": "Rashid Mohammed",
+                    "out": "Jonathan Zorrilla"
+                },
+                {
+                    "time": "90",
+                    "in": "Alaa Aldeen Hassan",
+                    "out": "Zeid Qunbar"
+                }
+            ],
+            "away": [
+                {
+                    "time": "64",
+                    "in": "Joo Minkyu",
+                    "out": "Oh Sehun"
+                },
+                {
+                    "time": "72",
+                    "in": "Bae Junho",
+                    "out": "Lee Jaesung"
+                },
+                {
+                    "time": "72",
+                    "in": "Oh Hyeongyu",
+                    "out": "Lee kangin"
+                },
+                {
+                    "time": "89",
+                    "in": "Kim Moonhwan ",
+                    "out": "Seol Youngwoo"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36470,36 +37533,119 @@
         "league_id": 1,
         "date": "2024-11-18",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "6",
-        "referee": "",
-        "stadium": "",
+        "referee": "Omar Mohamed Al Ali",
+        "stadium": "Boshar - Sultan Qaboos Sports Complex",
         "stage": "3rd Round",
         "hometeam_id": "96",
         "awayteam_id": "81",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "0",
+        "awayteam_score": "1",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Jaber Rasheed"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-2-3-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Jesus Casas"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "35",
+                "player": "Youssef Amyn",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "16",
+                "card": "yellow card",
+                "player": "Al Saadi Harib",
+                "team": "home"
+            },
+            {
+                "time": "88",
+                "card": "yellow card",
+                "player": "Amjed Attwan",
+                "team": "away"
+            },
+            {
+                "time": "17",
+                "card": "yellow card",
+                "player": "Aymen Hussein",
+                "team": "away"
+            },
+            {
+                "time": "66",
+                "card": "yellow card",
+                "player": "Merchas Doski",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Faiyz Al Rusheidi",
+                    "out": "Al Mukhaini Ibrahim"
+                },
+                {
+                    "time": "64",
+                    "in": "Al Sabhi Issam",
+                    "out": "Abdullah Fawaz"
+                },
+                {
+                    "time": "64",
+                    "in": "Zahir Al Aghbari",
+                    "out": "Thani Al Rushaidi"
+                },
+                {
+                    "time": "78",
+                    "in": "Hatem Al Rushadi",
+                    "out": "Al Alawi Arshad"
+                },
+                {
+                    "time": "85",
+                    "in": "Al Braiki Khalid",
+                    "out": "Mohammed Al Musalami"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Frans Putros",
+                    "out": "Zaid Tahseen"
+                },
+                {
+                    "time": "60",
+                    "in": "Saad Luaibi",
+                    "out": "Mohamed Al-taay"
+                },
+                {
+                    "time": "60",
+                    "in": "Amjed Attwan",
+                    "out": "Ahmed Yaseen"
+                },
+                {
+                    "time": "68",
+                    "in": "Mohanad Ali",
+                    "out": "Aymen Hussein"
+                },
+                {
+                    "time": "78",
+                    "in": "Ibrahim Bayesh",
+                    "out": "Hussein Ali"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36508,36 +37654,112 @@
         "league_id": 1,
         "date": "2024-11-18",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "6",
-        "referee": "",
-        "stadium": "",
+        "referee": "Muhammad Nazmi bin Nasaruddin",
+        "stadium": "Estadio Internacional Jaber Al-Ahmad",
         "stage": "3rd Round",
         "hometeam_id": "176",
         "awayteam_id": "151",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "1",
+        "awayteam_score": "1",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Juan Antonio Pizzi"
             },
             "awayteam": {
-                "system": "",
+                "system": "3-4-3",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Jamal Sellami"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "67",
+                "player": "Mohammad Abdullah",
+                "team": "home"
+            },
+            {
+                "time": "20",
+                "player": "Yazan Alnaimat",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "44",
+                "card": "yellow card",
+                "player": "Hasan Alanezi",
+                "team": "home"
+            },
+            {
+                "time": "90'+2",
+                "card": "yellow card",
+                "player": "Mousa Suleiman",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "45",
+                    "in": "Salman Al Awadhi",
+                    "out": "Yousef Nasser"
+                },
+                {
+                    "time": "78",
+                    "in": "Ali Khalaf",
+                    "out": "Yousef Majed"
+                },
+                {
+                    "time": "85",
+                    "in": "Hamad Alharbi",
+                    "out": "Sultan Al Enezi"
+                },
+                {
+                    "time": "85",
+                    "in": "Moaath Al Dhafiri",
+                    "out": "Meshari Alenezi"
+                },
+                {
+                    "time": "88",
+                    "in": "Fawaz Alotaibi",
+                    "out": "Ahmad Aldhefeery"
+                }
+            ],
+            "away": [
+                {
+                    "time": "57",
+                    "in": "Abdallah Alfakhori",
+                    "out": "Yazeed Abulaila"
+                },
+                {
+                    "time": "57",
+                    "in": "Mohammad Abuhasheesh",
+                    "out": "Mahmoud Almardi"
+                },
+                {
+                    "time": "69",
+                    "in": "Rajaei Ayed",
+                    "out": "Nizar Al Rashdan"
+                },
+                {
+                    "time": "81",
+                    "in": "Reziq Bani Hani",
+                    "out": "Yazan Alnaimat"
+                },
+                {
+                    "time": "81",
+                    "in": "Mohammad abu zraiq",
+                    "out": "Mohannad Abu Tana"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36546,74 +37768,258 @@
         "league_id": 1,
         "date": "2024-11-18",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "6",
-        "referee": "",
-        "stadium": "",
+        "referee": "Muhammad Taqi Aljaafari bin Jahari",
+        "stadium": "Xiamen Egret Stadium",
         "stage": "3rd Round",
         "hometeam_id": "24",
         "awayteam_id": "161",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "1",
+        "awayteam_score": "3",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-3-1-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Branko Ivanković"
             },
             "awayteam": {
-                "system": "",
+                "system": "3-4-2-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Hajime Moriyasu"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "48",
+                "player": "Lin Liangming",
+                "team": "home"
+            },
+            {
+                "time": "38",
+                "player": "Koki Ogawa",
+                "team": "away"
+            },
+            {
+                "time": "53",
+                "player": "Koki Ogawa",
+                "team": "away"
+            },
+            {
+                "time": "45'+4",
+                "player": "Kou Itakura",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "27",
+                "card": "yellow card",
+                "player": "Cao Yongjing",
+                "team": "home"
+            },
+            {
+                "time": "59",
+                "card": "yellow card",
+                "player": "Wei Shihao",
+                "team": "home"
+            },
+            {
+                "time": "23",
+                "card": "yellow card",
+                "player": "Xie Wenneng",
+                "team": "home"
+            },
+            {
+                "time": "67",
+                "card": "yellow card",
+                "player": "Ayumu seko",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "62",
+                    "in": "Li Yuanyi",
+                    "out": "Cao Yongjing"
+                },
+                {
+                    "time": "62",
+                    "in": "Zhang Yuning",
+                    "out": "Lin Liangming"
+                },
+                {
+                    "time": "77",
+                    "in": "Wang Ziming",
+                    "out": "Wei Shihao"
+                },
+                {
+                    "time": "77",
+                    "in": "Wei Zhen",
+                    "out": "Jiang Shenglong"
+                },
+                {
+                    "time": "90'+1",
+                    "in": "Wang Haijian",
+                    "out": "Xie Wenneng"
+                }
+            ],
+            "away": [
+                {
+                    "time": "63",
+                    "in": "Kaoru mitoma",
+                    "out": "Keito Nakamura"
+                },
+                {
+                    "time": "63",
+                    "in": "Daichi Kamada",
+                    "out": "Takumi Minamino"
+                },
+                {
+                    "time": "76",
+                    "in": "Daiki hashioka",
+                    "out": "Junya Ito"
+                },
+                {
+                    "time": "76",
+                    "in": "Kyogo Furuhashi",
+                    "out": "Koki Ogawa"
+                },
+                {
+                    "time": "84",
+                    "in": "Daizen maeda",
+                    "out": "Takefusa Kubo"
+                }
+            ]
         },
-        "statistics": []
+      "statistics": []
     },
     {
         "id": 394168,
         "league_id": 1,
         "date": "2024-11-18",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "6",
-        "referee": "",
-        "stadium": "",
+        "referee": "Hyung-Jin Ko",
+        "stadium": "Estadio Nacional de Baréin",
         "stage": "3rd Round",
         "hometeam_id": "119",
         "awayteam_id": "106",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "2",
+        "awayteam_score": "2",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "4-4-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Dragan Talajic"
             },
             "awayteam": {
-                "system": "",
+                "system": "3-4-2-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Tony Popović"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "77",
+                "player": "Mahdi Abdouljabbar",
+                "team": "home"
+            },
+            {
+                "time": "74",
+                "player": "Mahdi Abdouljabbar",
+                "team": "home"
+            },
+            {
+                "time": "90'+4",
+                "player": "Kusini Yengi",
+                "team": "away"
+            },
+            {
+                "time": "0",
+                "player": "Kusini Yengi",
+                "team": "away"
+            }
+        ],
+        "cards": [
+            {
+                "time": "73",
+                "card": "yellow card",
+                "player": "Sayed Mahdi",
+                "team": "home"
+            },
+            {
+                "time": "61",
+                "card": "yellow card",
+                "player": "Anthony Caceres",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "44",
+                    "in": "Mahdi Alhumaidan",
+                    "out": "Ali Haram"
+                },
+                {
+                    "time": "65",
+                    "in": "Ahmed Alsherooqi",
+                    "out": "Ali Madan"
+                },
+                {
+                    "time": "65",
+                    "in": "Mahdi Abdouljabbar",
+                    "out": "Ebrahim Mubarak Alkhatal"
+                },
+                {
+                    "time": "89",
+                    "in": "Vincente Emmanuel",
+                    "out": "Mohamed Marhoon"
+                },
+                {
+                    "time": "89",
+                    "in": "Ahmed Nabeel",
+                    "out": "Sayed Mahdi"
+                }
+            ],
+            "away": [
+                {
+                    "time": "62",
+                    "in": "Jason Geria",
+                    "out": "Lewis Miller"
+                },
+                {
+                    "time": "62",
+                    "in": "Aiden Connor O'neill",
+                    "out": "Jackson Irvine"
+                },
+                {
+                    "time": "67",
+                    "in": "Jordan Bos",
+                    "out": "Aziz Behich"
+                },
+                {
+                    "time": "67",
+                    "in": "Ajdin Hrustic",
+                    "out": "Craig Goodwin"
+                },
+                {
+                    "time": "80",
+                    "in": "Brandon Borrello",
+                    "out": "Riley Mcgree"
+                }
+            ]
         },
         "statistics": []
     },
@@ -36622,36 +38028,154 @@
         "league_id": 1,
         "date": "2024-11-18",
         "time": "19:00",
-        "status": "",
+        "status": "Finished",
         "round": "6",
-        "referee": "",
-        "stadium": "",
+        "referee": "Rustam Lutfullin",
+        "stadium": "Estadio Gelora Bung Karno",
         "stage": "3rd Round",
         "hometeam_id": "11",
         "awayteam_id": "91",
-        "hometeam_score": "",
-        "awayteam_score": "",
+        "hometeam_score": "2",
+        "awayteam_score": "0",
         "hometeam_penalty_score": "",
         "awayteam_penalty_score": "",
         "lineups": {
             "hometeam": {
-                "system": "",
+                "system": "5-3-2",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Tae-yong Shin"
             },
             "awayteam": {
-                "system": "",
+                "system": "4-1-4-1",
                 "starting_players": [],
                 "substitutes": [],
-                "coach": ""
+                "coach": "Herve renard"
             }
         },
-        "goal_scorers": [],
-        "cards": [],
+        "goal_scorers": [
+            {
+                "time": "56",
+                "player": "Marselino Ferdinan",
+                "team": "home"
+            },
+            {
+                "time": "31",
+                "player": "Marselino Ferdinan",
+                "team": "home"
+            }
+        ],
+        "cards": [
+            {
+                "time": "88",
+                "card": "yellow card",
+                "player": "Ivar Jenner",
+                "team": "home"
+            },
+            {
+                "time": "86",
+                "card": "yellow card",
+                "player": "Nathan Tjoe-a-on",
+                "team": "home"
+            },
+            {
+                "time": "88",
+                "card": "red card",
+                "player": "Justin Hubner",
+                "team": "home"
+            },
+            {
+                "time": "23",
+                "card": "yellow card",
+                "player": "Justin Hubner",
+                "team": "home"
+            },
+            {
+                "time": "88",
+                "card": "yellow card",
+                "player": "Justin Hubner",
+                "team": "home"
+            },
+            {
+                "time": "90'+1",
+                "card": "yellow card",
+                "player": "Ragnar Oratmangun",
+                "team": "home"
+            },
+            {
+                "time": "45'+3",
+                "card": "yellow card",
+                "player": "Hassan Altambakti",
+                "team": "away"
+            },
+            {
+                "time": "90'+1",
+                "card": "yellow card",
+                "player": "Saud Abdulhamid",
+                "team": "away"
+            },
+            {
+                "time": "90'+1",
+                "card": "yellow card",
+                "player": "Abdullah radif",
+                "team": "away"
+            }
+        ],
         "substitutions": {
-            "home": [],
-            "away": []
+            "home": [
+                {
+                    "time": "67",
+                    "in": "Nathan Tjoe-a-on",
+                    "out": "Thom Haye"
+                },
+                {
+                    "time": "77",
+                    "in": "Yakob Sayuri",
+                    "out": "Sandy Walsh"
+                },
+                {
+                    "time": "77",
+                    "in": "Pratama Arhan",
+                    "out": "Marselino Ferdinan"
+                },
+                {
+                    "time": "90'+3",
+                    "in": "Muhammad Ferarri",
+                    "out": "Ragnar Oratmangun"
+                },
+                {
+                    "time": "90'+3",
+                    "in": "Shayne Pattynama",
+                    "out": "Rafael Struick"
+                }
+            ],
+            "away": [
+                {
+                    "time": "45",
+                    "in": "Abdullah Alhamddan",
+                    "out": "Mohammed Alqahtani"
+                },
+                {
+                    "time": "60",
+                    "in": "Musab Aljuwayr",
+                    "out": "Feras Albrikan"
+                },
+                {
+                    "time": "60",
+                    "in": "Abdullah radif",
+                    "out": "Nasser Aldawsari"
+                },
+                {
+                    "time": "66",
+                    "in": "Saleh Alshehri",
+                    "out": "Faisal Alghamdi"
+                },
+                {
+                    "time": "78",
+                    "in": "Sultan Alghannam",
+                    "out": "Yasser Alshahrani"
+                }
+            ]
         },
         "statistics": []
     },
